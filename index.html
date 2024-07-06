@@ -13483,7 +13483,7 @@ NavigationContainer [data-framer-component-type=NavigationContainer]>*,
     }
     const replayHeroVideo = () => {
         var animate = document.querySelector(".framer-1qikn9a");
-        var video = animate?.querySelector("video");
+        var video = animate?.querySelectorAll("video");
         console.log({ video });
         if (!video) return;
         var iteration = 0;
