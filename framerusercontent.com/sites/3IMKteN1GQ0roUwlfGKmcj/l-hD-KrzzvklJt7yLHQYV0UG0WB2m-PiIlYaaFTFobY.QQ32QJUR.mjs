@@ -5498,7 +5498,7 @@ var Nl = {
                                 children: e(c, {
                                     __fromCanvasComponent: !0,
                                     className: "framer-wih3gu",
-                                    "data-framer-name": "Remove distraction, prioritize what matters, and get it done in flow state.",
+                                    "data-framer-name": "World Class AI Sports Predictions, Authentic, Unmatched Accuracy You Can Trust",
                                     fonts: ["Inter"],
                                     layoutDependency: i,
                                     layoutId: "pIVNJ6HE8",
