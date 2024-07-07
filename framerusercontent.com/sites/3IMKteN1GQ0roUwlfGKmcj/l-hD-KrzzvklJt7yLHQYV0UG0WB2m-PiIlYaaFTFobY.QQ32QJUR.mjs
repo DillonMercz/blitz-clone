@@ -5528,7 +5528,7 @@ var Nl = {
                                                 style: {
                                                     backgroundImage: "linear-gradient(100deg, var(--token-948ff4cd-356f-425b-9ebb-c2f53a428975, rgb(133, 133, 133)) 0%, var(--token-948ff4cd-356f-425b-9ebb-c2f53a428975, rgb(133, 133, 133)) 100%)"
                                                 },
-                                                children: "Authentic,"
+                                                children: "Authentic"
                                             })
                                         })
                                     }),
