@@ -5497,19 +5497,6 @@ var Nl = {
                                 layoutId: "AoJN8i09T",
                                 children: e(c, {
                                     __fromCanvasComponent: !0,
-                                    children: e(m, {
-                                        children: e(t.p, {
-                                            className: "framer-styles-preset-79xs5y",
-                                            "data-styles-preset": "mnE06Hkn0",
-                                            children: e(t.span, {
-                                                "data-text-fill": "true",
-                                                style: {
-                                                    backgroundImage: "linear-gradient(100deg, var(--token-948ff4cd-356f-425b-9ebb-c2f53a428975, rgb(133, 133, 133)) 0%, var(--token-948ff4cd-356f-425b-9ebb-c2f53a428975, rgb(133, 133, 133))  100%)"
-                                                },
-                                                children: "Prioritize what matters,"
-                                            })
-                                        })
-                                    }),
                                     className: "framer-wih3gu",
                                     "data-framer-name": "Remove distraction, prioritize what matters, and get it done in flow state.",
                                     fonts: ["Inter"],
@@ -5536,7 +5523,7 @@ var Nl = {
                                                         style: {
                                                             backgroundImage: "linear-gradient(100deg, var(--token-9f3826c5-17f9-4323-8d5c-b246baa048b6, rgb(239, 130, 239)) 0%, var(--token-ae08cd7b-e514-494f-b381-7169722e1c76, rgb(181, 217, 130))  100%)"
                                                         },
-                                                        children: "Prioritize what matters,"
+                                                        children: "World Class AI Sports Predictions,"
                                                     })
                                                 })
                                             }),
@@ -5559,12 +5546,12 @@ var Nl = {
                                                 style: {
                                                     backgroundImage: "linear-gradient(100deg, var(--token-948ff4cd-356f-425b-9ebb-c2f53a428975, rgb(133, 133, 133)) 0%, var(--token-948ff4cd-356f-425b-9ebb-c2f53a428975, rgb(133, 133, 133)) 100%)"
                                                 },
-                                                children: "Remove distraction,"
+                                                children: "Authentic,"
                                             })
                                         })
                                     }),
                                     className: "framer-878mw7",
-                                    "data-framer-name": "Remove distraction, prioritize what matters, and get it done in flow state.",
+                                    "data-framer-name": "World Class AI Sports Predictions, Authentic, Unmatched Accuracy You Can Trust",
                                     fonts: ["Inter"],
                                     layoutDependency: i,
                                     layoutId: "THVfn2IAu",
@@ -5589,7 +5576,7 @@ var Nl = {
                                                         style: {
                                                             backgroundImage: "linear-gradient(100deg, var(--token-9f3826c5-17f9-4323-8d5c-b246baa048b6, rgb(239, 130, 239)) 0%, var(--token-ae08cd7b-e514-494f-b381-7169722e1c76, rgb(181, 217, 130)) 100%)"
                                                         },
-                                                        children: "Remove distraction,"
+                                                        children: "Authentic,"
                                                     })
                                                 })
                                             })
@@ -5611,12 +5598,12 @@ var Nl = {
                                                 style: {
                                                     backgroundImage: "linear-gradient(100deg, var(--token-948ff4cd-356f-425b-9ebb-c2f53a428975, rgb(133, 133, 133)) 0%, var(--token-948ff4cd-356f-425b-9ebb-c2f53a428975, rgb(133, 133, 133)) 100%)"
                                                 },
-                                                children: "and get it done"
+                                                children: "Unmatched Accuracy"
                                             })
                                         })
                                     }),
                                     className: "framer-61m7hi",
-                                    "data-framer-name": "Remove distraction, prioritize what matters, and get it done in flow state.",
+                                    "data-framer-name": "World Class AI Sports Predictions, Authentic, Unmatched Accuracy You Can Trust",
                                     fonts: ["Inter"],
                                     layoutDependency: i,
                                     layoutId: "Yr567u1yk",
@@ -5641,7 +5628,7 @@ var Nl = {
                                                         style: {
                                                             backgroundImage: "linear-gradient(100deg, var(--token-9f3826c5-17f9-4323-8d5c-b246baa048b6, rgb(239, 130, 239)) 0%, var(--token-ae08cd7b-e514-494f-b381-7169722e1c76, rgb(181, 217, 130)) 100%)"
                                                         },
-                                                        children: "and get it done"
+                                                        children: "Unmatched Accuracy"
                                                     })
                                                 })
                                             })
@@ -5663,12 +5650,12 @@ var Nl = {
                                                 style: {
                                                     backgroundImage: "linear-gradient(100deg, var(--token-948ff4cd-356f-425b-9ebb-c2f53a428975, rgb(133, 133, 133)) 0%, var(--token-948ff4cd-356f-425b-9ebb-c2f53a428975, rgb(133, 133, 133))  100%)"
                                                 },
-                                                children: "in flow state."
+                                                children: "You Can Trust"
                                             })
                                         })
                                     }),
                                     className: "framer-r54vjd",
-                                    "data-framer-name": "Remove distraction, prioritize what matters, and get it done in flow state.",
+                                    "data-framer-name": "World Class AI Sports Predictions, Authentic, Unmatched Accuracy You Can Trust.",
                                     fonts: ["Inter"],
                                     layoutDependency: i,
                                     layoutId: "LqtTIngWe",
@@ -5693,7 +5680,7 @@ var Nl = {
                                                         style: {
                                                             backgroundImage: "linear-gradient(100deg, var(--token-1f930c1e-da74-4cc3-a26f-f2d736ee97a4, rgb(85, 217, 198)) 0%, var(--token-ae08cd7b-e514-494f-b381-7169722e1c76, rgb(181, 217, 130)) 100%)"
                                                         },
-                                                        children: "in flow state."
+                                                        children: "You Can Trust"
                                                     })
                                                 })
                                             })
@@ -10954,11 +10941,11 @@ var Xc = {
                                         breakpoint: f,
                                         overrides: {
                                             VckBbvitz: {
-                                                rh31sgkBr: "Try it now",
+                                                rh31sgkBr: "Become an Overdog",
                                                 variant: "bTHDaXD71"
                                             },
                                             YmJbUgJlH: {
-                                                rh31sgkBr: "Try it now",
+                                                rh31sgkBr: "Become an Overdog",
                                                 variant: "mTq0DBqpx"
                                             }
                                         },
@@ -10972,7 +10959,7 @@ var Xc = {
                                             QyxQ_WhrL: u({
                                                 overlay: F
                                             }),
-                                            rh31sgkBr: "Try Blitzit now",
+                                            rh31sgkBr: "Become an Overdog",
                                             style: {
                                                 width: "100%"
                                             },
