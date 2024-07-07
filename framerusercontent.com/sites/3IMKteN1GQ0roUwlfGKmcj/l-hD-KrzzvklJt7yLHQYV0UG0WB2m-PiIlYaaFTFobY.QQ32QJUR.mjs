@@ -5512,24 +5512,6 @@ var Nl = {
                                     },
                                     verticalAlignment: "top",
                                     withExternalLayout: !0,
-                                    ...ra({
-                                        D9BYQUCZU: {
-                                            children: e(m, {
-                                                children: e(t.p, {
-                                                    className: "framer-styles-preset-79xs5y",
-                                                    "data-styles-preset": "mnE06Hkn0",
-                                                    children: e(t.span, {
-                                                        "data-text-fill": "true",
-                                                        style: {
-                                                            backgroundImage: "linear-gradient(100deg, var(--token-9f3826c5-17f9-4323-8d5c-b246baa048b6, rgb(239, 130, 239)) 0%, var(--token-ae08cd7b-e514-494f-b381-7169722e1c76, rgb(181, 217, 130))  100%)"
-                                                        },
-                                                        children: "World Class AI Sports Predictions,"
-                                                    })
-                                                })
-                                            }),
-                                            transformTemplate: El
-                                        }
-                                    }, f, v)
                                 })
                             }), e(t.div, {
                                 className: "framer-1br6izw",
