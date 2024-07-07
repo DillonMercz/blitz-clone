@@ -11092,7 +11092,7 @@ var Xc = {
                                                         style: {
                                                             "--framer-text-alignment": "left"
                                                         },
-                                                        children: ["Our AI Knows the Game Better Than Your Ex!"]
+                                                        children: ["AI So Smart, Even Your Ex is Jealous!"]
                                                     })
                                                 }),
                                                 initial: le("initial", "1pr5q1g", Pt, "ba39o")
@@ -11113,15 +11113,15 @@ var Xc = {
                                                     style: {
                                                         "--framer-text-alignment": "left"
                                                     },
-                                                    children: "Our AI Knows the Game Better Than Your Ex!"
+                                                    children: "AI So Smart, Even Your Ex is Jealous!"
                                                 })
                                             }),
                                             className: "framer-o7xogh",
                                             "data-framer-appear-id": "o7xogh",
-                                            "data-framer-name": "Our AI Knows the Game Better Than Your Ex!",
+                                            "data-framer-name": "AI So Smart, Even Your Ex is Jealous!",
                                             fonts: ["Inter"],
                                             initial: le("initial", "o7xogh", Pt, "1urlk82"),
-                                            name: "Our AI Knows the Game Better Than Your Ex!",
+                                            name: "AI So Smart, Even Your Ex is Jealous!",
                                             style: {
                                                 transformPerspective: 1200
                                             },
@@ -11129,37 +11129,20 @@ var Xc = {
                                             withExternalLayout: !0
                                         })
                                     }), s("div", {
-                                        className: "framer-dzv9en",
                                         children: [e(c, {
                                             __fromCanvasComponent: !0,
                                             className: "framer-159bxrj",
-                                            "data-framer-name": "Our AI Knows the Game Better Than Your Ex!",
+                                            "data-framer-name": "AI So Smart, Even Your Ex is Jealous!",
                                             fonts: ["Inter"],
-                                            name: "Our AI Knows the Game Better Than Your Ex!",
+                                            name: "AI So Smart, Even Your Ex is Jealous!",
                                             verticalAlignment: "top",
                                             withExternalLayout: !0
                                         }), e(c, {
                                             __fromCanvasComponent: !0,
-                                            children: e(m, {
-                                                children: e("h1", {
-                                                    className: "framer-styles-preset-o3e5h0",
-                                                    "data-styles-preset": "stylesPresetHeading1",
-                                                    style: {
-                                                        "--framer-text-alignment": "left"
-                                                    },
-                                                    children: e("span", {
-                                                        "data-text-fill": "true",
-                                                        style: {
-                                                            backgroundImage: "linear-gradient(100deg, var(--token-9f3826c5-17f9-4323-8d5c-b246baa048b6, rgb(239, 130, 239)) 0%, var(--token-ae08cd7b-e514-494f-b381-7169722e1c76, rgb(181, 217, 130)) 100%)"
-                                                        },
-                                                        children: ""
-                                                    })
-                                                })
-                                            }),
                                             className: "framer-kn664x",
-                                            "data-framer-name": "Our AI Knows the Game Better Than Your Ex!",
+                                            "data-framer-name": "AI So Smart, Even Your Ex is Jealous!",
                                             fonts: ["Inter"],
-                                            name: "Our AI Knows the Game Better Than Your Ex!",
+                                            name: "AI So Smart, Even Your Ex is Jealous!",
                                             verticalAlignment: "top",
                                             withExternalLayout: !0
                                         })]
