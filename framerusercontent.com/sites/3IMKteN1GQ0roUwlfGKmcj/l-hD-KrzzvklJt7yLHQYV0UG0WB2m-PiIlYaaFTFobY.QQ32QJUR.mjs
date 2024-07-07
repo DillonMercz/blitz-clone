@@ -11163,7 +11163,7 @@ var Xc = {
                                                     layoutId: "ayzqanM6o",
                                                     sOzIyPLya: !0,
                                                     SryOX3tzb: "var(--token-fd2a9202-3b01-4729-831f-86b0b036c94c, rgb(17, 17, 17))",
-                                                    Te0JNw7Ew: "Try Blitzit now",
+                                                    Te0JNw7Ew: "Start Winning",
                                                     variant: "cj93isu4N",
                                                     width: "100%"
                                                 }), e(dr, {
@@ -14877,7 +14877,7 @@ var Xc = {
                                                     layoutId: "ydfDCCPY4",
                                                     sOzIyPLya: !1,
                                                     SryOX3tzb: "var(--token-fd2a9202-3b01-4729-831f-86b0b036c94c, rgb(17, 17, 17))",
-                                                    Te0JNw7Ew: "Try Blitzit now",
+                                                    Te0JNw7Ew: "Start Winning",
                                                     variant: "cj93isu4N",
                                                     width: "100%"
                                                 }), e(dr, {
@@ -17897,7 +17897,7 @@ var Xc = {
                                                 layoutId: "IcyN5CHgA",
                                                 sOzIyPLya: !0,
                                                 SryOX3tzb: "var(--token-fd2a9202-3b01-4729-831f-86b0b036c94c, rgb(17, 17, 17))",
-                                                Te0JNw7Ew: "Try Blitzit now",
+                                                Te0JNw7Ew: "Start Winning",
                                                 variant: "cj93isu4N",
                                                 width: "100%"
                                             }), e(dr, {
