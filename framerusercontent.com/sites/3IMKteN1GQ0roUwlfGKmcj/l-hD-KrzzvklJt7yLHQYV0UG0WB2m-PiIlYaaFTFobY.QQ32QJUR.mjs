@@ -12551,8 +12551,8 @@ var Xc = {
                                         className: "framer-10aaxi3",
                                         children: [de() && s("div", {
                                             className: "framer-1aup7o9 hidden-1jnmc2o",
-                                            "data-framer-name": "Schedule Tasks",
-                                            name: "Schedule Tasks",
+                                            "data-framer-name": "Variety of Bets",
+                                            name: "Variety of Bets",
                                             children: [e(E, {
                                                 breakpoint: f,
                                                 overrides: {
@@ -12624,7 +12624,7 @@ var Xc = {
                                                 children: e(N, {
                                                     className: "framer-zsuecq-container",
                                                     children: e(ee, {
-                                                        G5_6KgrIr: "Schedule tasks",
+                                                        G5_6KgrIr: "Variety of Bets",
                                                         height: "100%",
                                                         id: "pQx3nyW6i",
                                                         layoutId: "pQx3nyW6i",
@@ -13670,14 +13670,14 @@ var Xc = {
                                         })]
                                     }), ne() && s("div", {
                                         className: "framer-1qx3l7a hidden-1urlk82 hidden-ba39o",
-                                        "data-framer-name": "Schedule Tasks",
-                                        name: "Schedule Tasks",
+                                        "data-framer-name": "Variety of Bets",
+                                        name: "Variety of Bets",
                                         children: [e(b, {
                                             width: "175px",
                                             children: e(N, {
                                                 className: "framer-1kmnd1c-container",
                                                 children: e(ee, {
-                                                    G5_6KgrIr: "Schedule tasks",
+                                                    G5_6KgrIr: "Variety of Bets",
                                                     height: "100%",
                                                     id: "B1M37l5t8",
                                                     layoutId: "B1M37l5t8",
