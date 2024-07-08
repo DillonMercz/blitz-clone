@@ -14,5 +14,5 @@ s.parentNode.insertBefore(t,s)}(window, document,'script',
 fbq('init', '1109664996709147');
 fbq('track', 'PageView');
 <\/script>
-<noscript></noscript>`,description:"We believe that the right tool can make you work in a flow state and feel fulfilling and fun. That is why we are building Blitzit.",favicon:"https://framerusercontent.com/images/hVlm992U00ugOFzHzwxoTbetfM.png",socialImage:"https://framerusercontent.com/images/JLev20IUf8FiK3M4QhyjWdQxp5Y.png",title:"Blitzit - Crush your tasks in flow state"}}export{e as a};
+<noscript></noscript>`,description:"We believe that the right tool can make you work in a flow state and feel fulfilling and fun. That is why we are building Blitzit.",favicon:"https://framerusercontent.com/images/hVlm992U00ugOFzHzwxoTbetfM.png",socialImage:"https://framerusercontent.com/images/JLev20IUf8FiK3M4QhyjWdQxp5Y.png",title:"Overdog - Transforming Sports Betting Using Real AI"}}export{e as a};
 //# sourceMappingURL=chunk-EVAMH3AX.mjs.map
