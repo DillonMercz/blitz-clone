@@ -11542,7 +11542,7 @@ var Xc = {
                                                     style: {
                                                         "--framer-text-alignment": "center"
                                                     },
-                                                    children: "and crush it"
+                                                    children: "and win!"
                                                 })
                                             }),
                                             className: "framer-1xwybu7",
@@ -11561,7 +11561,7 @@ var Xc = {
                                                 style: {
                                                     "--framer-text-alignment": "center"
                                                 },
-                                                children: "crush it"
+                                                children: "win!"
                                             })
                                         }),
                                         className: "framer-16xbaj1 hidden-1urlk82 hidden-1jnmc2o",
