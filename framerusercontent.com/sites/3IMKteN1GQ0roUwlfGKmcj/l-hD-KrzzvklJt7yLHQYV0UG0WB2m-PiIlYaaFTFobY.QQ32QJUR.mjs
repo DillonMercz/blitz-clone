@@ -11336,7 +11336,7 @@ var Xc = {
                                             style: {
                                                 "--framer-text-alignment": "center"
                                             },
-                                            children: "A simple to-do list & timer"
+                                            children: "Our platform aims to give you betting"
                                         })
                                     }),
                                     className: "framer-1fvm3tb",
