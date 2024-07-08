@@ -11370,22 +11370,7 @@ var Xc = {
                                             })
                                         }
                                     },
-                                    children: e(c, {
-                                        __fromCanvasComponent: !0,
-                                        children: e(m, {
-                                            children: e("h1", {
-                                                className: "framer-styles-preset-1j55voi",
-                                                "data-styles-preset": "kAW4TEulK",
-                                                children: "that gives you "
-                                            })
-                                        }),
-                                        className: "framer-94g7q",
-                                        "data-framer-name": "Our platform aims to give you betting superpowers",
-                                        fonts: ["Inter"],
-                                        name: "Our platform aims to give you betting superpowers",
-                                        verticalAlignment: "top",
-                                        withExternalLayout: !0
-                                    })
+
                                 }), e(c, {
                                     __fromCanvasComponent: !0,
                                     children: e(m, {
