@@ -11886,7 +11886,7 @@ var Xc = {
                                                         },
                                                         variant: "S3aSScL1o",
                                                         width: "100%",
-                                                        wwVYI0QI2: "Check lists that make you go ahhhh\u2026 Try it out below!"
+                                                        wwVYI0QI2: "Track your bankroll across the bets you place using our platform.\u2026 This will help you to make key decisions regarding the use of our platform."
                                                     })
                                                 })
                                             })]
