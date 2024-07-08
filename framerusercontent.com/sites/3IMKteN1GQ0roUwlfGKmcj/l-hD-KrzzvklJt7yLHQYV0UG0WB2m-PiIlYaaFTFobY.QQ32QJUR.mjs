@@ -11877,7 +11877,7 @@ var Xc = {
                                                 children: e(N, {
                                                     className: "framer-plf7bg-container",
                                                     children: e(ee, {
-                                                        G5_6KgrIr: "Satisfying checklists",
+                                                        G5_6KgrIr: "Track Your Growth",
                                                         height: "100%",
                                                         id: "eD3XTX8js",
                                                         layoutId: "eD3XTX8js",
@@ -12220,7 +12220,7 @@ var Xc = {
                                                         },
                                                         variant: "ODv0saqFa",
                                                         width: "100%",
-                                                        wwVYI0QI2: "Capitalize on pricing errors and odds differences across sportsbooks.."
+                                                        wwVYI0QI2: "Capitalize on pricing errors and odds differences across sportsbooks."
                                                     })
                                                 })
                                             }), e(b, {
