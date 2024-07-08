@@ -11608,7 +11608,7 @@ var Xc = {
                                                             },
                                                             variant: "S3aSScL1o",
                                                             width: "100%",
-                                                            wwVYI0QI2: "Estimate how long you might take for a task, track done time and overtime."
+                                                            wwVYI0QI2: "Almost all of our AI picks get vetted by our team of experts."
                                                         })
                                                     })
                                                 })
