@@ -14818,7 +14818,7 @@ var Xc = {
                                                 style: {
                                                     "--framer-text-alignment": "center"
                                                 },
-                                                children: "Download & install Blitzit to take it for a 7 day whirl. When your ready, you can purchase any of the plans below inside the app."
+                                                children: "We keep our prices low in order to offer exceptional value and flexibility."
                                             })
                                         }),
                                         className: "framer-gypdtw",
