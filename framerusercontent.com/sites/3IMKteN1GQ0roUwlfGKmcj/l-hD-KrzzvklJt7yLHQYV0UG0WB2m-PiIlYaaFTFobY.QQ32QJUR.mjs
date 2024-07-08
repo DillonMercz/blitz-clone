@@ -11599,7 +11599,7 @@ var Xc = {
                                                     children: e(N, {
                                                         className: "framer-151cbx3-container",
                                                         children: e(ee, {
-                                                            G5_6KgrIr: "Estimate and track task time",
+                                                            G5_6KgrIr: "Expert Certified Picks",
                                                             height: "100%",
                                                             id: "k_oJnKre0",
                                                             layoutId: "k_oJnKre0",
@@ -12070,7 +12070,7 @@ var Xc = {
                                                                 "--framer-text-color": "var(--token-600033ff-fcdd-4361-a34f-2d51d675bcd8, rgb(255, 255, 255))"
                                                             },
                                                             children: e("strong", {
-                                                                children: "Estimate and track your task time"
+                                                                children: "Expert Certified Picks"
                                                             })
                                                         })
                                                     }),
@@ -12293,7 +12293,7 @@ var Xc = {
                                                                 "--framer-text-color": "var(--token-600033ff-fcdd-4361-a34f-2d51d675bcd8, rgb(255, 255, 255))"
                                                             },
                                                             children: e("strong", {
-                                                                children: "Estimate and track your task time"
+                                                                children: "Expert Certified Picks"
                                                             })
                                                         })
                                                     }),
@@ -13597,7 +13597,7 @@ var Xc = {
                                                             "--framer-text-color": "var(--token-600033ff-fcdd-4361-a34f-2d51d675bcd8, rgb(255, 255, 255))"
                                                         },
                                                         children: e("strong", {
-                                                            children: "Estimate and track your task time"
+                                                            children: "Expert Certified Picks"
                                                         })
                                                     })
                                                 }),
