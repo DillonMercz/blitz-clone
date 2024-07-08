@@ -4962,7 +4962,7 @@ var gl = {
                                         id: "VtvTF2cSF",
                                         layoutId: "VtvTF2cSF",
                                         name: "Tab 1",
-                                        nNgN41cmk: "Step 1: Plan your week/day",
+                                        nNgN41cmk: "Intuitive Interface",
                                         variant: "S5YqSxmPx",
                                         width: "100%",
                                         ...tr({
@@ -5007,7 +5007,7 @@ var gl = {
                                         id: "EULbaT_bK",
                                         layoutId: "EULbaT_bK",
                                         name: "Tab 2",
-                                        nNgN41cmk: "Step 2: Go into Focus mode",
+                                        nNgN41cmk: "Variety of Sports and Bets",
                                         variant: "tIfBev_ID",
                                         width: "100%",
                                         ...tr({
@@ -5044,7 +5044,7 @@ var gl = {
                                         id: "Tr5aiLYki",
                                         layoutId: "Tr5aiLYki",
                                         name: "Tab 3",
-                                        nNgN41cmk: "Step 3: Get momentum",
+                                        nNgN41cmk: "Data Exploration Tools",
                                         variant: "tIfBev_ID",
                                         width: "100%",
                                         ...tr({
@@ -5081,7 +5081,7 @@ var gl = {
                                         id: "NohEU4yUW",
                                         layoutId: "NohEU4yUW",
                                         name: "Tab 4",
-                                        nNgN41cmk: "Step 4: Win the day & relax",
+                                        nNgN41cmk: "Sportsbook Connections and Autopilot Betting",
                                         variant: "tIfBev_ID",
                                         width: "100%",
                                         ...tr({
