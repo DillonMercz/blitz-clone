@@ -6860,9 +6860,9 @@ var lf = {
         var p, w, x, f;
         return {
             ...d,
-            G5_6KgrIr: (p = n ?? d.G5_6KgrIr) !== null && p !== void 0 ? p : "Estimate and track your task time",
+            G5_6KgrIr: (p = n ?? d.G5_6KgrIr) !== null && p !== void 0 ? p : "Expert Certified Picks",
             variant: (x = (w = df[d.variant]) !== null && w !== void 0 ? w : d.variant) !== null && x !== void 0 ? x : "S3aSScL1o",
-            wwVYI0QI2: (f = r ?? d.wwVYI0QI2) !== null && f !== void 0 ? f : "Estimate how long you might take for task, track done time and overtime."
+            wwVYI0QI2: (f = r ?? d.wwVYI0QI2) !== null && f !== void 0 ? f : "Almost all of our AI picks get vetted by our team of experts."
         }
     },
     hf = (r, a) => a.join("-") + r.layoutDependency,
@@ -6938,7 +6938,7 @@ var lf = {
                                         "--framer-text-color": "var(--extracted-1of0zx5, var(--token-600033ff-fcdd-4361-a34f-2d51d675bcd8, rgb(255, 255, 255)))"
                                     },
                                     children: e(t.strong, {
-                                        children: "Estimate and track your task time"
+                                        children: "Expert Certified Picks"
                                     })
                                 })
                             }),
@@ -6967,7 +6967,7 @@ var lf = {
                                                 "--framer-text-color": "var(--extracted-1of0zx5, var(--token-fd2a9202-3b01-4729-831f-86b0b036c94c, rgb(17, 17, 17)))"
                                             },
                                             children: e(t.strong, {
-                                                children: "Estimate and track your task time"
+                                                children: "Expert Certified Picks"
                                             })
                                         })
                                     })
@@ -6982,7 +6982,7 @@ var lf = {
                                     style: {
                                         "--framer-text-color": "var(--extracted-r6o4lv, var(--token-948ff4cd-356f-425b-9ebb-c2f53a428975, rgb(133, 133, 133)))"
                                     },
-                                    children: "Estimate how long you might take for task, track done time and overtime."
+                                    children: "Almost all of our AI picks get vetted by our team of experts."
                                 })
                             }),
                             className: "framer-1d3z2dt",
@@ -7009,7 +7009,7 @@ var lf = {
                                             style: {
                                                 "--framer-text-color": "var(--extracted-r6o4lv, var(--token-cc29820f-fa09-4a71-9cea-275bb432a9af, rgb(54, 54, 54)))"
                                             },
-                                            children: "Estimate how long you might take for task, track done time and overtime."
+                                            children: "Almost all of our AI picks get vetted by our team of experts."
                                         })
                                     })
                                 }
@@ -7036,13 +7036,13 @@ H(ia, {
         type: y.Enum
     },
     G5_6KgrIr: {
-        defaultValue: "Estimate and track your task time",
+        defaultValue: "Expert Certified Picks",
         displayTextArea: !1,
         title: "Title",
         type: y.String
     },
     wwVYI0QI2: {
-        defaultValue: "Estimate how long you might take for task, track done time and overtime.",
+        defaultValue: "Almost all of our AI picks get vetted by our team of experts.",
         displayTextArea: !0,
         title: "Description",
         type: y.String
