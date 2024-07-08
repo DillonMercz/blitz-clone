@@ -11403,7 +11403,7 @@ var Xc = {
                                     style: {
                                         "--framer-text-alignment": "center"
                                     },
-                                    children: "So how does it work?"
+                                    children: "Does it work?"
                                 })
                             }),
                             className: "framer-1d0ix5z",
