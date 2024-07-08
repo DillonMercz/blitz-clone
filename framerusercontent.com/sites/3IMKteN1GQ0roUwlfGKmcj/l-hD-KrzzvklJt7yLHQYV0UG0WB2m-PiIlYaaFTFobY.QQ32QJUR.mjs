@@ -11974,14 +11974,14 @@ var Xc = {
                                             })]
                                         }), S() && s("div", {
                                             className: "framer-1a1ztdm hidden-1urlk82 hidden-1jnmc2o",
-                                            "data-framer-name": "Create Lists",
-                                            name: "Create Lists",
+                                            "data-framer-name": "Sportsbook Arbitrage",
+                                            name: "Sportsbook Arbitrage",
                                             children: [e(b, {
                                                 width: "253px",
                                                 children: e(N, {
                                                     className: "framer-11udf2j-container",
                                                     children: e(ee, {
-                                                        G5_6KgrIr: "Create lists",
+                                                        G5_6KgrIr: "Sportsbook Arbitrage",
                                                         height: "100%",
                                                         id: "sPnXU1XcY",
                                                         layoutId: "sPnXU1XcY",
@@ -11990,7 +11990,7 @@ var Xc = {
                                                         },
                                                         variant: "ODv0saqFa",
                                                         width: "100%",
-                                                        wwVYI0QI2: "Centralize and organize your tasks into lists for different purposes"
+                                                        wwVYI0QI2: "Capitalize on pricing errors and odds differences across sportsbooks."
                                                     })
                                                 })
                                             }), e(E, {
@@ -12204,14 +12204,14 @@ var Xc = {
                                             })]
                                         }), de() && s("div", {
                                             className: "framer-308xay hidden-1jnmc2o",
-                                            "data-framer-name": "Create Lists",
-                                            name: "Create Lists",
+                                            "data-framer-name": "Sportsbook Arbitrage",
+                                            name: "Sportsbook Arbitrage",
                                             children: [e(b, {
                                                 width: "294px",
                                                 children: e(N, {
                                                     className: "framer-17izln2-container",
                                                     children: e(ee, {
-                                                        G5_6KgrIr: "Create lists",
+                                                        G5_6KgrIr: "Sportsbook Arbitrage",
                                                         height: "100%",
                                                         id: "DglAppAy8",
                                                         layoutId: "DglAppAy8",
@@ -12220,7 +12220,7 @@ var Xc = {
                                                         },
                                                         variant: "ODv0saqFa",
                                                         width: "100%",
-                                                        wwVYI0QI2: "Centralize and organize your tasks into lists for different purposes."
+                                                        wwVYI0QI2: "Capitalize on pricing errors and odds differences across sportsbooks.."
                                                     })
                                                 })
                                             }), e(b, {
@@ -13500,14 +13500,14 @@ var Xc = {
                                         })]
                                     }), ne() && s("div", {
                                         className: "framer-tvk6ug hidden-1urlk82 hidden-ba39o",
-                                        "data-framer-name": "Create Lists",
-                                        name: "Create Lists",
+                                        "data-framer-name": "Sportsbook Arbitrage",
+                                        name: "Sportsbook Arbitrage",
                                         children: [e(b, {
                                             width: "193px",
                                             children: e(N, {
                                                 className: "framer-1uw799a-container",
                                                 children: e(ee, {
-                                                    G5_6KgrIr: "Create lists",
+                                                    G5_6KgrIr: "Sportsbook Arbitrage",
                                                     height: "100%",
                                                     id: "kUR5vTwra",
                                                     layoutId: "kUR5vTwra",
@@ -13516,7 +13516,7 @@ var Xc = {
                                                     },
                                                     variant: "ODv0saqFa",
                                                     width: "100%",
-                                                    wwVYI0QI2: "Centralize and organize your tasks into lists for different purposes"
+                                                    wwVYI0QI2: "Capitalize on pricing errors and odds differences across sportsbooks."
                                                 })
                                             })
                                         }), e(E, {
