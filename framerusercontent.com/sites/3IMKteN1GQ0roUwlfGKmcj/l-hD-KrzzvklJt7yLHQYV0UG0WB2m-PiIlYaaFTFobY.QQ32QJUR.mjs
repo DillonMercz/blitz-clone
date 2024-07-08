@@ -8028,7 +8028,7 @@ var Zf = {
                                     children: e(t.p, {
                                         className: "framer-styles-preset-7pbme6",
                                         "data-styles-preset": "QHyMqubam",
-                                        children: "Pomodoros"
+                                        children: "Free Money"
                                     })
                                 }),
                                 className: "framer-apiu8l",
@@ -8328,7 +8328,7 @@ var Zf = {
     $f = ["@supports (aspect-ratio: 1) { body { --framer-aspect-ratio-supported: auto; } }", ".framer-wAxEC.framer-1kdg9zk, .framer-wAxEC .framer-1kdg9zk { display: block; }", ".framer-wAxEC.framer-7evvgj { align-content: flex-end; align-items: flex-end; display: flex; flex-direction: column; flex-wrap: nowrap; gap: 16px; height: min-content; justify-content: flex-end; overflow: visible; padding: 0px; position: relative; width: 232px; }", ".framer-wAxEC .framer-kc6rs4 { align-content: center; align-items: center; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; gap: 8px; height: min-content; justify-content: flex-start; overflow: visible; padding: 0px; position: relative; width: 100%; }", ".framer-wAxEC .framer-apiu8l, .framer-wAxEC .framer-1o3b2pp, .framer-wAxEC .framer-x7nbzz, .framer-wAxEC .framer-1cntept, .framer-wAxEC .framer-1e1255u { flex: 1 0 0px; height: auto; position: relative; white-space: pre-wrap; width: 1px; word-break: break-word; word-wrap: break-word; }", ".framer-wAxEC .framer-1tw1tb4 { flex: none; height: 16px; overflow: hidden; position: relative; width: 28px; }", ".framer-wAxEC .framer-z6n7su { flex: none; height: 16px; left: 0px; position: absolute; top: 0px; width: 28px; }", ".framer-wAxEC .framer-12v1sg5 { aspect-ratio: 1 / 1; flex: none; height: var(--framer-aspect-ratio-supported, 8px); left: 4px; position: absolute; top: 50%; width: 8px; }", ".framer-wAxEC .framer-pptjvs { bottom: 0px; flex: none; left: 1px; overflow: hidden; position: absolute; top: 22px; width: 1px; z-index: 1; }", ".framer-wAxEC .framer-ukh3q3, .framer-wAxEC .framer-1wa942u { align-content: center; align-items: center; bottom: -82px; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; gap: 8px; height: min-content; justify-content: flex-start; left: 0px; overflow: visible; padding: 0px 0px 0px 12px; position: absolute; width: 232px; z-index: 1; }", ".framer-wAxEC .framer-3y8jje { align-content: flex-start; align-items: flex-start; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 10px; height: min-content; justify-content: flex-start; overflow: visible; padding: 0px; position: relative; width: 132px; }", ".framer-wAxEC .framer-1i397z4, .framer-wAxEC .framer-pa876c { align-content: center; align-items: center; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; gap: 4px; height: min-content; justify-content: flex-start; overflow: visible; padding: 8px 12px 8px 12px; position: relative; width: 132px; }", ".framer-wAxEC .framer-7td416, .framer-wAxEC .framer-1ljn170 { flex: none; height: auto; position: relative; white-space: pre; width: auto; }", ".framer-wAxEC .framer-o4900v, .framer-wAxEC .framer-1i8ibrf { flex: none; height: 6px; position: relative; width: 11px; }", "@supports (background: -webkit-named-image(i)) and (not (font-palette:dark)) { .framer-wAxEC.framer-7evvgj, .framer-wAxEC .framer-kc6rs4, .framer-wAxEC .framer-ukh3q3, .framer-wAxEC .framer-3y8jje, .framer-wAxEC .framer-1i397z4, .framer-wAxEC .framer-1wa942u, .framer-wAxEC .framer-pa876c { gap: 0px; } .framer-wAxEC.framer-7evvgj > * { margin: 0px; margin-bottom: calc(16px / 2); margin-top: calc(16px / 2); } .framer-wAxEC.framer-7evvgj > :first-child, .framer-wAxEC .framer-3y8jje > :first-child { margin-top: 0px; } .framer-wAxEC.framer-7evvgj > :last-child, .framer-wAxEC .framer-3y8jje > :last-child { margin-bottom: 0px; } .framer-wAxEC .framer-kc6rs4 > *, .framer-wAxEC .framer-ukh3q3 > *, .framer-wAxEC .framer-1wa942u > * { margin: 0px; margin-left: calc(8px / 2); margin-right: calc(8px / 2); } .framer-wAxEC .framer-kc6rs4 > :first-child, .framer-wAxEC .framer-ukh3q3 > :first-child, .framer-wAxEC .framer-1i397z4 > :first-child, .framer-wAxEC .framer-1wa942u > :first-child, .framer-wAxEC .framer-pa876c > :first-child { margin-left: 0px; } .framer-wAxEC .framer-kc6rs4 > :last-child, .framer-wAxEC .framer-ukh3q3 > :last-child, .framer-wAxEC .framer-1i397z4 > :last-child, .framer-wAxEC .framer-1wa942u > :last-child, .framer-wAxEC .framer-pa876c > :last-child { margin-right: 0px; } .framer-wAxEC .framer-3y8jje > * { margin: 0px; margin-bottom: calc(10px / 2); margin-top: calc(10px / 2); } .framer-wAxEC .framer-1i397z4 > *, .framer-wAxEC .framer-pa876c > * { margin: 0px; margin-left: calc(4px / 2); margin-right: calc(4px / 2); } }", ".framer-wAxEC.framer-v-1tzojpb .framer-12v1sg5 { aspect-ratio: unset; bottom: 4px; height: unset; left: unset; right: 4px; top: 4px; }", ".framer-wAxEC.framer-v-1tzojpb .framer-ukh3q3, .framer-wAxEC.framer-v-1tzojpb .framer-1wa942u { bottom: unset; left: unset; position: relative; }", ...Ue],
     ma = X(Kf, $f, "framer-wAxEC"),
     Tt = ma;
-ma.displayName = "Blitzit UI/Pomodoros";
+ma.displayName = "Blitzit UI/Free Money";
 ma.defaultProps = {
     height: 25,
     width: 231
@@ -11959,7 +11959,7 @@ var Xc = {
                                                 children: e(N, {
                                                     className: "framer-1ppx2vw-container",
                                                     children: e(ee, {
-                                                        G5_6KgrIr: "Pomodoros",
+                                                        G5_6KgrIr: "Free Money",
                                                         height: "100%",
                                                         id: "KRJllsNqd",
                                                         layoutId: "KRJllsNqd",
@@ -12189,7 +12189,7 @@ var Xc = {
                                                 children: e(N, {
                                                     className: "framer-1fbkqtx-container",
                                                     children: e(ee, {
-                                                        G5_6KgrIr: "Pomodoros",
+                                                        G5_6KgrIr: "Free Money",
                                                         height: "100%",
                                                         id: "bBWwdPsf8",
                                                         layoutId: "bBWwdPsf8",
@@ -12198,7 +12198,7 @@ var Xc = {
                                                         },
                                                         variant: "S3aSScL1o",
                                                         width: "100%",
-                                                        wwVYI0QI2: "Technique to work in fixed intervals & breaks."
+                                                        wwVYI0QI2: "Sign up for sportsbooks using our codes to get free cash and offers."
                                                     })
                                                 })
                                             })]
