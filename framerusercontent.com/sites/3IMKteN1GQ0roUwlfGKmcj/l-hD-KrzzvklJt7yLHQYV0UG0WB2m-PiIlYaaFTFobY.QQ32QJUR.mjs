@@ -11340,9 +11340,9 @@ var Xc = {
                                         })
                                     }),
                                     className: "framer-1fvm3tb",
-                                    "data-framer-name": "A simple to-do list & timer that gives you superpowers",
+                                    "data-framer-name": "Our platform aims to give you betting superpowers",
                                     fonts: ["Inter"],
-                                    name: "A simple to-do list & timer that gives you superpowers",
+                                    name: "Our platform aims to give you betting superpowers",
                                     verticalAlignment: "top",
                                     withExternalLayout: !0
                                 })
@@ -11380,9 +11380,9 @@ var Xc = {
                                             })
                                         }),
                                         className: "framer-94g7q",
-                                        "data-framer-name": "A simple to-do list & timer that gives you superpowers",
+                                        "data-framer-name": "Our platform aims to give you betting superpowers",
                                         fonts: ["Inter"],
-                                        name: "A simple to-do list & timer that gives you superpowers",
+                                        name: "Our platform aims to give you betting superpowers",
                                         verticalAlignment: "top",
                                         withExternalLayout: !0
                                     })
@@ -11402,9 +11402,9 @@ var Xc = {
                                         })
                                     }),
                                     className: "framer-1pz9ixl",
-                                    "data-framer-name": "A simple to-do list & timer that gives you superpowers",
+                                    "data-framer-name": "Our platform aims to give you betting superpowers",
                                     fonts: ["Inter"],
-                                    name: "A simple to-do list & timer that gives you superpowers",
+                                    name: "Our platform aims to give you betting superpowers",
                                     verticalAlignment: "top",
                                     withExternalLayout: !0
                                 })]
@@ -11501,9 +11501,9 @@ var Xc = {
                                         })
                                     }),
                                     className: "framer-1ddadgl",
-                                    "data-framer-name": "A simple to-do list & timer that gives you superpowers",
+                                    "data-framer-name": "Our platform aims to give you betting superpowers",
                                     fonts: ["Inter"],
-                                    name: "A simple to-do list & timer that gives you superpowers",
+                                    name: "Our platform aims to give you betting superpowers",
                                     verticalAlignment: "top",
                                     withExternalLayout: !0
                                 }), s("div", {
@@ -11527,9 +11527,9 @@ var Xc = {
                                             })
                                         }),
                                         className: "framer-km7qmf",
-                                        "data-framer-name": "A simple to-do list & timer that gives you superpowers",
+                                        "data-framer-name": "Our platform aims to give you betting superpowers",
                                         fonts: ["Inter"],
-                                        name: "A simple to-do list & timer that gives you superpowers",
+                                        name: "Our platform aims to give you betting superpowers",
                                         verticalAlignment: "top",
                                         withExternalLayout: !0
                                     }), e(E, {
@@ -11561,9 +11561,9 @@ var Xc = {
                                                 })
                                             }),
                                             className: "framer-1xwybu7",
-                                            "data-framer-name": "A simple to-do list & timer that gives you superpowers",
+                                            "data-framer-name": "Our platform aims to give you betting superpowers",
                                             fonts: ["Inter"],
-                                            name: "A simple to-do list & timer that gives you superpowers",
+                                            name: "Our platform aims to give you betting superpowers",
                                             verticalAlignment: "top",
                                             withExternalLayout: !0
                                         })
@@ -11580,9 +11580,9 @@ var Xc = {
                                             })
                                         }),
                                         className: "framer-16xbaj1 hidden-1urlk82 hidden-1jnmc2o",
-                                        "data-framer-name": "A simple to-do list & timer that gives you superpowers",
+                                        "data-framer-name": "Our platform aims to give you betting superpowers",
                                         fonts: ["Inter"],
-                                        name: "A simple to-do list & timer that gives you superpowers",
+                                        name: "Our platform aims to give you betting superpowers",
                                         verticalAlignment: "top",
                                         withExternalLayout: !0
                                     })]
@@ -13908,9 +13908,9 @@ var Xc = {
                                             })
                                         }),
                                         className: "framer-1yfwq2z",
-                                        "data-framer-name": "A simple to-do list & timer that gives you superpowers",
+                                        "data-framer-name": "Our platform aims to give you betting superpowers",
                                         fonts: ["Inter"],
-                                        name: "A simple to-do list & timer that gives you superpowers",
+                                        name: "Our platform aims to give you betting superpowers",
                                         verticalAlignment: "top",
                                         withExternalLayout: !0
                                     })
@@ -13932,9 +13932,9 @@ var Xc = {
                                             })
                                         }),
                                         className: "framer-1k74gjo",
-                                        "data-framer-name": "A simple to-do list & timer that gives you superpowers",
+                                        "data-framer-name": "Our platform aims to give you betting superpowers",
                                         fonts: ["Inter"],
-                                        name: "A simple to-do list & timer that gives you superpowers",
+                                        name: "Our platform aims to give you betting superpowers",
                                         verticalAlignment: "top",
                                         withExternalLayout: !0
                                     }), e(c, {
@@ -13947,9 +13947,9 @@ var Xc = {
                                             })
                                         }),
                                         className: "framer-1dmpmjm",
-                                        "data-framer-name": "A simple to-do list & timer that gives you superpowers",
+                                        "data-framer-name": "Our platform aims to give you betting superpowers",
                                         fonts: ["Inter"],
-                                        name: "A simple to-do list & timer that gives you superpowers",
+                                        name: "Our platform aims to give you betting superpowers",
                                         verticalAlignment: "top",
                                         withExternalLayout: !0
                                     }), me() && e(c, {
@@ -13965,9 +13965,9 @@ var Xc = {
                                             })
                                         }),
                                         className: "framer-22jf5z hidden-1urlk82",
-                                        "data-framer-name": "A simple to-do list & timer that gives you superpowers",
+                                        "data-framer-name": "Our platform aims to give you betting superpowers",
                                         fonts: ["Inter"],
-                                        name: "A simple to-do list & timer that gives you superpowers",
+                                        name: "Our platform aims to give you betting superpowers",
                                         verticalAlignment: "top",
                                         withExternalLayout: !0
                                     })]
@@ -14797,9 +14797,9 @@ var Xc = {
                                                 })
                                             }),
                                             className: "framer-3dml5f",
-                                            "data-framer-name": "A simple to-do list & timer that gives you superpowers",
+                                            "data-framer-name": "Our platform aims to give you betting superpowers",
                                             fonts: ["Inter"],
-                                            name: "A simple to-do list & timer that gives you superpowers",
+                                            name: "Our platform aims to give you betting superpowers",
                                             verticalAlignment: "top",
                                             withExternalLayout: !0
                                         })
@@ -14816,9 +14816,9 @@ var Xc = {
                                             })
                                         }),
                                         className: "framer-jl5bju",
-                                        "data-framer-name": "A simple to-do list & timer that gives you superpowers",
+                                        "data-framer-name": "Our platform aims to give you betting superpowers",
                                         fonts: ["Inter"],
-                                        name: "A simple to-do list & timer that gives you superpowers",
+                                        name: "Our platform aims to give you betting superpowers",
                                         verticalAlignment: "top",
                                         withExternalLayout: !0
                                     })]
@@ -15781,9 +15781,9 @@ var Xc = {
                                             })
                                         }),
                                         className: "framer-1j44xo1",
-                                        "data-framer-name": "A simple to-do list & timer that gives you superpowers",
+                                        "data-framer-name": "Our platform aims to give you betting superpowers",
                                         fonts: ["Inter"],
-                                        name: "A simple to-do list & timer that gives you superpowers",
+                                        name: "Our platform aims to give you betting superpowers",
                                         verticalAlignment: "top",
                                         withExternalLayout: !0
                                     }), s("div", {
@@ -15801,9 +15801,9 @@ var Xc = {
                                                 })
                                             }),
                                             className: "framer-1cv3m4r hidden-1urlk82 hidden-1jnmc2o",
-                                            "data-framer-name": "A simple to-do list & timer that gives you superpowers",
+                                            "data-framer-name": "Our platform aims to give you betting superpowers",
                                             fonts: ["Inter"],
-                                            name: "A simple to-do list & timer that gives you superpowers",
+                                            name: "Our platform aims to give you betting superpowers",
                                             verticalAlignment: "top",
                                             withExternalLayout: !0
                                         }), e(c, {
@@ -15822,9 +15822,9 @@ var Xc = {
                                                 })
                                             }),
                                             className: "framer-a516e0",
-                                            "data-framer-name": "A simple to-do list & timer that gives you superpowers",
+                                            "data-framer-name": "Our platform aims to give you betting superpowers",
                                             fonts: ["Inter"],
-                                            name: "A simple to-do list & timer that gives you superpowers",
+                                            name: "Our platform aims to give you betting superpowers",
                                             verticalAlignment: "top",
                                             withExternalLayout: !0
                                         })]
@@ -17767,9 +17767,9 @@ var Xc = {
                                         })
                                     }),
                                     className: "framer-19ypa0b",
-                                    "data-framer-name": "A simple to-do list & timer that gives you superpowers",
+                                    "data-framer-name": "Our platform aims to give you betting superpowers",
                                     fonts: ["Inter"],
-                                    name: "A simple to-do list & timer that gives you superpowers",
+                                    name: "Our platform aims to give you betting superpowers",
                                     verticalAlignment: "top",
                                     withExternalLayout: !0
                                 }), e(E, {
@@ -17801,9 +17801,9 @@ var Xc = {
                                             })
                                         }),
                                         className: "framer-6p7khr",
-                                        "data-framer-name": "A simple to-do list & timer that gives you superpowers",
+                                        "data-framer-name": "Our platform aims to give you betting superpowers",
                                         fonts: ["Inter"],
-                                        name: "A simple to-do list & timer that gives you superpowers",
+                                        name: "Our platform aims to give you betting superpowers",
                                         verticalAlignment: "top",
                                         withExternalLayout: !0
                                     })
@@ -17832,9 +17832,9 @@ var Xc = {
                                                 })
                                             }),
                                             className: "framer-yehwgd",
-                                            "data-framer-name": "A simple to-do list & timer that gives you superpowers",
+                                            "data-framer-name": "Our platform aims to give you betting superpowers",
                                             fonts: ["Inter"],
-                                            name: "A simple to-do list & timer that gives you superpowers",
+                                            name: "Our platform aims to give you betting superpowers",
                                             verticalAlignment: "top",
                                             withExternalLayout: !0
                                         })
@@ -17854,9 +17854,9 @@ var Xc = {
                                             })
                                         }),
                                         className: "framer-1ywjeci",
-                                        "data-framer-name": "A simple to-do list & timer that gives you superpowers",
+                                        "data-framer-name": "Our platform aims to give you betting superpowers",
                                         fonts: ["Inter"],
-                                        name: "A simple to-do list & timer that gives you superpowers",
+                                        name: "Our platform aims to give you betting superpowers",
                                         verticalAlignment: "top",
                                         withExternalLayout: !0
                                     })]
