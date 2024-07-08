@@ -3909,7 +3909,7 @@ var _m = {
         var p, w, x, f;
         return {
             ...d,
-            muVLNTzbY: (p = r ?? d.muVLNTzbY) !== null && p !== void 0 ? p : "30% off code: EARLYBLITZER",
+            muVLNTzbY: (p = r ?? d.muVLNTzbY) !== null && p !== void 0 ? p : "70% off code: SPORTSPROPHET",
             uXg927OUO: (w = n ?? d.uXg927OUO) !== null && w !== void 0 ? w : "Limited Discount \u23F3",
             variant: (f = (x = Um[d.variant]) !== null && x !== void 0 ? x : d.variant) !== null && f !== void 0 ? f : "LgBwCPeaz"
         }
@@ -4044,7 +4044,7 @@ var _m = {
                                                     style: {
                                                         backgroundImage: "linear-gradient(90deg, var(--token-9f3826c5-17f9-4323-8d5c-b246baa048b6, rgb(239, 130, 239)) 0%, var(--token-91038799-5cee-436f-b21c-b1ec211224d2, rgb(111, 152, 232)) 100%)"
                                                     },
-                                                    children: "30% off code: EARLYBLITZER"
+                                                    children: "70% off code: SPORTSPROPHET"
                                                 })
                                             })
                                         }),
@@ -4140,7 +4140,7 @@ H(Jr, {
         type: y.String
     },
     muVLNTzbY: {
-        defaultValue: "30% off code: EARLYBLITZER",
+        defaultValue: "70% off code: SPORTSPROPHET",
         displayTextArea: !1,
         title: "Code",
         type: y.String
@@ -10850,14 +10850,14 @@ var Xc = {
                                         breakpoint: f,
                                         overrides: {
                                             VckBbvitz: {
-                                                muVLNTzbY: "30% off: EARLYBLITZER"
+                                                muVLNTzbY: "70% off: SPORTSPROPHET"
                                             }
                                         },
                                         children: e(It, {
                                             height: "100%",
                                             id: "sO8IVAuKo",
                                             layoutId: "sO8IVAuKo",
-                                            muVLNTzbY: "30% off code: EARLYBLITZER",
+                                            muVLNTzbY: "70% off code: SPORTSPROPHET",
                                             style: {
                                                 width: "100%"
                                             },
@@ -15465,7 +15465,7 @@ var Xc = {
                                                                                     style: {
                                                                                         backgroundImage: "linear-gradient(90deg, var(--token-9f3826c5-17f9-4323-8d5c-b246baa048b6, rgb(239, 130, 239)) 0%, var(--token-91038799-5cee-436f-b21c-b1ec211224d2, rgb(111, 152, 232)) 100%)"
                                                                                     },
-                                                                                    children: "30% off: EARLYBLITZER"
+                                                                                    children: "70% off: SPORTSPROPHET"
                                                                                 })
                                                                             })
                                                                         }),
