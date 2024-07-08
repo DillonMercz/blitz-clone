@@ -12633,7 +12633,7 @@ var Xc = {
                                                         },
                                                         variant: "ODv0saqFa",
                                                         width: "100%",
-                                                        wwVYI0QI2: "Schedule one-time or recurring tasks exactly when you want."
+                                                        wwVYI0QI2: "Moneylines, Total Scores, Player Props, and so much more. "
                                                     })
                                                 })
                                             }), e(E, {
