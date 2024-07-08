@@ -11403,7 +11403,7 @@ var Xc = {
                                     style: {
                                         "--framer-text-alignment": "center"
                                     },
-                                    children: "Backed by years of data, and the best Sports Predicting AI models in the world, custom built by our exceptional team of AI engineers and data scientists."
+                                    children: "Backed by years of data, and the best Sports Predicting AI models in the world, custom built by our exceptional team of AI engineers and data scientists, we achieve above 75% accuracy consistently."
                                 })
                             }),
                             className: "framer-1d0ix5z",
