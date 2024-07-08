@@ -14797,7 +14797,7 @@ var Xc = {
                                                 style: {
                                                     "--framer-text-alignment": "center"
                                                 },
-                                                children: "try for free"
+                                                children: "endless opportunities"
                                             })
                                         }),
                                         className: "framer-jl5bju",
