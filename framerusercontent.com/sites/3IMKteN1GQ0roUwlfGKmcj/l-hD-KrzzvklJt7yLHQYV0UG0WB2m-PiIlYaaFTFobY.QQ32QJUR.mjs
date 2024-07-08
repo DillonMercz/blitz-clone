@@ -1460,7 +1460,7 @@ var Oo = {
                                 withExternalLayout: !0
                             }), be() && e(t.div, {
                                 className: "framer-1yphrf7",
-                                "data-framer-name": "Notes",
+                                "data-framer-name": "Community",
                                 layoutDependency: g,
                                 layoutId: "nWmsAB7EF",
                                 children: e(I, {
@@ -1774,7 +1774,7 @@ var Oo = {
                             })]
                         }), ke() && s(t.div, {
                             className: "framer-lhcd6k",
-                            "data-framer-name": "Notes",
+                            "data-framer-name": "Community",
                             layoutDependency: g,
                             layoutId: "fm1WSYdfV",
                             style: {
@@ -1907,7 +1907,7 @@ var Oo = {
                                     })]
                                 }),
                                 className: "framer-30fg3k",
-                                "data-framer-name": "Enter your notes",
+                                "data-framer-name": "Enter your Community",
                                 fonts: ["Inter"],
                                 layoutDependency: g,
                                 layoutId: "I1340:56290;648:52169",
@@ -2020,7 +2020,7 @@ var Oo = {
     Yo = ["@supports (aspect-ratio: 1) { body { --framer-aspect-ratio-supported: auto; } }", ".framer-hhHXT.framer-12kwqyl, .framer-hhHXT .framer-12kwqyl { display: block; }", ".framer-hhHXT.framer-11ueuao { align-content: center; align-items: center; display: flex; flex-direction: column; flex-wrap: nowrap; gap: 7px; height: min-content; justify-content: flex-start; overflow: visible; padding: 12px; position: relative; width: 324px; }", ".framer-hhHXT .framer-18sjng3 { align-content: center; align-items: center; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; gap: 16px; height: 24px; justify-content: flex-start; overflow: visible; padding: 0px; position: relative; width: 100%; }", ".framer-hhHXT .framer-9be0x0 { flex: 1 0 0px; height: auto; position: relative; white-space: pre-wrap; width: 1px; word-break: break-word; word-wrap: break-word; }", ".framer-hhHXT .framer-1yphrf7 { aspect-ratio: 1 / 1; flex: none; height: var(--framer-aspect-ratio-supported, 16px); overflow: hidden; position: relative; width: 16px; }", ".framer-hhHXT .framer-lu483j { flex: none; height: 10px; left: 2px; position: absolute; top: 3px; width: 13px; }", ".framer-hhHXT .framer-1fsd68b { flex: none; height: auto; position: relative; white-space: pre; width: auto; }", ".framer-hhHXT .framer-11udxv2 { align-content: center; align-items: center; bottom: 0px; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; gap: 16px; justify-content: center; overflow: visible; padding: 0px; position: absolute; right: 0px; top: 0px; width: 100%; z-index: 1; }", ".framer-hhHXT .framer-qn7jhq, .framer-hhHXT .framer-h1fdt0 { aspect-ratio: 1 / 1; flex: none; height: var(--framer-aspect-ratio-supported, 16px); overflow: visible; position: relative; width: 16px; }", ".framer-hhHXT .framer-1ho2ec6 { aspect-ratio: 1 / 1; flex: none; height: var(--framer-aspect-ratio-supported, 16px); left: 0px; overflow: hidden; position: absolute; right: 0px; top: 0px; }", ".framer-hhHXT .framer-oe1i7i { flex: none; height: 5px; left: 1px; position: absolute; top: calc(50.00000000000002% - 5px / 2); width: 7px; }", ".framer-hhHXT .framer-qc2643 { flex: none; height: 7px; left: 3px; position: absolute; top: calc(50.00000000000002% - 7px / 2); width: 4px; }", ".framer-hhHXT .framer-au2ff1 { flex: none; height: 4px; left: 8px; position: absolute; top: 6px; width: 5px; }", ".framer-hhHXT .framer-zm7869 { flex: none; height: 4px; left: 10px; position: absolute; top: 5px; width: 5px; }", ".framer-hhHXT .framer-p8ccxv { flex: none; height: 12px; left: 0px; position: absolute; top: 2px; width: 17px; }", ".framer-hhHXT .framer-r7fxos-container, .framer-hhHXT .framer-1ymf4rs-container, .framer-hhHXT .framer-4j7y88-container { flex: none; height: 16px; position: relative; width: 16px; }", ".framer-hhHXT .framer-jbxwke { aspect-ratio: 1 / 1; flex: none; height: var(--framer-aspect-ratio-supported, 16px); left: 0px; overflow: hidden; position: absolute; top: 0px; width: 16px; }", ".framer-hhHXT .framer-14b4k0e { flex: none; height: 14px; left: calc(50.00000000000002% - 10px / 2); position: absolute; top: calc(50.00000000000002% - 14px / 2); width: 10px; }", ".framer-hhHXT .framer-1ueni0f { flex: none; height: 14px; left: 11px; position: absolute; top: 1px; width: 4px; }", ".framer-hhHXT .framer-lhcd6k { align-content: flex-end; align-items: flex-end; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 8px; height: 1px; justify-content: flex-end; overflow: hidden; padding: 8px; position: relative; width: min-content; will-change: var(--framer-will-change-override, transform); z-index: 1; }", ".framer-hhHXT .framer-1hmhybr { flex: none; height: 17px; position: relative; width: 285px; }", ".framer-hhHXT .framer-1jnyfgx { flex: none; height: 2px; position: relative; width: 100%; }", ".framer-hhHXT .framer-30fg3k { align-self: stretch; flex: none; height: auto; position: relative; white-space: pre-wrap; width: auto; word-break: break-word; word-wrap: break-word; }", ".framer-hhHXT .framer-1ws681f { bottom: 32px; flex: none; height: 33px; position: absolute; right: 8px; width: 4px; z-index: 1; }", ".framer-hhHXT .framer-1poa7c2 { flex: none; height: 16px; overflow: hidden; position: relative; width: 16px; }", ".framer-hhHXT .framer-1e1sy1z { bottom: 10px; flex: none; left: 2px; position: absolute; right: 10px; top: 2px; }", ".framer-hhHXT .framer-y1pjsc { bottom: 5px; flex: none; left: 7px; position: absolute; right: 5px; top: 7px; }", ".framer-hhHXT .framer-1e0i5tz { bottom: 5px; flex: none; left: 2px; position: absolute; right: 5px; top: 2px; }", ".framer-hhHXT .framer-769o23 { aspect-ratio: 1 / 1; bottom: -48px; flex: none; height: var(--framer-aspect-ratio-supported, 24px); overflow: hidden; position: absolute; right: 70px; width: 24px; z-index: 1; }", ".framer-hhHXT .framer-x15q6h { flex: none; height: 18px; left: 7px; position: absolute; top: 3px; width: 12px; }", "@supports (background: -webkit-named-image(i)) and (not (font-palette:dark)) { .framer-hhHXT.framer-11ueuao, .framer-hhHXT .framer-18sjng3, .framer-hhHXT .framer-11udxv2, .framer-hhHXT .framer-lhcd6k { gap: 0px; } .framer-hhHXT.framer-11ueuao > * { margin: 0px; margin-bottom: calc(7px / 2); margin-top: calc(7px / 2); } .framer-hhHXT.framer-11ueuao > :first-child, .framer-hhHXT .framer-lhcd6k > :first-child { margin-top: 0px; } .framer-hhHXT.framer-11ueuao > :last-child, .framer-hhHXT .framer-lhcd6k > :last-child { margin-bottom: 0px; } .framer-hhHXT .framer-18sjng3 > *, .framer-hhHXT .framer-11udxv2 > * { margin: 0px; margin-left: calc(16px / 2); margin-right: calc(16px / 2); } .framer-hhHXT .framer-18sjng3 > :first-child, .framer-hhHXT .framer-11udxv2 > :first-child { margin-left: 0px; } .framer-hhHXT .framer-18sjng3 > :last-child, .framer-hhHXT .framer-11udxv2 > :last-child { margin-right: 0px; } .framer-hhHXT .framer-lhcd6k > * { margin: 0px; margin-bottom: calc(8px / 2); margin-top: calc(8px / 2); } }", ".framer-hhHXT.framer-v-17cq7q6 .framer-1fsd68b, .framer-hhHXT.framer-v-1dd0aa2 .framer-1fsd68b, .framer-hhHXT.framer-v-ev8exw .framer-1fsd68b, .framer-hhHXT.framer-v-rjmybt .framer-1fsd68b, .framer-hhHXT.framer-v-wmlzwx .framer-1fsd68b, .framer-hhHXT.framer-v-488a83 .framer-1fsd68b, .framer-hhHXT.framer-v-rj0umn .framer-1fsd68b, .framer-hhHXT.framer-v-1b9ffyu .framer-1fsd68b { position: absolute; right: -40px; top: 50%; z-index: 1; }", ".framer-hhHXT.framer-v-17cq7q6 .framer-769o23, .framer-hhHXT.framer-v-ev8exw .framer-769o23 { bottom: -8px; right: 161px; }", ".framer-hhHXT.framer-v-1dd0aa2 .framer-r7fxos-container, .framer-hhHXT.framer-v-ev8exw .framer-r7fxos-container, .framer-hhHXT.framer-v-wmlzwx .framer-r7fxos-container { height: auto; width: auto; }", ".framer-hhHXT.framer-v-1dd0aa2 .framer-769o23, .framer-hhHXT.framer-v-wmlzwx .framer-769o23 { bottom: -8px; left: 47%; right: unset; }", ".framer-hhHXT.framer-v-ev8exw .framer-x15q6h { height: 12px; left: calc(50.00000000000002% - 8px / 2); top: calc(50.00000000000002% - 12px / 2); width: 8px; }", ".framer-hhHXT.framer-v-rjmybt .framer-lhcd6k, .framer-hhHXT.framer-v-488a83 .framer-lhcd6k, .framer-hhHXT.framer-v-rj0umn .framer-lhcd6k { height: min-content; width: 100%; }", ".framer-hhHXT.framer-v-rjmybt .framer-30fg3k, .framer-hhHXT.framer-v-488a83 .framer-30fg3k, .framer-hhHXT.framer-v-rj0umn .framer-30fg3k { align-self: unset; width: 100%; }", ".framer-hhHXT.framer-v-rjmybt .framer-769o23 { right: 0px; }", ".framer-hhHXT.framer-v-wmlzwx .framer-lhcd6k { bottom: 12px; left: 50%; padding: 0px; position: absolute; }", ".framer-hhHXT.framer-v-wmlzwx .framer-1jnyfgx { width: 284px; }", ".framer-hhHXT.framer-v-488a83 .framer-1jnyfgx, .framer-hhHXT.framer-v-rj0umn .framer-1jnyfgx { width: 262px; }", ".framer-hhHXT.framer-v-488a83 .framer-769o23, .framer-hhHXT.framer-v-rj0umn .framer-769o23, .framer-hhHXT.framer-v-1b9ffyu .framer-769o23 { bottom: unset; right: -1px; top: 24px; }", ".framer-hhHXT.framer-v-rj0umn .framer-x15q6h { height: 12px; width: 8px; }"],
     Vr = X(Wo, Yo, "framer-hhHXT"),
     Dr = Vr;
-Vr.displayName = "Blitzit UI/Notes";
+Vr.displayName = "Blitzit UI/Community";
 Vr.defaultProps = {
     height: 48,
     width: 324
@@ -11892,8 +11892,8 @@ var Xc = {
                                             })]
                                         }), _() && s("div", {
                                             className: "framer-f9y8wb hidden-1jnmc2o hidden-ba39o",
-                                            "data-framer-name": "Notes",
-                                            name: "Notes",
+                                            "data-framer-name": "Community",
+                                            name: "Community",
                                             children: [e(b, {
                                                 width: "324px",
                                                 children: e(N, {
@@ -11915,7 +11915,7 @@ var Xc = {
                                                 children: e(N, {
                                                     className: "framer-1amrnij-container",
                                                     children: e(ee, {
-                                                        G5_6KgrIr: "Notes",
+                                                        G5_6KgrIr: "Community",
                                                         height: "100%",
                                                         id: "weX9lnJQH",
                                                         layoutId: "weX9lnJQH",
@@ -11924,7 +11924,7 @@ var Xc = {
                                                         },
                                                         variant: "ODv0saqFa",
                                                         width: "100%",
-                                                        wwVYI0QI2: "Attatch notes to your tasks with links or any fleeting thought, auto open links when your task goes live."
+                                                        wwVYI0QI2: "Chat, post your wins and losses, and connect with other bettors so we can win as a community!"
                                                     })
                                                 })
                                             })]
@@ -13406,8 +13406,8 @@ var Xc = {
                                             })]
                                         }), ne() && s("div", {
                                             className: "framer-1egdxgc hidden-1urlk82 hidden-ba39o",
-                                            "data-framer-name": "Notes",
-                                            name: "Notes",
+                                            "data-framer-name": "Community",
+                                            name: "Community",
                                             children: [e(b, {
                                                 width: "268px",
                                                 children: e(N, {
@@ -13436,7 +13436,7 @@ var Xc = {
                                                     children: e(N, {
                                                         className: "framer-bcoml3-container",
                                                         children: e(ee, {
-                                                            G5_6KgrIr: "Notes",
+                                                            G5_6KgrIr: "Community",
                                                             height: "100%",
                                                             id: "xVKKdukl0",
                                                             layoutId: "xVKKdukl0",
@@ -13445,7 +13445,7 @@ var Xc = {
                                                             },
                                                             variant: "ODv0saqFa",
                                                             width: "100%",
-                                                            wwVYI0QI2: `Attatch notes to your tasks with links or any fleeting thought, auto open links when your task goes live
+                                                            wwVYI0QI2: `Chat, post your wins and losses, and connect with other bettors so we can win as a community!
 `
                                                         })
                                                     })
@@ -13453,8 +13453,8 @@ var Xc = {
                                             })]
                                         }), S() && s("div", {
                                             className: "framer-1hctjy4 hidden-1urlk82 hidden-1jnmc2o",
-                                            "data-framer-name": "Notes",
-                                            name: "Notes",
+                                            "data-framer-name": "Community",
+                                            name: "Community",
                                             children: [e(b, {
                                                 width: "324px",
                                                 children: e(N, {
@@ -13482,7 +13482,7 @@ var Xc = {
                                                     children: e(N, {
                                                         className: "framer-a7pbh5-container",
                                                         children: e(ee, {
-                                                            G5_6KgrIr: "Notes",
+                                                            G5_6KgrIr: "Community",
                                                             height: "100%",
                                                             id: "RpjGFTLgp",
                                                             layoutId: "RpjGFTLgp",
@@ -13491,7 +13491,7 @@ var Xc = {
                                                             },
                                                             variant: "ODv0saqFa",
                                                             width: "100%",
-                                                            wwVYI0QI2: `Attatch notes to your tasks with links or any fleeting thought, auto open links when your task goes live
+                                                            wwVYI0QI2: `Chat, post your wins and losses, and connect with other bettors so we can win as a community!
 `
                                                         })
                                                     })
