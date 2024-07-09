@@ -11340,9 +11340,9 @@ var Xc = {
                                         })
                                     }),
                                     className: "framer-1fvm3tb",
-                                    "data-framer-name": "Our Platform Aims to Give You Betting superpowers",
+                                    "data-framer-name": "Our Platform Aims to Give You Betting Superpowers",
                                     fonts: ["Inter"],
-                                    name: "Our Platform Aims to Give You Betting superpowers",
+                                    name: "Our Platform Aims to Give You Betting Superpowers",
                                     verticalAlignment: "top",
                                     withExternalLayout: !0
                                 })
@@ -11382,14 +11382,14 @@ var Xc = {
                                                 style: {
                                                     backgroundImage: "linear-gradient(100deg, var(--token-9f3826c5-17f9-4323-8d5c-b246baa048b6, rgb(255, 232, 114)) 0%, var(--token-ae08cd7b-e514-494f-b381-7169722e1c76, rgb(0, 255, 255)) 100%)"
                                                 },
-                                                children: "superpowers"
+                                                children: "Superpowers"
                                             })
                                         })
                                     }),
                                     className: "framer-1pz9ixl",
-                                    "data-framer-name": "Our Platform Aims to Give You Betting superpowers",
+                                    "data-framer-name": "Our Platform Aims to Give You Betting Superpowers",
                                     fonts: ["Inter"],
-                                    name: "Our Platform Aims to Give You Betting superpowers",
+                                    name: "Our Platform Aims to Give You Betting Superpowers",
                                     verticalAlignment: "top",
                                     withExternalLayout: !0
                                 })]
@@ -11486,9 +11486,9 @@ var Xc = {
                                         })
                                     }),
                                     className: "framer-1ddadgl",
-                                    "data-framer-name": "Our Platform Aims to Give You Betting superpowers",
+                                    "data-framer-name": "Our Platform Aims to Give You Betting Superpowers",
                                     fonts: ["Inter"],
-                                    name: "Our Platform Aims to Give You Betting superpowers",
+                                    name: "Our Platform Aims to Give You Betting Superpowers",
                                     verticalAlignment: "top",
                                     withExternalLayout: !0
                                 }), s("div", {
@@ -11512,9 +11512,9 @@ var Xc = {
                                             })
                                         }),
                                         className: "framer-km7qmf",
-                                        "data-framer-name": "Our Platform Aims to Give You Betting superpowers",
+                                        "data-framer-name": "Our Platform Aims to Give You Betting Superpowers",
                                         fonts: ["Inter"],
-                                        name: "Our Platform Aims to Give You Betting superpowers",
+                                        name: "Our Platform Aims to Give You Betting Superpowers",
                                         verticalAlignment: "top",
                                         withExternalLayout: !0
                                     }), e(E, {
@@ -11546,9 +11546,9 @@ var Xc = {
                                                 })
                                             }),
                                             className: "framer-1xwybu7",
-                                            "data-framer-name": "Our Platform Aims to Give You Betting superpowers",
+                                            "data-framer-name": "Our Platform Aims to Give You Betting Superpowers",
                                             fonts: ["Inter"],
-                                            name: "Our Platform Aims to Give You Betting superpowers",
+                                            name: "Our Platform Aims to Give You Betting Superpowers",
                                             verticalAlignment: "top",
                                             withExternalLayout: !0
                                         })
@@ -11565,9 +11565,9 @@ var Xc = {
                                             })
                                         }),
                                         className: "framer-16xbaj1 hidden-1urlk82 hidden-1jnmc2o",
-                                        "data-framer-name": "Our Platform Aims to Give You Betting superpowers",
+                                        "data-framer-name": "Our Platform Aims to Give You Betting Superpowers",
                                         fonts: ["Inter"],
-                                        name: "Our Platform Aims to Give You Betting superpowers",
+                                        name: "Our Platform Aims to Give You Betting Superpowers",
                                         verticalAlignment: "top",
                                         withExternalLayout: !0
                                     })]
@@ -13894,9 +13894,9 @@ var Xc = {
                                             })
                                         }),
                                         className: "framer-1yfwq2z",
-                                        "data-framer-name": "Our Platform Aims to Give You Betting superpowers",
+                                        "data-framer-name": "Our Platform Aims to Give You Betting Superpowers",
                                         fonts: ["Inter"],
-                                        name: "Our Platform Aims to Give You Betting superpowers",
+                                        name: "Our Platform Aims to Give You Betting Superpowers",
                                         verticalAlignment: "top",
                                         withExternalLayout: !0
                                     })
@@ -13918,9 +13918,9 @@ var Xc = {
                                             })
                                         }),
                                         className: "framer-1k74gjo",
-                                        "data-framer-name": "Our Platform Aims to Give You Betting superpowers",
+                                        "data-framer-name": "Our Platform Aims to Give You Betting Superpowers",
                                         fonts: ["Inter"],
-                                        name: "Our Platform Aims to Give You Betting superpowers",
+                                        name: "Our Platform Aims to Give You Betting Superpowers",
                                         verticalAlignment: "top",
                                         withExternalLayout: !0
                                     }), e(c, {
@@ -13933,9 +13933,9 @@ var Xc = {
                                             })
                                         }),
                                         className: "framer-1dmpmjm",
-                                        "data-framer-name": "Our Platform Aims to Give You Betting superpowers",
+                                        "data-framer-name": "Our Platform Aims to Give You Betting Superpowers",
                                         fonts: ["Inter"],
-                                        name: "Our Platform Aims to Give You Betting superpowers",
+                                        name: "Our Platform Aims to Give You Betting Superpowers",
                                         verticalAlignment: "top",
                                         withExternalLayout: !0
                                     }), me() && e(c, {
@@ -13951,9 +13951,9 @@ var Xc = {
                                             })
                                         }),
                                         className: "framer-22jf5z hidden-1urlk82",
-                                        "data-framer-name": "Our Platform Aims to Give You Betting superpowers",
+                                        "data-framer-name": "Our Platform Aims to Give You Betting Superpowers",
                                         fonts: ["Inter"],
-                                        name: "Our Platform Aims to Give You Betting superpowers",
+                                        name: "Our Platform Aims to Give You Betting Superpowers",
                                         verticalAlignment: "top",
                                         withExternalLayout: !0
                                     })]
@@ -14783,9 +14783,9 @@ var Xc = {
                                                 })
                                             }),
                                             className: "framer-3dml5f",
-                                            "data-framer-name": "Our Platform Aims to Give You Betting superpowers",
+                                            "data-framer-name": "Our Platform Aims to Give You Betting Superpowers",
                                             fonts: ["Inter"],
-                                            name: "Our Platform Aims to Give You Betting superpowers",
+                                            name: "Our Platform Aims to Give You Betting Superpowers",
                                             verticalAlignment: "top",
                                             withExternalLayout: !0
                                         })
@@ -14802,9 +14802,9 @@ var Xc = {
                                             })
                                         }),
                                         className: "framer-jl5bju",
-                                        "data-framer-name": "Our Platform Aims to Give You Betting superpowers",
+                                        "data-framer-name": "Our Platform Aims to Give You Betting Superpowers",
                                         fonts: ["Inter"],
-                                        name: "Our Platform Aims to Give You Betting superpowers",
+                                        name: "Our Platform Aims to Give You Betting Superpowers",
                                         verticalAlignment: "top",
                                         withExternalLayout: !0
                                     })]
@@ -15767,9 +15767,9 @@ var Xc = {
                                             })
                                         }),
                                         className: "framer-1j44xo1",
-                                        "data-framer-name": "Our Platform Aims to Give You Betting superpowers",
+                                        "data-framer-name": "Our Platform Aims to Give You Betting Superpowers",
                                         fonts: ["Inter"],
-                                        name: "Our Platform Aims to Give You Betting superpowers",
+                                        name: "Our Platform Aims to Give You Betting Superpowers",
                                         verticalAlignment: "top",
                                         withExternalLayout: !0
                                     }), s("div", {
@@ -15787,9 +15787,9 @@ var Xc = {
                                                 })
                                             }),
                                             className: "framer-1cv3m4r hidden-1urlk82 hidden-1jnmc2o",
-                                            "data-framer-name": "Our Platform Aims to Give You Betting superpowers",
+                                            "data-framer-name": "Our Platform Aims to Give You Betting Superpowers",
                                             fonts: ["Inter"],
-                                            name: "Our Platform Aims to Give You Betting superpowers",
+                                            name: "Our Platform Aims to Give You Betting Superpowers",
                                             verticalAlignment: "top",
                                             withExternalLayout: !0
                                         }), e(c, {
@@ -15808,9 +15808,9 @@ var Xc = {
                                                 })
                                             }),
                                             className: "framer-a516e0",
-                                            "data-framer-name": "Our Platform Aims to Give You Betting superpowers",
+                                            "data-framer-name": "Our Platform Aims to Give You Betting Superpowers",
                                             fonts: ["Inter"],
-                                            name: "Our Platform Aims to Give You Betting superpowers",
+                                            name: "Our Platform Aims to Give You Betting Superpowers",
                                             verticalAlignment: "top",
                                             withExternalLayout: !0
                                         })]
@@ -17753,9 +17753,9 @@ var Xc = {
                                         })
                                     }),
                                     className: "framer-19ypa0b",
-                                    "data-framer-name": "Our Platform Aims to Give You Betting superpowers",
+                                    "data-framer-name": "Our Platform Aims to Give You Betting Superpowers",
                                     fonts: ["Inter"],
-                                    name: "Our Platform Aims to Give You Betting superpowers",
+                                    name: "Our Platform Aims to Give You Betting Superpowers",
                                     verticalAlignment: "top",
                                     withExternalLayout: !0
                                 }), e(E, {
@@ -17787,9 +17787,9 @@ var Xc = {
                                             })
                                         }),
                                         className: "framer-6p7khr",
-                                        "data-framer-name": "Our Platform Aims to Give You Betting superpowers",
+                                        "data-framer-name": "Our Platform Aims to Give You Betting Superpowers",
                                         fonts: ["Inter"],
-                                        name: "Our Platform Aims to Give You Betting superpowers",
+                                        name: "Our Platform Aims to Give You Betting Superpowers",
                                         verticalAlignment: "top",
                                         withExternalLayout: !0
                                     })
@@ -17818,9 +17818,9 @@ var Xc = {
                                                 })
                                             }),
                                             className: "framer-yehwgd",
-                                            "data-framer-name": "Our Platform Aims to Give You Betting superpowers",
+                                            "data-framer-name": "Our Platform Aims to Give You Betting Superpowers",
                                             fonts: ["Inter"],
-                                            name: "Our Platform Aims to Give You Betting superpowers",
+                                            name: "Our Platform Aims to Give You Betting Superpowers",
                                             verticalAlignment: "top",
                                             withExternalLayout: !0
                                         })
@@ -17840,9 +17840,9 @@ var Xc = {
                                             })
                                         }),
                                         className: "framer-1ywjeci",
-                                        "data-framer-name": "Our Platform Aims to Give You Betting superpowers",
+                                        "data-framer-name": "Our Platform Aims to Give You Betting Superpowers",
                                         fonts: ["Inter"],
-                                        name: "Our Platform Aims to Give You Betting superpowers",
+                                        name: "Our Platform Aims to Give You Betting Superpowers",
                                         verticalAlignment: "top",
                                         withExternalLayout: !0
                                     })]
