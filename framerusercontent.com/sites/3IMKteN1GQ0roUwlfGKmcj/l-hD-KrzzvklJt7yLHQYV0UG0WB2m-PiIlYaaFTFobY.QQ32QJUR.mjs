@@ -11482,7 +11482,7 @@ var Xc = {
                                             style: {
                                                 "--framer-text-alignment": "center"
                                             },
-                                            children: "All you need to make"
+                                            children: "All You Need to Make"
                                         })
                                     }),
                                     className: "framer-1ddadgl",
