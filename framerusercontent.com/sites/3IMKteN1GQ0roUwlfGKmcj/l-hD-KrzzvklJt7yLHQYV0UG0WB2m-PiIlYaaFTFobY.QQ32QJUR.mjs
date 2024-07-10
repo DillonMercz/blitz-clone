@@ -11542,7 +11542,7 @@ var Xc = {
                                                     style: {
                                                         "--framer-text-alignment": "center"
                                                     },
-                                                    children: "and win!"
+                                                    children: "and Win!"
                                                 })
                                             }),
                                             className: "framer-1xwybu7",
