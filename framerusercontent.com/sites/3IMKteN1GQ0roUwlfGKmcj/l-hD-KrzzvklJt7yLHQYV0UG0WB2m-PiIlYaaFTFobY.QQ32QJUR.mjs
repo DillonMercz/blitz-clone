@@ -11616,6 +11616,7 @@ var Xc = {
                                                 className: "framer-13cc5s5",
                                                 "data-framer-name": "Est",
                                                 name: "Est",
+                                                id:"pussy",
                                                 children: [e(E, {
                                                     breakpoint: f,
                                                     overrides: {
@@ -11711,6 +11712,7 @@ var Xc = {
                                             name: "Check Lists",
                                             children: [s("div", {
                                                 className: "framer-yfvtl2",
+                                                id:"pussy2",
                                                 children: [e(E, {
                                                     breakpoint: f,
                                                     overrides: {
@@ -11898,6 +11900,7 @@ var Xc = {
                                                 width: "324px",
                                                 children: e(N, {
                                                     className: "framer-k3gsk5-container",
+                                                    id:"pussy4",
                                                     children: e(Dr, {
                                                         height: "100%",
                                                         id: "MSQ6dzMQy",
@@ -12164,7 +12167,7 @@ var Xc = {
                                                             }
                                                         },
                                                         children: e(N, {
-                                                            id:"DTFBITCHHHHHHHHHHH",
+                                                            id:"pussy1",
                                                             className: "framer-2422bh-container",
                                                             transformTemplate: Ye,
                                                             children: e(Ti, {
@@ -12228,6 +12231,7 @@ var Xc = {
                                                 width: "calc(max((min(100vw - 144px, 1080px) - 48px) / 3, 1px) + 0.5px)",
                                                 children: e(N, {
                                                     className: "framer-czc9hy-container",
+                                                    id:"pussy3",
                                                     children: e(Vt, {
                                                         __framer__animateOnce: !1,
                                                         __framer__obscuredVariantId: "bJOF7TP7m",
@@ -12371,6 +12375,7 @@ var Xc = {
                                             children: [s("div", {
                                                 className: "framer-115j516",
                                                 "data-framer-name": "Frame 39",
+                                                id:"pussy5",
                                                 name: "Frame 39",
                                                 children: [e("div", {
                                                     className: "framer-1eunvoj",
@@ -12615,6 +12620,7 @@ var Xc = {
                                                     },
                                                     className: "framer-183e748",
                                                     "data-framer-name": "Calendar_Set",
+                                                    id:"pussy7",
                                                     name: "Calendar_Set",
                                                     style: {
                                                         transformPerspective: 1200
@@ -12698,6 +12704,7 @@ var Xc = {
                                                     },
                                                     className: "framer-5zo35z",
                                                     "data-framer-name": "Calendar_Set_1",
+                                                    id:"pussy8",
                                                     name: "Calendar_Set_1",
                                                     style: {
                                                         transformPerspective: 1200
@@ -12711,6 +12718,7 @@ var Xc = {
                                             children: [e("div", {
                                                 className: "framer-a3xig8",
                                                 "data-framer-name": "Task List",
+                                                id:"pussy6",
                                                 name: "Task List",
                                                 children: s("div", {
                                                     className: "framer-1kemzbx",
