@@ -11507,7 +11507,7 @@ var Xc = {
                                                     style: {
                                                         backgroundImage: "linear-gradient(278deg, var(--token-ae08cd7b-e514-494f-b381-7169722e1c76, rgb(0, 255, 255)) 0%, var(--token-9f3826c5-17f9-4323-8d5c-b246baa048b6, rgb(255, 232, 114)) 100%)"
                                                     },
-                                                    children: "better bets "
+                                                    children: "Better Bets "
                                                 })
                                             })
                                         }),
