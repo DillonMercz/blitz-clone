@@ -12540,7 +12540,7 @@ var Xc = {
                                                 children: e(N, {
                                                     className: "framer-jrpv5n-container",
                                                     children: e(ee, {
-                                                        G5_6KgrIr: "Data Exploration"
+                                                        G5_6KgrIr: "Data Exploration",
                                                         height: "100%",
                                                         id: "gx1o3xYFI",
                                                         layoutId: "gx1o3xYFI",
