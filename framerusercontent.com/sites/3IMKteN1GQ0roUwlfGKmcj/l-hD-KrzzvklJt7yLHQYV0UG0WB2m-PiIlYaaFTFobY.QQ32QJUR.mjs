@@ -12370,6 +12370,7 @@ var Xc = {
                                             })]
                                         }), s("div", {
                                             className: "framer-1syvt14",
+                                            id:"pussy9",
                                             "data-framer-name": "Share list",
                                             name: "Share list",
                                             children: [s("div", {
@@ -12539,7 +12540,7 @@ var Xc = {
                                                 children: e(N, {
                                                     className: "framer-jrpv5n-container",
                                                     children: e(ee, {
-                                                        G5_6KgrIr: "Share list copy (coming soon)",
+                                                        G5_6KgrIr: "Data Exploration"
                                                         height: "100%",
                                                         id: "gx1o3xYFI",
                                                         layoutId: "gx1o3xYFI",
@@ -12548,7 +12549,7 @@ var Xc = {
                                                         },
                                                         variant: "S3aSScL1o",
                                                         width: "100%",
-                                                        wwVYI0QI2: "Share a copy of your list to anyone so they can use it in their account.    "
+                                                        wwVYI0QI2: "Explore all kinds of data across our platform, such as player performance, team performance, current standings, and so much more."
                                                     })
                                                 })
                                             })]
