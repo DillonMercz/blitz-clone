@@ -11061,7 +11061,7 @@ var Xc = {
                                                         style: {
                                                             "--framer-text-alignment": "left"
                                                         },
-                                                        children: ["Our AI Knows the Game Better Than Your Ex!"]
+                                                        children: ["We're Not Just Ahead of the Game, We're Rewriting the Rules"]
                                                     })
                                                 }),
                                                 initial: le("initial", "1pr5q1g", Pt, "ba39o")
@@ -11082,15 +11082,15 @@ var Xc = {
                                                     style: {
                                                         "--framer-text-alignment": "left"
                                                     },
-                                                    children: "Our AI Knows the Game Better Than Your Ex!"
+                                                    children: "We're Not Just Ahead of the Game, We're Rewriting the Rules"
                                                 })
                                             }),
                                             className: "framer-o7xogh",
                                             "data-framer-appear-id": "o7xogh",
-                                            "data-framer-name": "Our AI Knows the Game Better Than Your Ex!",
+                                            "data-framer-name": "We're Not Just Ahead of the Game, We're Rewriting the Rules",
                                             fonts: ["Inter"],
                                             initial: le("initial", "o7xogh", Pt, "1urlk82"),
-                                            name: "Our AI Knows the Game Better Than Your Ex!",
+                                            name: "We're Not Just Ahead of the Game, We're Rewriting the Rules!",
                                             style: {
                                                 transformPerspective: 1200
                                             },
@@ -11101,17 +11101,17 @@ var Xc = {
                                         children: [e(c, {
                                             __fromCanvasComponent: !0,
                                             className: "framer-159bxrj",
-                                            "data-framer-name": "Our AI Knows the Game Better Than Your Ex!",
+                                            "data-framer-name": "We're Not Just Ahead of the Game, We're Rewriting the Rules",
                                             fonts: ["Inter"],
-                                            name: "Our AI Knows the Game Better Than Your Ex!",
+                                            name: "We're Not Just Ahead of the Game, We're Rewriting the Rules",
                                             verticalAlignment: "top",
                                             withExternalLayout: !0
                                         }), e(c, {
                                             __fromCanvasComponent: !0,
                                             className: "framer-kn664x",
-                                            "data-framer-name": "Our AI Knows the Game Better Than Your Ex!",
+                                            "data-framer-name": "We're Not Just Ahead of the Game, We're Rewriting the Rules",
                                             fonts: ["Inter"],
-                                            name: "Our AI Knows the Game Better Than Your Ex!",
+                                            name: "We're Not Just Ahead of the Game, We're Rewriting the Rules",
                                             verticalAlignment: "top",
                                             withExternalLayout: !0
                                         })]
