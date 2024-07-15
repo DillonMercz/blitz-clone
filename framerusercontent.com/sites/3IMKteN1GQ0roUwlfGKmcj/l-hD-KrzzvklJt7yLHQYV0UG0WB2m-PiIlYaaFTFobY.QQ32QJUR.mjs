@@ -16192,7 +16192,7 @@ var Xc = {
                                                             },
                                                             variant: "S3aSScL1o",
                                                             width: "100%",
-                                                            wwVYI0QI2: "Tell us your plan, our AI takes care of the rest"
+                                                            wwVYI0QI2: "We're Not Just Ahead of The Game, We're Rewriting The Rules."
                                                         })
                                                     })
                                                 })]
