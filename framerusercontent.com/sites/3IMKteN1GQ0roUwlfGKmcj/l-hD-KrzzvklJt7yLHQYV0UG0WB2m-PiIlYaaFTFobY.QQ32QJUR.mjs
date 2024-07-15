@@ -12714,8 +12714,8 @@ var Xc = {
                                             })]
                                         }), s("div", {
                                             className: "framer-dl03vf",
-                                            "data-framer-name": "Alerts",
-                                            name: "Alerts",
+                                            "data-framer-name": "Data Exploration",
+                                            name: "Data Exploration",
                                             children: [e("div", {
                                                 className: "framer-a3xig8",
                                                 "data-framer-name": "Task List",
@@ -13235,7 +13235,8 @@ var Xc = {
                                                         },
                                                         variant: "S3aSScL1o",
                                                         width: "100%",
-                                                        wwVYI0QI2: "Get instant reminders for changed odds, new AI predictions, wins and losses."
+                                                        wwVYI0QI2: "Explore all kinds of data across our platform, such as player performance, team performance, current standings, and so much more."
+                                                        //Get instant reminders for changed odds, new AI predictions, wins and losses.
                                                     })
                                                 })
                                             })]
