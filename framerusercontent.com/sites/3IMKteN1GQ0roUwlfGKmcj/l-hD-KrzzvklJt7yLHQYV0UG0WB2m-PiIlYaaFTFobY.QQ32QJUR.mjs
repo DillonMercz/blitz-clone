@@ -11061,7 +11061,7 @@ var Xc = {
                                                         style: {
                                                             "--framer-text-alignment": "left"
                                                         },
-                                                        children: ["We're Not Just Ahead of The Game, <span style="color:#FEE972">We're Rewriting The Rules.</span>"]
+                                                        children: ["We're Not Just Ahead of The Game, We're Rewriting The Rules."]
                                                     })
                                                 }),
                                                 initial: le("initial", "1pr5q1g", Pt, "ba39o")
@@ -11082,16 +11082,16 @@ var Xc = {
                                                     style: {
                                                         "--framer-text-alignment": "left"
                                                     },
-                                                    children: "We're Not Just Ahead of The Game, <span style="color:#FEE972">We're Rewriting The Rules.</span>"
+                                                    children: "We're Not Just Ahead of The Game, We're Rewriting The Rules."
                                                     
                                                 })
                                             }),
                                             className: "framer-o7xogh",
                                             "data-framer-appear-id": "o7xogh",
-                                            "data-framer-name": "We're Not Just Ahead of The Game, <span style="color:#FEE972">We're Rewriting The Rules.</span>",
+                                            "data-framer-name": "We're Not Just Ahead of The Game, We're Rewriting The Rules.",
                                             fonts: ["Inter"],
                                             initial: le("initial", "o7xogh", Pt, "1urlk82"),
-                                            name: "We're Not Just Ahead of The Game, <span style="color:#FEE972">We're Rewriting The Rules.</span>",
+                                            name: "We're Not Just Ahead of The Game, We're Rewriting The Rules.",
                                             style: {
                                                 transformPerspective: 1200
                                             },
@@ -11102,17 +11102,17 @@ var Xc = {
                                         children: [e(c, {
                                             __fromCanvasComponent: !0,
                                             className: "framer-159bxrj",
-                                            "data-framer-name": "We're Not Just Ahead of The Game, <span style="color:#FEE972">We're Rewriting The Rules.</span>",
+                                            "data-framer-name": "We're Not Just Ahead of The Game, We're Rewriting The Rules.",
                                             fonts: ["Inter"],
-                                            name: "We're Not Just Ahead of The Game, <span style="color:#FEE972">We're Rewriting The Rules.</span>",
+                                            name: "We're Not Just Ahead of The Game, We're Rewriting The Rules.",
                                             verticalAlignment: "top",
                                             withExternalLayout: !0
                                         }), e(c, {
                                             __fromCanvasComponent: !0,
                                             className: "framer-kn664x",
-                                            "data-framer-name": "We're Not Just Ahead of The Game, <span style="color:#FEE972">We're Rewriting The Rules.</span>",
+                                            "data-framer-name": "We're Not Just Ahead of The Game, We're Rewriting The Rules.",
                                             fonts: ["Inter"],
-                                            name: "We're Not Just Ahead of The Game, <span style="color:#FEE972">We're Rewriting The Rules.</span>",
+                                            name: "We're Not Just Ahead of The Game, We're Rewriting The Rules.",
                                             verticalAlignment: "top",
                                             withExternalLayout: !0
                                         })]
@@ -16193,7 +16193,7 @@ var Xc = {
                                                             },
                                                             variant: "S3aSScL1o",
                                                             width: "100%",
-                                                            wwVYI0QI2: "We're Not Just Ahead of The Game, <span style="color:#FEE972">We're Rewriting The Rules.</span>"
+                                                            wwVYI0QI2: "We're Not Just Ahead of The Game, We're Rewriting The Rules."
                                                         })
                                                     })
                                                 })]
