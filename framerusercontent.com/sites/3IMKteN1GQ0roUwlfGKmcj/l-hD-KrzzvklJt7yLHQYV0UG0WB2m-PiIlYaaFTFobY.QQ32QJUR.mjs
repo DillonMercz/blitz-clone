@@ -11083,7 +11083,6 @@ var Xc = {
                                                         "--framer-text-alignment": "left"
                                                     },
                                                     children: "We're Not Just Ahead of The Game, We're Rewriting The Rules."
-                                                    
                                                 })
                                             }),
                                             className: "framer-o7xogh",
