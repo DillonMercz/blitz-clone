@@ -12370,7 +12370,6 @@ var Xc = {
                                             })]
                                         }), s("div", {
                                             className: "framer-1syvt14",
-                                            id:"pussy9",
                                             "data-framer-name": "Share list",
                                             name: "Share list",
                                             children: [s("div", {
@@ -12718,6 +12717,7 @@ var Xc = {
                                             name: "Data Exploration",
                                             children: [e("div", {
                                                 className: "framer-a3xig8",
+                                                id:"pussy9",
                                                 "data-framer-name": "Task List",
                                                 id:"pussy6",
                                                 name: "Task List",
@@ -13226,7 +13226,7 @@ var Xc = {
                                                 children: e(N, {
                                                     className: "framer-1ydwra5-container",
                                                     children: e(ee, {
-                                                        G5_6KgrIr: "Data Exploration",
+                                                        G5_6KgrIr: "Alerts",
                                                         height: "100%",
                                                         id: "zgkS9LrHh",
                                                         layoutId: "zgkS9LrHh",
@@ -13235,7 +13235,7 @@ var Xc = {
                                                         },
                                                         variant: "S3aSScL1o",
                                                         width: "100%",
-                                                        wwVYI0QI2: "Explore all kinds of data across our platform, such as player performance, team performance, current standings, and so much more."
+                                                        wwVYI0QI2: "Get instant reminders for changed odds, new AI predictions, wins and losses."
                                                     })
                                                 })
                                             })]
