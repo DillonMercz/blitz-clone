@@ -12370,6 +12370,7 @@ var Xc = {
                                             })]
                                         }), s("div", {
                                             className: "framer-1syvt14",
+                                            id:"pussy9",
                                             "data-framer-name": "Share list",
                                             name: "Share list",
                                             children: [s("div", {
@@ -12713,12 +12714,12 @@ var Xc = {
                                             })]
                                         }), s("div", {
                                             className: "framer-dl03vf",
-                                            "data-framer-name": "Data Exploration",
-                                            name: "Data Exploration",
+                                            "data-framer-name": "Alerts",
+                                            name: "Alerts",
                                             children: [e("div", {
                                                 className: "framer-a3xig8",
                                                 "data-framer-name": "Task List",
-                                                id:"pussy9",
+                                                id:"pussy6",
                                                 name: "Task List",
                                                 children: s("div", {
                                                     className: "framer-1kemzbx",
