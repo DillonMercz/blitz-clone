@@ -26991,17 +26991,38 @@ background-color: #FFE872 !important;
 </body>
 <script>
 
+console.log("DOM Content Loaded");
+
 document.addEventListener("DOMContentLoaded", function() {
     function checkForElement() {
+        console.log("Checking for element...");
         var element = document.getElementById("pussy");
         if (element) {
-            element.innerHTML = '<img src="pussy.png" style="width:100%; height:250%;">';
-            document.getElementById("pussy1").innerHTML = '<img src="pussy1.png" style="width:100%; height:250%;">';
-            document.getElementById("pussy2").innerHTML = '<img src="pussy2.png" style="width:100%; height:250%;">';
-            document.getElementById("pussy4").innerHTML = '<img src="pussy4.png" style="width:100%; height:250%;">';
-            document.getElementById("pussy5").innerHTML = '<img src="pussy5.png" style="width:100%; height:250%;">';
-            document.getElementById("pussy6").innerHTML = '<img src="pussy6.jpeg" style="height:230px;">';
-            observer.disconnect();  // Stop observing once the element is found and updated
+            console.log("Element found!");
+            observer.disconnect(); // Temporarily stop observing
+
+            var images = [
+                { id: "pussy1", src: "pussy1.png" },
+                { id: "pussy2", src: "pussy2.png" },
+                { id: "pussy4", src: "pussy4.png" },
+                { id: "pussy5", src: "pussy5.png" },
+                { id: "pussy6", src: "pussy6.jpeg", style: "height:230px;" }
+            ];
+
+            images.forEach(function(img) {
+                console.log("Updating image:", img.id);
+                var imgElement = document.createElement("img");
+                imgElement.src = img.src;
+                imgElement.style.width = "100%";
+                imgElement.style.height = img.style ? img.style.height : "250%";
+                var container = document.getElementById(img.id);
+                if (container) {
+                    container.innerHTML = "";
+                    container.appendChild(imgElement);
+                }
+            });
+
+            observer.observe(document.body, { childList: true, subtree: true }); // Reconnect observer
         }
     }
 
@@ -27012,6 +27033,7 @@ document.addEventListener("DOMContentLoaded", function() {
     var observer = new MutationObserver(checkForElement);
     observer.observe(document.body, { childList: true, subtree: true });
 });
+
 
 
 </script>
