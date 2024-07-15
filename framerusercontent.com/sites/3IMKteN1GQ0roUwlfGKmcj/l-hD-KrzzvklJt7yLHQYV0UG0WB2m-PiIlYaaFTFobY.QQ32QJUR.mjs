@@ -12717,9 +12717,8 @@ var Xc = {
                                             name: "Data Exploration",
                                             children: [e("div", {
                                                 className: "framer-a3xig8",
-                                                id:"pussy9",
                                                 "data-framer-name": "Task List",
-                                                id:"pussy6",
+                                                id:"pussy9",
                                                 name: "Task List",
                                                 children: s("div", {
                                                     className: "framer-1kemzbx",
