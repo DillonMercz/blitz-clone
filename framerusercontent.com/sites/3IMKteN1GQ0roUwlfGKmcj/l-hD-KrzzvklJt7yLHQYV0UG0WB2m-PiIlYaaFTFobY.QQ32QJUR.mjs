@@ -11040,7 +11040,7 @@ var Xc = {
                             className: "framer-1uzqrv5",
                             "data-framer-name": "Content",
                             name: "Content",
-                            id="drop-shadow1",
+                            id:"drop-shadow1",
                             children: [s("div", {
                                 className: "framer-1mbh551",
                                 "data-framer-name": "Text",
