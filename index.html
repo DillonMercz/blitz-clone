@@ -27036,7 +27036,7 @@ document.addEventListener("DOMContentLoaded", function() {
                 console.log("Updating image:", img.id);
                 var imgElement = document.createElement("img");
                 imgElement.src = img.src;
-                imgElement.style.width = "100%";
+                imgElement.style.width = img.style ? img.style.height : "100%";
                 imgElement.style.height = img.style ? img.style.height : "250%";
                 var container = document.getElementById(img.id);
                 if (container) {
