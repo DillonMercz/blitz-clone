@@ -11260,6 +11260,7 @@ var Xc = {
                                     children: e(b, {
                                         children: e(N, {
                                             className: "framer-chcf3a-container",
+                                            id:"lottieHeader",
                                             children: e(ur, {
                                                 backgroundColor: "rgba(0, 0, 0, 0)",
                                                 borderRadius: 0,
