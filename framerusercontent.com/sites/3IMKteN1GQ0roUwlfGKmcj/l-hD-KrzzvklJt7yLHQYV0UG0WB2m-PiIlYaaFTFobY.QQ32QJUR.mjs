@@ -6732,7 +6732,7 @@ var Jl = {
                                             pixelWidth: 581,
                                             sizes: "168.4045px",
                                             src: "",
-                                            srcSet: "https://framerusercontent.com/images/7yPXqgN5zVMqDPAdumH2nNHEqA.png 581w"
+                                            srcSet: " d"
                                         }
                                     }
                                 }, f, v)
@@ -11935,8 +11935,8 @@ var Xc = {
                                             })]
                                         }), S() && s("div", {
                                             className: "framer-1jc1zkg hidden-1urlk82 hidden-1jnmc2o",
-                                            "data-framer-name": "Pomodoro",
-                                            name: "Pomodoro",
+                                            "data-framer-name": "",
+                                            name: "",
                                             children: [e(b, {
                                                 width: "304px",
                                                 children: e(N, {
@@ -12150,8 +12150,8 @@ var Xc = {
                                         className: "framer-glp9bm hidden-ba39o",
                                         children: [s("div", {
                                             className: "framer-1rsadnb",
-                                            "data-framer-name": "Pomodoro",
-                                            name: "Pomodoro",
+                                            "data-framer-name": "",
+                                            name: "",
                                             children: [e(E, {
                                                 breakpoint: f,
                                                 overrides: {
