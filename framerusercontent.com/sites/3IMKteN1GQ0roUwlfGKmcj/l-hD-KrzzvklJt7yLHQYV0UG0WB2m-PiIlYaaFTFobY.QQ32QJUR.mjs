@@ -6731,7 +6731,7 @@ var Jl = {
                                             pixelHeight: 600,
                                             pixelWidth: 581,
                                             sizes: "168.4045px",
-                                            src: "https://framerusercontent.com/images/7yPXqgN5zVMqDPAdumH2nNHEqA.png?scale-down-to=512",
+                                            src: "",
                                             srcSet: "https://framerusercontent.com/images/7yPXqgN5zVMqDPAdumH2nNHEqA.png 581w"
                                         }
                                     }
