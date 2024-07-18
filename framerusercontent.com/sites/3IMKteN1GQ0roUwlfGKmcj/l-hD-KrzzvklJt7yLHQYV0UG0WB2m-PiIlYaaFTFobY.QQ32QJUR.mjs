@@ -11312,7 +11312,7 @@ var Xc = {
                                                 style: {
                                                     "--framer-text-alignment": "center"
                                                 },
-                                                children: ["A simple to-do list", e("br", {}), "& timer that gives"]
+                                                children: ["Our Platform Aims", e("br", {}), "to Give You Betting"]
                                             })
                                         })
                                     },
@@ -11324,7 +11324,7 @@ var Xc = {
                                                 style: {
                                                     "--framer-text-alignment": "center"
                                                 },
-                                                children: ["A simple to-do list", e("br", {}), "& timer that gives "]
+                                                children: ["Our Platform Aims", e("br", {}), "to Give You Betting "]
                                             })
                                         })
                                     }
