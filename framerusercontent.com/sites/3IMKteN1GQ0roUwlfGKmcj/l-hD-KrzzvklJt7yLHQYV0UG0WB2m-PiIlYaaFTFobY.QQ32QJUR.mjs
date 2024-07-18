@@ -11998,34 +11998,6 @@ var Xc = {
                                                         wwVYI0QI2: "Capitalize on pricing errors and odds differences across sportsbooks."
                                                     })
                                                 })
-                                            }), e(E, {
-                                                breakpoint: f,
-                                                overrides: {
-                                                    VckBbvitz: {
-                                                        width: "calc(min(100vw - 40px, 1080px) + 0.5px)"
-                                                    }
-                                                },
-                                                children: e(b, {
-                                                    children: e(N, {
-                                                        className: "framer-4tszop-container",
-                                                        id:"pussy3",
-                                                        children: e(Vt, {
-                                                            __framer__animateOnce: !1,
-                                                            __framer__obscuredVariantId: "bJOF7TP7m",
-                                                            __framer__threshold: .5,
-                                                            __framer__variantAppearEffectEnabled: !0,
-                                                            __framer__visibleVariantId: "h2qPgXBby",
-                                                            height: "100%",
-                                                            id: "QcPTqBZLI",
-                                                            layoutId: "QcPTqBZLI",
-                                                            style: {
-                                                                width: "100%"
-                                                            },
-                                                            variant: "h2qPgXBby",
-                                                            width: "100%"
-                                                        })
-                                                    })
-                                                })
                                             }), s("div", {
                                                 className: "framer-c27igz",
                                                 children: [e(nr, {
