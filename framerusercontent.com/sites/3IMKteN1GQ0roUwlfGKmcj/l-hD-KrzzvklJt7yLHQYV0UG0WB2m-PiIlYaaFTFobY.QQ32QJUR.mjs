@@ -15159,7 +15159,7 @@ var Xc = {
                                                             style: {
                                                                 "--framer-text-color": "var(--token-fd2a9202-3b01-4729-831f-86b0b036c94c, rgb(17, 17, 17))"
                                                             },
-                                                            children: "Pay Once Lifetime Deal"
+                                                            children: "OVERDOG BASE PACKAGE"
                                                         })
                                                     }),
                                                     className: "framer-n7uqri",
@@ -15504,7 +15504,7 @@ var Xc = {
                                                                     "--framer-text-alignment": "center",
                                                                     "--framer-text-color": "rgb(102, 102, 102)"
                                                                 },
-                                                                children: ["30 days money back guaranteed, ", e("span", {
+                                                                children: ["Get reimbursed up to $25 if your first OVERDOG bet loses, ", e("span", {
                                                                     style: {
                                                                         "--font-selector": "SW50ZXI=",
                                                                         "--framer-font-family": '"Inter", sans-serif',
@@ -15515,9 +15515,9 @@ var Xc = {
                                                             })
                                                         }),
                                                         className: "framer-eef656",
-                                                        "data-framer-name": "30 days money back guaranteed, no questions asked.",
+                                                        "data-framer-name": "Get reimbursed up to $25 if your first OVERDOG bet loses, no questions asked.",
                                                         fonts: ["Inter-Bold", "Inter"],
-                                                        name: "30 days money back guaranteed, no questions asked.",
+                                                        name: "Get reimbursed up to $25 if your first OVERDOG bet loses, no questions asked.",
                                                         verticalAlignment: "center",
                                                         withExternalLayout: !0
                                                     }), e(E, {
