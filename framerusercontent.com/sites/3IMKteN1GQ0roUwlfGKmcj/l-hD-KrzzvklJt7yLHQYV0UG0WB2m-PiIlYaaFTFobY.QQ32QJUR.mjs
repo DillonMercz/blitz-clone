@@ -13963,7 +13963,7 @@ var Xc = {
                                             children: e(N, {
                                                 className: "framer-1h40kpo-container",
                                                 children: e(ee, {
-                                                    G5_6KgrIr: "Reports overview",
+                                                    G5_6KgrIr: "Betting Overview",
                                                     height: "100%",
                                                     id: "AeoXAt50v",
                                                     layoutId: "AeoXAt50v",
@@ -13972,7 +13972,7 @@ var Xc = {
                                                     },
                                                     variant: "S3aSScL1o",
                                                     width: "100%",
-                                                    wwVYI0QI2: "A birds eye view of your entire behaviour and productivity"
+                                                    wwVYI0QI2: "A birds eye view of your entire betting behaviour, history, and achievements. (Sourced from a real user using the Fliff Sportsbook)"
                                                 })
                                             })
                                         })
