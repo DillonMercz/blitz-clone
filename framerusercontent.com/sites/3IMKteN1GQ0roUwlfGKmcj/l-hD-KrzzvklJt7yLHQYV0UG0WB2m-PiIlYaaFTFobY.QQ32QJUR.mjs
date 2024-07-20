@@ -14784,7 +14784,7 @@ var Xc = {
                                                 style: {
                                                     "--framer-text-alignment": "center"
                                                 },
-                                                children: "endless opportunities"
+                                                children: "Endless Opportunities."
                                             })
                                         }),
                                         className: "framer-jl5bju",
