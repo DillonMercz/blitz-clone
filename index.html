@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
 <style>
-.framer-poMwY.framer-1bafxho{
+    .framer-poMwY.framer-1bafxho{
     height:100px !important;
 }
 .framer-poMwY .framer-14kz6zt-container{
@@ -10,12 +10,16 @@
 }
 
 </style>
+
 <head>
     <meta charset="utf-8">
     <script>
-    (function(w, r) { w._rwq = r;
+    (function(w, r) {
+        w._rwq = r;
         w[r] = w[r] || function() {
-            (w[r].q = w[r].q || []).push(arguments) } })(window, 'rewardful');
+            (w[r].q = w[r].q || []).push(arguments)
+        }
+    })(window, 'rewardful');
     </script>
     <script async src="../r.wdfl.co/rw.js" data-rewardful="d9ec86"></script>
     <!-- Meta Pixel Code
@@ -37,7 +41,6 @@ fbq('track', 'PageView');
     <meta name="generator" content="Framer d9af232">
     <title>Overdog - Reach Max Profitability</title>
     <meta name="description" content="We believe that the right tool can make you work in a flow state and feel fulfilling and fun. That is why we are building Blitzit.">
-   
     <link rel="icon" href="./framerusercontent.com/images/hVlm992U00ugOFzHzwxoTbetfM.png">
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
@@ -79,10 +82,8 @@ fbq('track', 'PageView');
     <link rel="modulepreload" fetchpriority="low" href="./framerusercontent.com/sites/3IMKteN1GQ0roUwlfGKmcj/chunk-2HTEB2GM.mjs">
     <link rel="modulepreload" fetchpriority="low" href="./framerusercontent.com/sites/3IMKteN1GQ0roUwlfGKmcj/chunk-QLHIDQGL.mjs">
     <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
-
-
-<style data-framer-css-ssr-minified data-framer-components="framer-sw84q framer-r3lHm framer-poMwY framer-sEACR framer-823n7 framer-kMtgt framer-V2ffT framer-6XH4B framer-yPcwZ framer-LcNtk framer-YlpvZ framer-RK4yV framer-VDPHg framer-6j2Zx framer-91Vwq framer-YbckB framer-hhHXT framer-98kvr framer-wAxEC framer-cDmK4 framer-Xpmuc framer-iHhJ6 framer-GnKIq framer-O8QSZ framer-1cREx framer-HzPjI framer-rl6Zr framer-sdvK7 framer-fVloV framer-24SxM framer-nfxEa framer-df661">
-html,
+    <style data-framer-css-ssr-minified data-framer-components="framer-sw84q framer-r3lHm framer-poMwY framer-sEACR framer-823n7 framer-kMtgt framer-V2ffT framer-6XH4B framer-yPcwZ framer-LcNtk framer-YlpvZ framer-RK4yV framer-VDPHg framer-6j2Zx framer-91Vwq framer-YbckB framer-hhHXT framer-98kvr framer-wAxEC framer-cDmK4 framer-Xpmuc framer-iHhJ6 framer-GnKIq framer-O8QSZ framer-1cREx framer-HzPjI framer-rl6Zr framer-sdvK7 framer-fVloV framer-24SxM framer-nfxEa framer-df661">
+        html,
 body,
 #main {
     margin: 0;
@@ -1557,6 +1558,68 @@ strong.framer-text {
     font-style: var(--framer-blockquote-font-style-bold, var(--framer-font-style-bold));
     font-weight: var(--framer-blockquote-font-weight-bold, var(--framer-font-weight-bold, bolder))
 }
+
+        .dropdown {
+            position: relative;
+            width: 200px;
+        }
+
+        .dropdown-toggle {
+            width: 100%;
+            padding: 10px;
+            background-color: #333;
+            color: #fff;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            transition: background-color 0.3s;
+        }
+
+        .dropdown-toggle:hover {
+            background-color: #444;
+        }
+
+        .dropdown-toggle::after {
+            content: '\25BC';
+            font-size: 0.7em;
+            transition: transform 0.3s;
+        }
+
+        .dropdown-toggle.active::after {
+            transform: rotate(180deg);
+        }
+
+        .dropdown-menu {
+            position: absolute;
+            top: 100%;
+            left: 0;
+            width: 100%;
+            background-color: #333;
+            border-radius: 5px;
+            margin-top: 5px;
+            overflow: hidden;
+            max-height: 0;
+            transition: max-height 0.3s ease-out;
+        }
+
+        .dropdown-menu.show {
+            max-height: 300px;
+            transition: max-height 0.3s ease-in;
+        }
+
+        .dropdown-item {
+            padding: 10px;
+            color: #fff;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+
+        .dropdown-item:hover {
+            background-color: #444;
+        }
 
 em.framer-text {
     font-family: var(--framer-blockquote-font-family-italic, var(--framer-font-family-italic));
@@ -13511,7 +13574,7 @@ color:white !important;
 
     const replayHeroVideo = () => {
         var animate = document.querySelector(".framer-1qikn9a");
-        var video = animate?.querySelector("video");
+        var video = animate ? .querySelector("video");
 
         console.log({ video });
 
@@ -13779,7 +13842,7 @@ color:white !important;
                                 </div>
                             </div>
                             <div class="ssr-variant hidden-ba39o hidden-1urlk82">
-                                <div class="framer-o7xogh" data-framer-appear-id="mp2tq6"  style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;opacity:0.001;flex-shrink:0;transform:perspective(1200px) translateX(0px) translateY(0px) scale(1) rotate(0deg) rotateX(0deg) rotateY(0deg) skewX(0deg) skewY(0deg) translateZ(0)" data-framer-component-type="RichTextContainer">
+                                <div class="framer-o7xogh" data-framer-appear-id="mp2tq6" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;opacity:0.001;flex-shrink:0;transform:perspective(1200px) translateX(0px) translateY(0px) scale(1) rotate(0deg) rotateX(0deg) rotateY(0deg) skewX(0deg) skewY(0deg) translateZ(0)" data-framer-component-type="RichTextContainer">
                                     <h1 class="framer-text framer-styles-preset-o3e5h0" data-styles-preset="stylesPresetHeading1" style="--framer-text-alignment:left">Our AI Knows the Game Better Than Your Ex!</h1>
                                 </div>
                             </div>
@@ -27016,7 +27079,6 @@ color:white !important;
     <!-- End of bodyEnd -->
 </body>
 <script>
-
 console.log("DOM Content Loaded");
 
 document.addEventListener("DOMContentLoaded", function() {
@@ -27032,6 +27094,37 @@ document.addEventListener("DOMContentLoaded", function() {
             document.querySelector('.framer-text.framer-styles-preset-o3e5h0').innerHTML = "We're Not Just Ahead of The Game. <span style='color:#00ffcc'>We're Rewriting The Rules.</span>"
             document.getElementById("lottieHeader").innerHTML = '<lottie-player src="./header.json" background="transparent"  speed="1"  style="width: 100%; height: 100%;" loop autoplay></lottie-player>'
             document.getElementById("pussy3").innerHTML = `<center><img src="pussy3.png" style="width:70%"></center>`
+            document.getElementById("dropdown1").innerHTML = `    <div class="dropdown">
+                                                                    <button class="dropdown-toggle">1 Month</button>
+                                                                    <div class="dropdown-menu">
+                                                                        <div class="dropdown-item">3 Months</div>
+                                                                        <div class="dropdown-item">6 Months</div>
+                                                                      </div>
+                                                                </div>`
+            const dropdownToggle = document.querySelector('.dropdown-toggle');
+            const dropdownMenu = document.querySelector('.dropdown-menu');
+
+            dropdownToggle.addEventListener('click', () => {
+                dropdownToggle.classList.toggle('active');
+                dropdownMenu.classList.toggle('show');
+            });
+
+            const dropdownItems = document.querySelectorAll('.dropdown-item');
+            dropdownItems.forEach(item => {
+                item.addEventListener('click', () => {
+                    dropdownToggle.textContent = item.textContent;
+                    dropdownToggle.classList.remove('active');
+                    dropdownMenu.classList.remove('show');
+                });
+            });
+
+            // Close dropdown when clicking outside
+            document.addEventListener('click', (event) => {
+                if (!event.target.closest('.dropdown')) {
+                    dropdownToggle.classList.remove('active');
+                    dropdownMenu.classList.remove('show');
+                }
+            });
 
             var images = [
                 { id: "pussy", src: "pussy.png" },
@@ -27067,8 +27160,6 @@ document.addEventListener("DOMContentLoaded", function() {
     var observer = new MutationObserver(checkForElement);
     observer.observe(document.body, { childList: true, subtree: true });
 });
-
-
-
 </script>
+
 </html>
