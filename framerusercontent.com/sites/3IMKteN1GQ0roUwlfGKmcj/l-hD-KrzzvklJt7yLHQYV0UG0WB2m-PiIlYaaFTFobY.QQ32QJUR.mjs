@@ -13989,7 +13989,7 @@ var Xc = {
                                                     pixelWidth: 1440,
                                                     sizes: "424px",
                                                     src: "framerusercontent.com/images/q7y0ZjAlnM9R9dJuo20OtPSTkQ.png",
-                                                    srcSet: "framerusercontent.com/images/q7y0ZjAlnM9R9dJuo20OtPSTkQ.png,framerusercontent.com/images/q7y0ZjAlnM9R9dJuo20OtPSTkQ.png,framerusercontent.com/images/q7y0ZjAlnM9R9dJuo20OtPSTkQ.png 1440w"
+                                                    srcSet: "framerusercontent.com/images/q7y0ZjAlnM9R9dJuo20OtPSTkQ.png,framerusercontent.com/images/q7y0ZjAlnM9R9dJuo20OtPSTkQ.png,framerusercontent.com/images/q7y0ZjAlnM9R9dJuo20OtPSTkQ.png"
                                                 }
                                             },
                                             YmJbUgJlH: {
@@ -14003,7 +14003,7 @@ var Xc = {
                                                     pixelWidth: 1440,
                                                     sizes: "min(min(min(100vw, 810px) - 144px, 1080px) - 40px, 960px)",
                                                     src: "framerusercontent.com/images/q7y0ZjAlnM9R9dJuo20OtPSTkQ.png",
-                                                    srcSet: "framerusercontent.com/images/q7y0ZjAlnM9R9dJuo20OtPSTkQ.png,framerusercontent.com/images/q7y0ZjAlnM9R9dJuo20OtPSTkQ.png,framerusercontent.com/images/q7y0ZjAlnM9R9dJuo20OtPSTkQ.png 1440w"
+                                                    srcSet: "framerusercontent.com/images/q7y0ZjAlnM9R9dJuo20OtPSTkQ.png,framerusercontent.com/images/q7y0ZjAlnM9R9dJuo20OtPSTkQ.png,framerusercontent.com/images/q7y0ZjAlnM9R9dJuo20OtPSTkQ.png"
                                                 }
                                             }
                                         },
@@ -14018,7 +14018,7 @@ var Xc = {
                                                 pixelWidth: 1440,
                                                 sizes: "min(min(100vw - 144px, 1080px) - 40px, 960px)",
                                                 src: "framerusercontent.com/images/q7y0ZjAlnM9R9dJuo20OtPSTkQ.png",
-                                                srcSet: "framerusercontent.com/images/q7y0ZjAlnM9R9dJuo20OtPSTkQ.png,framerusercontent.com/images/q7y0ZjAlnM9R9dJuo20OtPSTkQ.png,framerusercontent.com/images/q7y0ZjAlnM9R9dJuo20OtPSTkQ.png 1440w"
+                                                srcSet: "framerusercontent.com/images/q7y0ZjAlnM9R9dJuo20OtPSTkQ.png,framerusercontent.com/images/q7y0ZjAlnM9R9dJuo20OtPSTkQ.png,framerusercontent.com/images/q7y0ZjAlnM9R9dJuo20OtPSTkQ.png"
                                             },
                                             className: "framer-ok51z1",
                                             "data-border": !0,
