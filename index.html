@@ -27101,30 +27101,7 @@ document.addEventListener("DOMContentLoaded", function() {
                                                                         <div class="dropdown-item">6 Months</div>
                                                                       </div>
                                                                 </div>`
-            const dropdownToggle = document.querySelector('.dropdown-toggle');
-            const dropdownMenu = document.querySelector('.dropdown-menu');
-
-            dropdownToggle.addEventListener('click', () => {
-                dropdownToggle.classList.toggle('active');
-                dropdownMenu.classList.toggle('show');
-            });
-
-            const dropdownItems = document.querySelectorAll('.dropdown-item');
-            dropdownItems.forEach(item => {
-                item.addEventListener('click', () => {
-                    dropdownToggle.textContent = item.textContent;
-                    dropdownToggle.classList.remove('active');
-                    dropdownMenu.classList.remove('show');
-                });
-            });
-
-            // Close dropdown when clicking outside
-            document.addEventListener('click', (event) => {
-                if (!event.target.closest('.dropdown')) {
-                    dropdownToggle.classList.remove('active');
-                    dropdownMenu.classList.remove('show');
-                }
-            });
+            
 
             var images = [
                 { id: "pussy", src: "pussy.png" },
