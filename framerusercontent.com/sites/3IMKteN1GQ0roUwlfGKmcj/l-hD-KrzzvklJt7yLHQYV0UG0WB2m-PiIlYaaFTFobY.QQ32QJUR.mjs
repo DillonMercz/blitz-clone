@@ -13876,7 +13876,7 @@ var Xc = {
                                                 style: {
                                                     "--framer-text-alignment": "center"
                                                 },
-                                                children: "Get to know your habits,"
+                                                children: "Get to know your bets,"
                                             })
                                         }),
                                         className: "framer-1yfwq2z",
