@@ -14945,7 +14945,7 @@ var Xc = {
                                                         __fromCanvasComponent: !0,
                                                         children: e(m, {
                                                             children: e("h2", {
-                                                                id:"dropdown1",
+                                                            
                                                                 className: "framer-styles-preset-1m9bzi2",
                                                                 "data-styles-preset": "stylesPresetHeading2",
                                                                 children: "Monthly Plan"
@@ -14961,7 +14961,7 @@ var Xc = {
                                                         __fromCanvasComponent: !0,
                                                         children: e(m, {
                                                             children: e("h2", {
-                                                                id:"dropdown1",
+                                                                
                                                                 className: "framer-styles-preset-1m9bzi2",
                                                                 "data-styles-preset": "stylesPresetHeading2",
                                                                 children: "$4.99 p/m"
