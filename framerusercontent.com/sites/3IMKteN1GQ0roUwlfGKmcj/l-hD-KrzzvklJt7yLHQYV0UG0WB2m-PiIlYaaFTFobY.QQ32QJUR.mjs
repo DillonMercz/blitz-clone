@@ -13915,7 +13915,7 @@ var Xc = {
                                             children: e("h1", {
                                                 className: "framer-styles-preset-1j55voi",
                                                 "data-styles-preset": "kAW4TEulK",
-                                                children: "them everyday"
+                                                children: "them instantly."
                                             })
                                         }),
                                         className: "framer-1dmpmjm",
