@@ -5252,7 +5252,7 @@ var gl = {
                                         pixelWidth: 2752,
                                         sizes: `calc(max(${J?.width||"100vw"}, 1px) + 1px)`,
                                         src: "framerusercontent.com/images/4BEe4YSh86k7zdBwzjJbA0iYBoQ.png",
-                                        srcSet: "framerusercontent.com/images/4BEe4YSh86k7zdBwzjJbA0iYBoQ.png?scale-down-to=512 512w,framerusercontent.com/images/4BEe4YSh86k7zdBwzjJbA0iYBoQ.png 1024w,framerusercontent.com/images/4BEe4YSh86k7zdBwzjJbA0iYBoQ.png?scale-down-to=2048 2048w,framerusercontent.com/images/4BEe4YSh86k7zdBwzjJbA0iYBoQ.png 2752w"
+                                        srcSet: "framerusercontent.com/images/4BEe4YSh86k7zdBwzjJbA0iYBoQ.png,framerusercontent.com/images/4BEe4YSh86k7zdBwzjJbA0iYBoQ.png,framerusercontent.com/images/4BEe4YSh86k7zdBwzjJbA0iYBoQ.png?scale-down-to=2048 2048w,framerusercontent.com/images/4BEe4YSh86k7zdBwzjJbA0iYBoQ.png 2752w"
                                     },
                                     className: "framer-134p3el",
                                     "data-framer-name": "Menu_Bar",
@@ -5269,7 +5269,7 @@ var gl = {
                                                 pixelWidth: 2752,
                                                 sizes: `calc(max(${J?.width||"100vw"}, 1px) + 308px)`,
                                                 src: "framerusercontent.com/images/4BEe4YSh86k7zdBwzjJbA0iYBoQ.png",
-                                                srcSet: "framerusercontent.com/images/4BEe4YSh86k7zdBwzjJbA0iYBoQ.png?scale-down-to=512 512w,framerusercontent.com/images/4BEe4YSh86k7zdBwzjJbA0iYBoQ.png 1024w,framerusercontent.com/images/4BEe4YSh86k7zdBwzjJbA0iYBoQ.png?scale-down-to=2048 2048w,framerusercontent.com/images/4BEe4YSh86k7zdBwzjJbA0iYBoQ.png 2752w"
+                                                srcSet: "framerusercontent.com/images/4BEe4YSh86k7zdBwzjJbA0iYBoQ.png,framerusercontent.com/images/4BEe4YSh86k7zdBwzjJbA0iYBoQ.png,framerusercontent.com/images/4BEe4YSh86k7zdBwzjJbA0iYBoQ.png?scale-down-to=2048 2048w,framerusercontent.com/images/4BEe4YSh86k7zdBwzjJbA0iYBoQ.png 2752w"
                                             }
                                         },
                                         l0DmQAMae: {
@@ -5282,7 +5282,7 @@ var gl = {
                                                 pixelWidth: 2752,
                                                 sizes: `calc(max(${J?.width||"100vw"}, 1px) + 308px)`,
                                                 src: "framerusercontent.com/images/4BEe4YSh86k7zdBwzjJbA0iYBoQ.png",
-                                                srcSet: "framerusercontent.com/images/4BEe4YSh86k7zdBwzjJbA0iYBoQ.png?scale-down-to=512 512w,framerusercontent.com/images/4BEe4YSh86k7zdBwzjJbA0iYBoQ.png 1024w,framerusercontent.com/images/4BEe4YSh86k7zdBwzjJbA0iYBoQ.png?scale-down-to=2048 2048w,framerusercontent.com/images/4BEe4YSh86k7zdBwzjJbA0iYBoQ.png 2752w"
+                                                srcSet: "framerusercontent.com/images/4BEe4YSh86k7zdBwzjJbA0iYBoQ.png,framerusercontent.com/images/4BEe4YSh86k7zdBwzjJbA0iYBoQ.png,framerusercontent.com/images/4BEe4YSh86k7zdBwzjJbA0iYBoQ.png?scale-down-to=2048 2048w,framerusercontent.com/images/4BEe4YSh86k7zdBwzjJbA0iYBoQ.png 2752w"
                                             }
                                         },
                                         psR9sMONP: {
@@ -5295,7 +5295,7 @@ var gl = {
                                                 pixelWidth: 2752,
                                                 sizes: `calc(max(${J?.width||"100vw"}, 1px) + 308px)`,
                                                 src: "framerusercontent.com/images/4BEe4YSh86k7zdBwzjJbA0iYBoQ.png",
-                                                srcSet: "framerusercontent.com/images/4BEe4YSh86k7zdBwzjJbA0iYBoQ.png?scale-down-to=512 512w,framerusercontent.com/images/4BEe4YSh86k7zdBwzjJbA0iYBoQ.png 1024w,framerusercontent.com/images/4BEe4YSh86k7zdBwzjJbA0iYBoQ.png?scale-down-to=2048 2048w,framerusercontent.com/images/4BEe4YSh86k7zdBwzjJbA0iYBoQ.png 2752w"
+                                                srcSet: "framerusercontent.com/images/4BEe4YSh86k7zdBwzjJbA0iYBoQ.png,framerusercontent.com/images/4BEe4YSh86k7zdBwzjJbA0iYBoQ.png,framerusercontent.com/images/4BEe4YSh86k7zdBwzjJbA0iYBoQ.png?scale-down-to=2048 2048w,framerusercontent.com/images/4BEe4YSh86k7zdBwzjJbA0iYBoQ.png 2752w"
                                             }
                                         },
                                         UV2xRCGJq: {
@@ -5308,7 +5308,7 @@ var gl = {
                                                 pixelWidth: 2752,
                                                 sizes: `calc(max(${J?.width||"100vw"}, 1px) + 308px)`,
                                                 src: "framerusercontent.com/images/4BEe4YSh86k7zdBwzjJbA0iYBoQ.png",
-                                                srcSet: "framerusercontent.com/images/4BEe4YSh86k7zdBwzjJbA0iYBoQ.png?scale-down-to=512 512w,framerusercontent.com/images/4BEe4YSh86k7zdBwzjJbA0iYBoQ.png 1024w,framerusercontent.com/images/4BEe4YSh86k7zdBwzjJbA0iYBoQ.png?scale-down-to=2048 2048w,framerusercontent.com/images/4BEe4YSh86k7zdBwzjJbA0iYBoQ.png 2752w"
+                                                srcSet: "framerusercontent.com/images/4BEe4YSh86k7zdBwzjJbA0iYBoQ.png,framerusercontent.com/images/4BEe4YSh86k7zdBwzjJbA0iYBoQ.png,framerusercontent.com/images/4BEe4YSh86k7zdBwzjJbA0iYBoQ.png?scale-down-to=2048 2048w,framerusercontent.com/images/4BEe4YSh86k7zdBwzjJbA0iYBoQ.png 2752w"
                                             }
                                         }
                                     }, f, v)
@@ -5939,7 +5939,7 @@ var Vl = {
                                         pixelWidth: 1200,
                                         sizes: "25px",
                                         src: "framerusercontent.com/images/1lmwHIIh3PZ4fXeN3OqC0f82d1Y.png",
-                                        srcSet: "framerusercontent.com/images/1lmwHIIh3PZ4fXeN3OqC0f82d1Y.png?scale-down-to=512 512w,framerusercontent.com/images/1lmwHIIh3PZ4fXeN3OqC0f82d1Y.png 1024w,framerusercontent.com/images/1lmwHIIh3PZ4fXeN3OqC0f82d1Y.png 1200w"
+                                        srcSet: "framerusercontent.com/images/1lmwHIIh3PZ4fXeN3OqC0f82d1Y.png,framerusercontent.com/images/1lmwHIIh3PZ4fXeN3OqC0f82d1Y.png,framerusercontent.com/images/1lmwHIIh3PZ4fXeN3OqC0f82d1Y.png 1200w"
                                     },
                                     className: "framer-1serq6x",
                                     "data-framer-name": "List Icon - 16px",
@@ -6264,7 +6264,7 @@ var Vl = {
                                         pixelWidth: 2e3,
                                         sizes: "25px",
                                         src: "framerusercontent.com/images/jIagZAWzSB3PX3Ec9gIJ3xDojRI.webp",
-                                        srcSet: "framerusercontent.com/images/jIagZAWzSB3PX3Ec9gIJ3xDojRI.webp?scale-down-to=512 512w,framerusercontent.com/images/jIagZAWzSB3PX3Ec9gIJ3xDojRI.webp 1024w,framerusercontent.com/images/jIagZAWzSB3PX3Ec9gIJ3xDojRI.webp 2000w"
+                                        srcSet: "framerusercontent.com/images/jIagZAWzSB3PX3Ec9gIJ3xDojRI.webp,framerusercontent.com/images/jIagZAWzSB3PX3Ec9gIJ3xDojRI.webp,framerusercontent.com/images/jIagZAWzSB3PX3Ec9gIJ3xDojRI.webp 2000w"
                                     },
                                     className: "framer-1lbzwe",
                                     "data-framer-name": "List Icon - 16px",
@@ -6434,7 +6434,7 @@ var Vl = {
                                         pixelWidth: 1580,
                                         sizes: "25px",
                                         src: "framerusercontent.com/images/a6ikJ0A9zazhlFHYseXWMNv8mLU.webp",
-                                        srcSet: "framerusercontent.com/images/a6ikJ0A9zazhlFHYseXWMNv8mLU.webp?scale-down-to=512 512w,framerusercontent.com/images/a6ikJ0A9zazhlFHYseXWMNv8mLU.webp 1024w,framerusercontent.com/images/a6ikJ0A9zazhlFHYseXWMNv8mLU.webp 1580w"
+                                        srcSet: "framerusercontent.com/images/a6ikJ0A9zazhlFHYseXWMNv8mLU.webp,framerusercontent.com/images/a6ikJ0A9zazhlFHYseXWMNv8mLU.webp,framerusercontent.com/images/a6ikJ0A9zazhlFHYseXWMNv8mLU.webp 1580w"
                                     },
                                     className: "framer-1royp8t",
                                     "data-framer-name": "List Icon - 16px",
@@ -6714,7 +6714,7 @@ var Jl = {
                                     pixelHeight: 600,
                                     pixelWidth: 581,
                                     sizes: "193.7805px",
-                                    src: "framerusercontent.com/images/7yPXqgN5zVMqDPAdumH2nNHEqA.png?scale-down-to=512",
+                                    src: "framerusercontent.com/images/7yPXqgN5zVMqDPAdumH2nNHEqA.png",
                                     srcSet: "framerusercontent.com/images/7yPXqgN5zVMqDPAdumH2nNHEqA.png 581w"
                                 },
                                 className: "framer-11h3m3y",
@@ -6745,7 +6745,7 @@ var Jl = {
                                     pixelHeight: 600,
                                     pixelWidth: 582,
                                     sizes: "168.4045px",
-                                    src: "framerusercontent.com/images/6f2PNopNgI4r0uuD3Qy0OHaIo.png?scale-down-to=512",
+                                    src: "framerusercontent.com/images/6f2PNopNgI4r0uuD3Qy0OHaIo.png",
                                     srcSet: "framerusercontent.com/images/6f2PNopNgI4r0uuD3Qy0OHaIo.png 582w"
                                 },
                                 className: "framer-1frn4w1",
@@ -6762,7 +6762,7 @@ var Jl = {
                                             pixelHeight: 600,
                                             pixelWidth: 582,
                                             sizes: "193.7805px",
-                                            src: "framerusercontent.com/images/6f2PNopNgI4r0uuD3Qy0OHaIo.png?scale-down-to=512",
+                                            src: "framerusercontent.com/images/6f2PNopNgI4r0uuD3Qy0OHaIo.png",
                                             srcSet: "framerusercontent.com/images/6f2PNopNgI4r0uuD3Qy0OHaIo.png 582w"
                                         }
                                     }
@@ -6776,7 +6776,7 @@ var Jl = {
                                     pixelHeight: 600,
                                     pixelWidth: 581,
                                     sizes: "168.4045px",
-                                    src: "framerusercontent.com/images/0y5aFbUwpkdQRaHuHBR4boIttM.png?scale-down-to=512",
+                                    src: "framerusercontent.com/images/0y5aFbUwpkdQRaHuHBR4boIttM.png",
                                     srcSet: "framerusercontent.com/images/0y5aFbUwpkdQRaHuHBR4boIttM.png 581w"
                                 },
                                 className: "framer-1g0w0kt",
@@ -8891,7 +8891,7 @@ var gc = {
                                             fit: "fill",
                                             sizes: "20px",
                                             src: "framerusercontent.com/images/8x3GXZvM56SbZnf1xk4RKZbyIU.jpg",
-                                            srcSet: "framerusercontent.com/images/8x3GXZvM56SbZnf1xk4RKZbyIU.jpg?scale-down-to=512 512w,framerusercontent.com/images/8x3GXZvM56SbZnf1xk4RKZbyIU.jpg 1024w,framerusercontent.com/images/8x3GXZvM56SbZnf1xk4RKZbyIU.jpg 2001w"
+                                            srcSet: "framerusercontent.com/images/8x3GXZvM56SbZnf1xk4RKZbyIU.jpg,framerusercontent.com/images/8x3GXZvM56SbZnf1xk4RKZbyIU.jpg,framerusercontent.com/images/8x3GXZvM56SbZnf1xk4RKZbyIU.jpg 2001w"
                                         },
                                         className: "framer-1g1i90o",
                                         "data-framer-name": "Rectangle 59",
@@ -9017,7 +9017,7 @@ var gc = {
                                                 fit: "fill",
                                                 sizes: "20px",
                                                 src: "framerusercontent.com/images/wcoWmtyRPAvNVcNEbqdpQUbvyDs.png",
-                                                srcSet: "framerusercontent.com/images/wcoWmtyRPAvNVcNEbqdpQUbvyDs.png?scale-down-to=512 512w,framerusercontent.com/images/wcoWmtyRPAvNVcNEbqdpQUbvyDs.png 640w"
+                                                srcSet: "framerusercontent.com/images/wcoWmtyRPAvNVcNEbqdpQUbvyDs.png,framerusercontent.com/images/wcoWmtyRPAvNVcNEbqdpQUbvyDs.png 640w"
                                             },
                                             className: "framer-wnpcg8",
                                             "data-framer-name": "Rectangle 59",
@@ -9058,7 +9058,7 @@ var gc = {
                                                         fit: "fill",
                                                         sizes: "20px",
                                                         src: "framerusercontent.com/images/8x3GXZvM56SbZnf1xk4RKZbyIU.jpg",
-                                                        srcSet: "framerusercontent.com/images/8x3GXZvM56SbZnf1xk4RKZbyIU.jpg?scale-down-to=512 512w,framerusercontent.com/images/8x3GXZvM56SbZnf1xk4RKZbyIU.jpg 1024w,framerusercontent.com/images/8x3GXZvM56SbZnf1xk4RKZbyIU.jpg 2001w"
+                                                        srcSet: "framerusercontent.com/images/8x3GXZvM56SbZnf1xk4RKZbyIU.jpg,framerusercontent.com/images/8x3GXZvM56SbZnf1xk4RKZbyIU.jpg,framerusercontent.com/images/8x3GXZvM56SbZnf1xk4RKZbyIU.jpg 2001w"
                                                     }
                                                 }
                                             }, f, v),
@@ -9601,7 +9601,7 @@ var gc = {
                                             pixelWidth: 768,
                                             sizes: "16px",
                                             src: "framerusercontent.com/images/WlF63v6MqAo2htPdPNm5VHYWTbE.png",
-                                            srcSet: "framerusercontent.com/images/WlF63v6MqAo2htPdPNm5VHYWTbE.png?scale-down-to=512 512w,framerusercontent.com/images/WlF63v6MqAo2htPdPNm5VHYWTbE.png 768w"
+                                            srcSet: "framerusercontent.com/images/WlF63v6MqAo2htPdPNm5VHYWTbE.png,framerusercontent.com/images/WlF63v6MqAo2htPdPNm5VHYWTbE.png 768w"
                                         },
                                         className: "framer-19gs3ht",
                                         "data-framer-name": "List Icon - 16px",
@@ -13989,7 +13989,7 @@ var Xc = {
                                                     pixelWidth: 1440,
                                                     sizes: "424px",
                                                     src: "framerusercontent.com/images/q7y0ZjAlnM9R9dJuo20OtPSTkQ.png",
-                                                    srcSet: "framerusercontent.com/images/q7y0ZjAlnM9R9dJuo20OtPSTkQ.png?scale-down-to=512 512w,framerusercontent.com/images/q7y0ZjAlnM9R9dJuo20OtPSTkQ.png 1024w,framerusercontent.com/images/q7y0ZjAlnM9R9dJuo20OtPSTkQ.png 1440w"
+                                                    srcSet: "framerusercontent.com/images/q7y0ZjAlnM9R9dJuo20OtPSTkQ.png,framerusercontent.com/images/q7y0ZjAlnM9R9dJuo20OtPSTkQ.png,framerusercontent.com/images/q7y0ZjAlnM9R9dJuo20OtPSTkQ.png 1440w"
                                                 }
                                             },
                                             YmJbUgJlH: {
@@ -14003,7 +14003,7 @@ var Xc = {
                                                     pixelWidth: 1440,
                                                     sizes: "min(min(min(100vw, 810px) - 144px, 1080px) - 40px, 960px)",
                                                     src: "framerusercontent.com/images/q7y0ZjAlnM9R9dJuo20OtPSTkQ.png",
-                                                    srcSet: "framerusercontent.com/images/q7y0ZjAlnM9R9dJuo20OtPSTkQ.png?scale-down-to=512 512w,framerusercontent.com/images/q7y0ZjAlnM9R9dJuo20OtPSTkQ.png 1024w,framerusercontent.com/images/q7y0ZjAlnM9R9dJuo20OtPSTkQ.png 1440w"
+                                                    srcSet: "framerusercontent.com/images/q7y0ZjAlnM9R9dJuo20OtPSTkQ.png,framerusercontent.com/images/q7y0ZjAlnM9R9dJuo20OtPSTkQ.png,framerusercontent.com/images/q7y0ZjAlnM9R9dJuo20OtPSTkQ.png 1440w"
                                                 }
                                             }
                                         },
@@ -14018,7 +14018,7 @@ var Xc = {
                                                 pixelWidth: 1440,
                                                 sizes: "min(min(100vw - 144px, 1080px) - 40px, 960px)",
                                                 src: "framerusercontent.com/images/q7y0ZjAlnM9R9dJuo20OtPSTkQ.png",
-                                                srcSet: "framerusercontent.com/images/q7y0ZjAlnM9R9dJuo20OtPSTkQ.png?scale-down-to=512 512w,framerusercontent.com/images/q7y0ZjAlnM9R9dJuo20OtPSTkQ.png 1024w,framerusercontent.com/images/q7y0ZjAlnM9R9dJuo20OtPSTkQ.png 1440w"
+                                                srcSet: "framerusercontent.com/images/q7y0ZjAlnM9R9dJuo20OtPSTkQ.png,framerusercontent.com/images/q7y0ZjAlnM9R9dJuo20OtPSTkQ.png,framerusercontent.com/images/q7y0ZjAlnM9R9dJuo20OtPSTkQ.png 1440w"
                                             },
                                             className: "framer-ok51z1",
                                             "data-border": !0,
@@ -14134,8 +14134,8 @@ var Xc = {
                                                             pixelHeight: 567,
                                                             pixelWidth: 884,
                                                             sizes: "304px",
-                                                            src: "framerusercontent.com/images/WE36rVD9UbKAgYZKC41YUs4PKpE.png?scale-down-to=512",
-                                                            srcSet: "framerusercontent.com/images/WE36rVD9UbKAgYZKC41YUs4PKpE.png?scale-down-to=512 512w,framerusercontent.com/images/WE36rVD9UbKAgYZKC41YUs4PKpE.png 884w"
+                                                            src: "framerusercontent.com/images/WE36rVD9UbKAgYZKC41YUs4PKpE.png",
+                                                            srcSet: "framerusercontent.com/images/WE36rVD9UbKAgYZKC41YUs4PKpE.png,framerusercontent.com/images/WE36rVD9UbKAgYZKC41YUs4PKpE.png 884w"
                                                         }
                                                     },
                                                     YmJbUgJlH: {
@@ -14148,8 +14148,8 @@ var Xc = {
                                                             pixelHeight: 567,
                                                             pixelWidth: 884,
                                                             sizes: "calc(max((min(min(100vw, 810px) - 144px, 1080px) - 24px) / 2, 1px) - 48px)",
-                                                            src: "framerusercontent.com/images/WE36rVD9UbKAgYZKC41YUs4PKpE.png?scale-down-to=512",
-                                                            srcSet: "framerusercontent.com/images/WE36rVD9UbKAgYZKC41YUs4PKpE.png?scale-down-to=512 512w,framerusercontent.com/images/WE36rVD9UbKAgYZKC41YUs4PKpE.png 884w"
+                                                            src: "framerusercontent.com/images/WE36rVD9UbKAgYZKC41YUs4PKpE.png",
+                                                            srcSet: "framerusercontent.com/images/WE36rVD9UbKAgYZKC41YUs4PKpE.png,framerusercontent.com/images/WE36rVD9UbKAgYZKC41YUs4PKpE.png 884w"
                                                         },
                                                         transformTemplate: void 0
                                                     }
@@ -14164,8 +14164,8 @@ var Xc = {
                                                         pixelHeight: 567,
                                                         pixelWidth: 884,
                                                         sizes: "321px",
-                                                        src: "framerusercontent.com/images/WE36rVD9UbKAgYZKC41YUs4PKpE.png?scale-down-to=512",
-                                                        srcSet: "framerusercontent.com/images/WE36rVD9UbKAgYZKC41YUs4PKpE.png?scale-down-to=512 512w,framerusercontent.com/images/WE36rVD9UbKAgYZKC41YUs4PKpE.png 884w"
+                                                        src: "framerusercontent.com/images/WE36rVD9UbKAgYZKC41YUs4PKpE.png",
+                                                        srcSet: "framerusercontent.com/images/WE36rVD9UbKAgYZKC41YUs4PKpE.png,framerusercontent.com/images/WE36rVD9UbKAgYZKC41YUs4PKpE.png 884w"
                                                     },
                                                     className: "framer-1lpl87p",
                                                     "data-border": !0,
@@ -15108,7 +15108,7 @@ var Xc = {
                                                                 positionY: "center",
                                                                 sizes: "251px",
                                                                 src: "framerusercontent.com/images/Ev5WadmW4zyn4acFgN2k6Q4rjU.png",
-                                                                srcSet: "framerusercontent.com/images/Ev5WadmW4zyn4acFgN2k6Q4rjU.png?scale-down-to=512 512w,framerusercontent.com/images/Ev5WadmW4zyn4acFgN2k6Q4rjU.png 1004w"
+                                                                srcSet: "framerusercontent.com/images/Ev5WadmW4zyn4acFgN2k6Q4rjU.png,framerusercontent.com/images/Ev5WadmW4zyn4acFgN2k6Q4rjU.png 1004w"
                                                             }
                                                         }
                                                     },
@@ -15121,7 +15121,7 @@ var Xc = {
                                                             positionY: "center",
                                                             sizes: "251px",
                                                             src: "framerusercontent.com/images/Ev5WadmW4zyn4acFgN2k6Q4rjU.png",
-                                                            srcSet: "framerusercontent.com/images/Ev5WadmW4zyn4acFgN2k6Q4rjU.png?scale-down-to=512 512w,framerusercontent.com/images/Ev5WadmW4zyn4acFgN2k6Q4rjU.png 1004w"
+                                                            srcSet: "framerusercontent.com/images/Ev5WadmW4zyn4acFgN2k6Q4rjU.png,framerusercontent.com/images/Ev5WadmW4zyn4acFgN2k6Q4rjU.png 1004w"
                                                         },
                                                         className: "framer-1o5xtmk",
                                                         "data-framer-name": "Ellipse 42",
@@ -15531,7 +15531,7 @@ var Xc = {
                                                                     positionY: "center",
                                                                     sizes: "251px",
                                                                     src: "framerusercontent.com/images/Ev5WadmW4zyn4acFgN2k6Q4rjU.png",
-                                                                    srcSet: "framerusercontent.com/images/Ev5WadmW4zyn4acFgN2k6Q4rjU.png?scale-down-to=512 512w,framerusercontent.com/images/Ev5WadmW4zyn4acFgN2k6Q4rjU.png 1004w"
+                                                                    srcSet: "framerusercontent.com/images/Ev5WadmW4zyn4acFgN2k6Q4rjU.png,framerusercontent.com/images/Ev5WadmW4zyn4acFgN2k6Q4rjU.png 1004w"
                                                                 }
                                                             }
                                                         },
@@ -15544,7 +15544,7 @@ var Xc = {
                                                                 positionY: "center",
                                                                 sizes: "251px",
                                                                 src: "framerusercontent.com/images/Ev5WadmW4zyn4acFgN2k6Q4rjU.png",
-                                                                srcSet: "framerusercontent.com/images/Ev5WadmW4zyn4acFgN2k6Q4rjU.png?scale-down-to=512 512w,framerusercontent.com/images/Ev5WadmW4zyn4acFgN2k6Q4rjU.png 1004w"
+                                                                srcSet: "framerusercontent.com/images/Ev5WadmW4zyn4acFgN2k6Q4rjU.png,framerusercontent.com/images/Ev5WadmW4zyn4acFgN2k6Q4rjU.png 1004w"
                                                             },
                                                             className: "framer-1dfk1pi",
                                                             "data-framer-name": "Ellipse 42",
@@ -15645,7 +15645,7 @@ var Xc = {
                                                 dCBD05S5i: "SEO Content Specialist",
                                                 dpZopdzBO: Zt({
                                                     src: "framerusercontent.com/images/S30A4EfRuCSEDmU4QM0cTNdjp0.jpg",
-                                                    srcSet: "framerusercontent.com/images/S30A4EfRuCSEDmU4QM0cTNdjp0.jpg?scale-down-to=512 512w,framerusercontent.com/images/S30A4EfRuCSEDmU4QM0cTNdjp0.jpg 1024w,framerusercontent.com/images/S30A4EfRuCSEDmU4QM0cTNdjp0.jpg 1210w"
+                                                    srcSet: "framerusercontent.com/images/S30A4EfRuCSEDmU4QM0cTNdjp0.jpg,framerusercontent.com/images/S30A4EfRuCSEDmU4QM0cTNdjp0.jpg,framerusercontent.com/images/S30A4EfRuCSEDmU4QM0cTNdjp0.jpg"
                                                 }, ""),
                                                 height: "100%",
                                                 i8QnBUaRb: `\u201CJust submitted another brief to my writers! Picked up the lifetime deal ! Thanks for an awesome app\u201D
@@ -15678,7 +15678,7 @@ var Xc = {
                                                 dCBD05S5i: "Founder of Right to Explain",
                                                 dpZopdzBO: Zt({
                                                     src: "framerusercontent.com/images/FYWfNnKhsHfXSivAWNyBp3vu6JI.jpg",
-                                                    srcSet: "framerusercontent.com/images/FYWfNnKhsHfXSivAWNyBp3vu6JI.jpg?scale-down-to=512 512w,framerusercontent.com/images/FYWfNnKhsHfXSivAWNyBp3vu6JI.jpg 1024w,framerusercontent.com/images/FYWfNnKhsHfXSivAWNyBp3vu6JI.jpg 2048w"
+                                                    srcSet: "framerusercontent.com/images/FYWfNnKhsHfXSivAWNyBp3vu6JI.jpg,framerusercontent.com/images/FYWfNnKhsHfXSivAWNyBp3vu6JI.jpg,framerusercontent.com/images/FYWfNnKhsHfXSivAWNyBp3vu6JI.jpg 2048w"
                                                 }, ""),
                                                 height: "100%",
                                                 i8QnBUaRb: `\u201CBlitzit is truly very impressive, so much so, that I can't believe you consider this as a Beta app. Very very helpful app, congratulations!"`,
@@ -16635,7 +16635,7 @@ var Xc = {
                                                                         fit: "fill",
                                                                         sizes: "27px",
                                                                         src: "framerusercontent.com/images/8x3GXZvM56SbZnf1xk4RKZbyIU.jpg",
-                                                                        srcSet: "framerusercontent.com/images/8x3GXZvM56SbZnf1xk4RKZbyIU.jpg?scale-down-to=512 512w,framerusercontent.com/images/8x3GXZvM56SbZnf1xk4RKZbyIU.jpg 1024w,framerusercontent.com/images/8x3GXZvM56SbZnf1xk4RKZbyIU.jpg 2001w"
+                                                                        srcSet: "framerusercontent.com/images/8x3GXZvM56SbZnf1xk4RKZbyIU.jpg,framerusercontent.com/images/8x3GXZvM56SbZnf1xk4RKZbyIU.jpg,framerusercontent.com/images/8x3GXZvM56SbZnf1xk4RKZbyIU.jpg 2001w"
                                                                     },
                                                                     className: "framer-duvpm9",
                                                                     "data-framer-name": "Rectangle 59",
@@ -17611,7 +17611,7 @@ var Xc = {
                                             pixelWidth: 5e3,
                                             sizes: "min(100vw - 40px, 1080px)",
                                             src: "framerusercontent.com/images/Ye2H4vwRdiOpi2bOG4cfjtdIcuA.jpg",
-                                            srcSet: "framerusercontent.com/images/Ye2H4vwRdiOpi2bOG4cfjtdIcuA.jpg?scale-down-to=512 512w,framerusercontent.com/images/Ye2H4vwRdiOpi2bOG4cfjtdIcuA.jpg 1024w,framerusercontent.com/images/Ye2H4vwRdiOpi2bOG4cfjtdIcuA.jpg?scale-down-to=2048 2048w,framerusercontent.com/images/Ye2H4vwRdiOpi2bOG4cfjtdIcuA.jpg?scale-down-to=4096 4096w,framerusercontent.com/images/Ye2H4vwRdiOpi2bOG4cfjtdIcuA.jpg 5000w"
+                                            srcSet: "framerusercontent.com/images/Ye2H4vwRdiOpi2bOG4cfjtdIcuA.jpg,framerusercontent.com/images/Ye2H4vwRdiOpi2bOG4cfjtdIcuA.jpg,framerusercontent.com/images/Ye2H4vwRdiOpi2bOG4cfjtdIcuA.jpg?scale-down-to=2048 2048w,framerusercontent.com/images/Ye2H4vwRdiOpi2bOG4cfjtdIcuA.jpg?scale-down-to=4096 4096w,framerusercontent.com/images/Ye2H4vwRdiOpi2bOG4cfjtdIcuA.jpg 5000w"
                                         }
                                     },
                                     YmJbUgJlH: {
@@ -17625,7 +17625,7 @@ var Xc = {
                                             pixelWidth: 5e3,
                                             sizes: "min(min(100vw, 810px) - 144px, 1080px)",
                                             src: "framerusercontent.com/images/Ye2H4vwRdiOpi2bOG4cfjtdIcuA.jpg",
-                                            srcSet: "framerusercontent.com/images/Ye2H4vwRdiOpi2bOG4cfjtdIcuA.jpg?scale-down-to=512 512w,framerusercontent.com/images/Ye2H4vwRdiOpi2bOG4cfjtdIcuA.jpg 1024w,framerusercontent.com/images/Ye2H4vwRdiOpi2bOG4cfjtdIcuA.jpg?scale-down-to=2048 2048w,framerusercontent.com/images/Ye2H4vwRdiOpi2bOG4cfjtdIcuA.jpg?scale-down-to=4096 4096w,framerusercontent.com/images/Ye2H4vwRdiOpi2bOG4cfjtdIcuA.jpg 5000w"
+                                            srcSet: "framerusercontent.com/images/Ye2H4vwRdiOpi2bOG4cfjtdIcuA.jpg,framerusercontent.com/images/Ye2H4vwRdiOpi2bOG4cfjtdIcuA.jpg,framerusercontent.com/images/Ye2H4vwRdiOpi2bOG4cfjtdIcuA.jpg?scale-down-to=2048 2048w,framerusercontent.com/images/Ye2H4vwRdiOpi2bOG4cfjtdIcuA.jpg?scale-down-to=4096 4096w,framerusercontent.com/images/Ye2H4vwRdiOpi2bOG4cfjtdIcuA.jpg 5000w"
                                         }
                                     }
                                 },
@@ -17640,7 +17640,7 @@ var Xc = {
                                         pixelWidth: 5e3,
                                         sizes: "min(100vw - 144px, 1080px)",
                                         src: "framerusercontent.com/images/Ye2H4vwRdiOpi2bOG4cfjtdIcuA.jpg",
-                                        srcSet: "framerusercontent.com/images/Ye2H4vwRdiOpi2bOG4cfjtdIcuA.jpg?scale-down-to=512 512w,framerusercontent.com/images/Ye2H4vwRdiOpi2bOG4cfjtdIcuA.jpg 1024w,framerusercontent.com/images/Ye2H4vwRdiOpi2bOG4cfjtdIcuA.jpg?scale-down-to=2048 2048w,framerusercontent.com/images/Ye2H4vwRdiOpi2bOG4cfjtdIcuA.jpg?scale-down-to=4096 4096w,framerusercontent.com/images/Ye2H4vwRdiOpi2bOG4cfjtdIcuA.jpg 5000w"
+                                        srcSet: "framerusercontent.com/images/Ye2H4vwRdiOpi2bOG4cfjtdIcuA.jpg,framerusercontent.com/images/Ye2H4vwRdiOpi2bOG4cfjtdIcuA.jpg,framerusercontent.com/images/Ye2H4vwRdiOpi2bOG4cfjtdIcuA.jpg?scale-down-to=2048 2048w,framerusercontent.com/images/Ye2H4vwRdiOpi2bOG4cfjtdIcuA.jpg?scale-down-to=4096 4096w,framerusercontent.com/images/Ye2H4vwRdiOpi2bOG4cfjtdIcuA.jpg 5000w"
                                     },
                                     className: "framer-1fvol5l",
                                     "data-framer-name": "Screen",
@@ -17692,7 +17692,7 @@ var Xc = {
                                                     fit: "fill",
                                                     sizes: "calc(min(100vw - 40px, 1080px) + 1207px)",
                                                     src: "framerusercontent.com/images/7oJaloBCBO7AbIQCRXlFS98To0c.png",
-                                                    srcSet: "framerusercontent.com/images/7oJaloBCBO7AbIQCRXlFS98To0c.png?scale-down-to=512 512w,framerusercontent.com/images/7oJaloBCBO7AbIQCRXlFS98To0c.png 1024w,framerusercontent.com/images/7oJaloBCBO7AbIQCRXlFS98To0c.png?scale-down-to=2048 2048w,framerusercontent.com/images/7oJaloBCBO7AbIQCRXlFS98To0c.png 3456w"
+                                                    srcSet: "framerusercontent.com/images/7oJaloBCBO7AbIQCRXlFS98To0c.png,framerusercontent.com/images/7oJaloBCBO7AbIQCRXlFS98To0c.png,framerusercontent.com/images/7oJaloBCBO7AbIQCRXlFS98To0c.png?scale-down-to=2048 2048w,framerusercontent.com/images/7oJaloBCBO7AbIQCRXlFS98To0c.png 3456w"
                                                 }
                                             },
                                             YmJbUgJlH: {
@@ -17702,7 +17702,7 @@ var Xc = {
                                                     loading: "lazy",
                                                     sizes: "calc(min(min(100vw, 810px) - 144px, 1080px) + 800.8243px)",
                                                     src: "framerusercontent.com/images/7oJaloBCBO7AbIQCRXlFS98To0c.png",
-                                                    srcSet: "framerusercontent.com/images/7oJaloBCBO7AbIQCRXlFS98To0c.png?scale-down-to=512 512w,framerusercontent.com/images/7oJaloBCBO7AbIQCRXlFS98To0c.png 1024w,framerusercontent.com/images/7oJaloBCBO7AbIQCRXlFS98To0c.png?scale-down-to=2048 2048w,framerusercontent.com/images/7oJaloBCBO7AbIQCRXlFS98To0c.png 3456w"
+                                                    srcSet: "framerusercontent.com/images/7oJaloBCBO7AbIQCRXlFS98To0c.png,framerusercontent.com/images/7oJaloBCBO7AbIQCRXlFS98To0c.png,framerusercontent.com/images/7oJaloBCBO7AbIQCRXlFS98To0c.png?scale-down-to=2048 2048w,framerusercontent.com/images/7oJaloBCBO7AbIQCRXlFS98To0c.png 3456w"
                                                 }
                                             }
                                         },
@@ -17713,7 +17713,7 @@ var Xc = {
                                                 loading: "lazy",
                                                 sizes: "min(100vw - 144px, 1080px)",
                                                 src: "framerusercontent.com/images/7oJaloBCBO7AbIQCRXlFS98To0c.png",
-                                                srcSet: "framerusercontent.com/images/7oJaloBCBO7AbIQCRXlFS98To0c.png?scale-down-to=512 512w,framerusercontent.com/images/7oJaloBCBO7AbIQCRXlFS98To0c.png 1024w,framerusercontent.com/images/7oJaloBCBO7AbIQCRXlFS98To0c.png?scale-down-to=2048 2048w,framerusercontent.com/images/7oJaloBCBO7AbIQCRXlFS98To0c.png 3456w"
+                                                srcSet: "framerusercontent.com/images/7oJaloBCBO7AbIQCRXlFS98To0c.png,framerusercontent.com/images/7oJaloBCBO7AbIQCRXlFS98To0c.png,framerusercontent.com/images/7oJaloBCBO7AbIQCRXlFS98To0c.png?scale-down-to=2048 2048w,framerusercontent.com/images/7oJaloBCBO7AbIQCRXlFS98To0c.png 3456w"
                                             },
                                             className: "framer-6ltpji",
                                             "data-framer-name": "Fade",
