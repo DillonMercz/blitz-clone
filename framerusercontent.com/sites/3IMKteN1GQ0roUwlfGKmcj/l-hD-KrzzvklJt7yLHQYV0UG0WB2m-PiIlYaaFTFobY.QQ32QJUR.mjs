@@ -15375,13 +15375,13 @@ var Xc = {
                                                                         style: {
                                                                             "--framer-text-color": "var(--token-948ff4cd-356f-425b-9ebb-c2f53a428975, rgb(133, 133, 133))"
                                                                         },
-                                                                        children: "Premium Community Access"
+                                                                        children: "Automatic Bet Tracking"
                                                                     })
                                                                 }),
                                                                 className: "framer-hk54fq",
-                                                                "data-framer-name": "Premium Community Access",
+                                                                "data-framer-name": "Automatic Bet Tracking",
                                                                 fonts: ["Inter"],
-                                                                name: "Premium Community Access",
+                                                                name: "Automatic Bet Tracking",
                                                                 verticalAlignment: "center",
                                                                 withExternalLayout: !0
                                                             })]
