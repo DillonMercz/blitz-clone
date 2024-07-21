@@ -100,65 +100,44 @@ body,
     box-sizing: border-box;
     -webkit-font-smoothing: inherit
 }
-.container {
-    width: 80%;
-    max-width: 1000px;
-    margin: 0 auto;
-    padding: 20px;
-}
-
-.header {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    margin-bottom: 20px;
-}
-
-.header h1 {
-    font-size: 2em;
-}
-
-.header p {
-    font-weight: bold;
-}
-
-.content {
-    display: flex;
-    justify-content: space-between;
-}
-
-.content ul {
-    list-style: none;
-    padding: 0;
-    margin: 0;
-}
-
-.content ul li {
-    margin-bottom: 10px;
-}
-
-.description {
-    width: 60%;
-}
-
-.description h2 {
-    font-size: 1.5em;
-    margin-bottom: 10px;
-}
-
-.description p {
-    line-height: 1.5;
-    margin-bottom: 10px;
-}
-
-.description button {
-    background-color: #00f;
-    color: #fff;
-    padding: 10px 20px;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-}
+        .card {
+            background-color: #1e1e1e;
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+            padding: 20px;
+            width: 300px;
+        }
+        .header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 20px;
+        }
+        h1 {
+            font-size: 24px;
+            margin: 0;
+            color: #ffffff;
+        }
+        .price {
+            font-size: 20px;
+            font-weight: bold;
+            color: #4CAF50;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+            margin: 0 0 20px 0;
+        }
+        li {
+            margin-bottom: 10px;
+        }
+        .description {
+            background-color: #2c2c2c;
+            padding: 10px;
+            border-radius: 4px;
+            font-size: 14px;
+            color: #b0b0b0;
+        }
 
 h1,
 h2,
@@ -27207,25 +27186,20 @@ document.addEventListener("DOMContentLoaded", function() {
             }
         });
         document.getElementById("addons").innerHTML= `
-            <div class="container">
+                <div class="card">
         <div class="header">
-            <h1>Addons</h1>
-            <p>$14.99</p>
+            <h1>ADDONS</h1>
+            <span class="price">$14.99</span>
         </div>
-        <div class="content">
-            <ul>
-                <li>Arbitrage Tools</li>
-                <li>Live Predictions</li>
-                <li>Advanced Bet Tracking Metrics</li>
-                <li>AutoBet</li>
-                <li>Player Props Predictions</li>
-            </ul>
-            <div class="description">
-                <h2>Why You Need This Addon</h2>
-                <p>Our addon is the swiss army knife of sports betting tools.  With features like arbitrage tools, live predictions, advanced bet tracking metrics, autobet, and player prop predictions, you’ll have everything you need to take your betting game to the next level.</p>
-                <p>Stop wasting time and missing out on profitable opportunities.  This addon is easy to use and affordable, and it’s a surefire way to improve your conversion rate.</p>
-                <button>Get the Addon Now!</button>
-            </div>
+        <ul>
+            <li>• Arbitrage Tools</li>
+            <li>• Live Predictions</li>
+            <li>• Advanced Bet Tracking Metrics</li>
+            <li>• AutoBet</li>
+            <li>• Player Props Predictions</li>
+        </ul>
+        <div class="description">
+            DESCRIPTION OF WHY THEY SHOULD GET THE ADDON
         </div>
     </div>
         `
