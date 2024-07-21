@@ -17739,7 +17739,7 @@ var Xc = {
                                                 "--framer-text-alignment": "center",
                                                 "--framer-text-color": "var(--token-600033ff-fcdd-4361-a34f-2d51d675bcd8, rgb(255, 255, 255))"
                                             },
-                                            children: "Time to remove distraction,"
+                                            children: "Time to remove emotions,"
                                         })
                                     }),
                                     className: "framer-19ypa0b",
@@ -17759,7 +17759,7 @@ var Xc = {
                                                     style: {
                                                         "--framer-text-alignment": "center"
                                                     },
-                                                    children: "Focus on what"
+                                                    children: "Start betting"
                                                 })
                                             })
                                         }
@@ -17773,7 +17773,7 @@ var Xc = {
                                                 style: {
                                                     "--framer-text-alignment": "center"
                                                 },
-                                                children: "Focus on what matters,"
+                                                children: "Start betting smarter,"
                                             })
                                         }),
                                         className: "framer-6p7khr",
@@ -17793,7 +17793,7 @@ var Xc = {
                                                     children: e("h1", {
                                                         className: "framer-styles-preset-1j55voi",
                                                         "data-styles-preset": "kAW4TEulK",
-                                                        children: "matters, and"
+                                                        children: "smarter, and"
                                                     })
                                                 })
                                             }
@@ -17825,7 +17825,7 @@ var Xc = {
                                                     style: {
                                                         backgroundImage: "linear-gradient(274deg, var(--token-ae08cd7b-e514-494f-b381-7169722e1c76, rgb(0, 255, 255)) 0%, var(--token-9f3826c5-17f9-4323-8d5c-b246baa048b6, rgb(255, 232, 114)) 100%)"
                                                     },
-                                                    children: "get things done."
+                                                    children: "start winning."
                                                 })
                                             })
                                         }),
