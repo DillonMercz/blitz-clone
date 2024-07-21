@@ -15254,14 +15254,14 @@ var Xc = {
                                                                             style: {
                                                                                 backgroundImage: "linear-gradient(91deg, var(--token-ae08cd7b-e514-494f-b381-7169722e1c76, rgb(0, 255, 255)) 0%, var(--token-9f3826c5-17f9-4323-8d5c-b246baa048b6, rgb(255, 232, 114)) 100%)"
                                                                             },
-                                                                            children: "Pay once, use forever"
+                                                                            children: "Access To All AI Predictions"
                                                                         })
                                                                     })
                                                                 }),
                                                                 className: "framer-o7os2f",
-                                                                "data-framer-name": "Pay once, use forever",
+                                                                "data-framer-name": "Access To All AI Predictions",
                                                                 fonts: ["Inter"],
-                                                                name: "Pay once, use forever",
+                                                                name: "Access To All AI Predictions",
                                                                 verticalAlignment: "center",
                                                                 withExternalLayout: !0
                                                             })]
