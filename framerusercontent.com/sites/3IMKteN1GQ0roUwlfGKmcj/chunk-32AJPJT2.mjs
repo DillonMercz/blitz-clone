@@ -13,7 +13,7 @@ function W(t, ...a) { let i = {}; return a?.forEach(n => n && Object.assign(i, t
 var ue = { delay: 0, duration: .3, ease: [.44, 0, .56, 1], type: "tween" },
     he = ({ value: t, children: a }) => {
         let i = A(b),
-            n = t ? ? i.transition,
+            n = t??i.transition,
             m = N(() => ({ ...i, transition: n }), [JSON.stringify(n)]);
         return e(b.Provider, { value: m, children: a })
     },
