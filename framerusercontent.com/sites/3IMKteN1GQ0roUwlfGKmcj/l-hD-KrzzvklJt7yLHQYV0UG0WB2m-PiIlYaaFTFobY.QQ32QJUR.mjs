@@ -15618,7 +15618,7 @@ var Xc = {
                                             style: {
                                                 "--framer-text-alignment": "left"
                                             },
-                                            children: "to stay in profit, make smarter bets and take back the edge from the books!"
+                                            children: "to stay in profit, make smarter bets and take back the edge!"
                                         })
                                     }),
                                     className: "framer-167iccq",
