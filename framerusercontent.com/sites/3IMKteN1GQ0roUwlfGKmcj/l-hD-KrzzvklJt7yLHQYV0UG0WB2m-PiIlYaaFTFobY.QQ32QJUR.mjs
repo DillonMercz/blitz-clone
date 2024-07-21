@@ -15397,6 +15397,7 @@ var Xc = {
                                                             className: "framer-1pvoxh7 framer-y5b48a",
                                                             "data-framer-name": "Banners/Promo",
                                                             name: "Banners/Promo",
+                                                            id: "addons",
                                                             children: s("div", {
                                                                 className: "framer-fqxnnr",
                                                                 "data-framer-name": "Info",
