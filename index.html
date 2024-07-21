@@ -100,6 +100,65 @@ body,
     box-sizing: border-box;
     -webkit-font-smoothing: inherit
 }
+.container {
+    width: 80%;
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.header h1 {
+    font-size: 2em;
+}
+
+.header p {
+    font-weight: bold;
+}
+
+.content {
+    display: flex;
+    justify-content: space-between;
+}
+
+.content ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.content ul li {
+    margin-bottom: 10px;
+}
+
+.description {
+    width: 60%;
+}
+
+.description h2 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+}
+
+.description p {
+    line-height: 1.5;
+    margin-bottom: 10px;
+}
+
+.description button {
+    background-color: #00f;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
 
 h1,
 h2,
@@ -27147,7 +27206,29 @@ document.addEventListener("DOMContentLoaded", function() {
                 dropdownMenu.classList.remove('show');
             }
         });
-
+        document.getElementById("addons").innerhtml= `
+            <div class="container">
+        <div class="header">
+            <h1>Addons</h1>
+            <p>$14.99</p>
+        </div>
+        <div class="content">
+            <ul>
+                <li>Arbitrage Tools</li>
+                <li>Live Predictions</li>
+                <li>Advanced Bet Tracking Metrics</li>
+                <li>AutoBet</li>
+                <li>Player Props Predictions</li>
+            </ul>
+            <div class="description">
+                <h2>Why You Need This Addon</h2>
+                <p>Our addon is the swiss army knife of sports betting tools.  With features like arbitrage tools, live predictions, advanced bet tracking metrics, autobet, and player prop predictions, you’ll have everything you need to take your betting game to the next level.</p>
+                <p>Stop wasting time and missing out on profitable opportunities.  This addon is easy to use and affordable, and it’s a surefire way to improve your conversion rate.</p>
+                <button>Get the Addon Now!</button>
+            </div>
+        </div>
+    </div>
+        `
 
             var images = [
                 { id: "pussy", src: "pussy.png" },
