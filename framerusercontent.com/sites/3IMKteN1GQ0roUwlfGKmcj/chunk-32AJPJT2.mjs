@@ -9,7 +9,7 @@ var ce = { mNxoq1oF3: { hover: !0 }, xKQjDSMu1: { hover: !0 } },
     me = "framer-24SxM",
     pe = { mNxoq1oF3: "framer-v-xdlaul", xKQjDSMu1: "framer-v-1prnrb8" };
 
-function W(t, ...a) { let i = {}; return a ? .forEach(n => n && Object.assign(i, t[n])), i }
+function W(t, ...a) { let i = {}; return a?.forEach(n => n && Object.assign(i, t[n])), i }
 var ue = { delay: 0, duration: .3, ease: [.44, 0, .56, 1], type: "tween" },
     he = ({ value: t, children: a }) => {
         let i = A(b),
