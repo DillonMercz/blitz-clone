@@ -27117,17 +27117,17 @@ document.addEventListener("DOMContentLoaded", function() {
         function updatePrice(price, plan) {
             if(plan == 1){
                 html = `
-                    <h2 id="price" style="color:white;font-size:32px" class="framer-text price-value"><strike>$34.99</strike>$${price}</h2>
+                    <h2 id="price" style="color:white;font-size:32px" class="framer-text"><strike>$34.99</strike>$${price}</h2>
             `;
         }
             else if(plan == 2){
                  html = `
-                    <h2 id="price" style="color:white;font-size:32px" class="framer-text price-value"><strike>$83.97</strike> $${price}</h2>
+                    <h2 id="price" style="color:white;font-size:32px" class="framer-text"><strike>$83.97</strike> $${price}</h2>
             `;
         }
             else if(plan == 3){
                  html = `
-                    <h2 id="price" style="color:white;font-size:32px" class="framer-text price-value"><strike>167.94</strike> $${price}</h2>
+                    <h2 id="price" style="color:white;font-size:32px" class="framer-text"><strike>$167.94</strike> $${price}</h2>
             `;
         }
             priceDisplay.innerHTML = html;
