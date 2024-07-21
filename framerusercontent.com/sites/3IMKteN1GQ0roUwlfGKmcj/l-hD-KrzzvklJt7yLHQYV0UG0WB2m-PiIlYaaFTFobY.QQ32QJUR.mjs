@@ -15008,13 +15008,13 @@ var Xc = {
                                                                     style: {
                                                                         "--framer-text-color": "var(--token-948ff4cd-356f-425b-9ebb-c2f53a428975, rgb(133, 133, 133))"
                                                                     },
-                                                                    children: "All Blitzit features"
+                                                                    children: "Live Scoreboards"
                                                                 })
                                                             }),
                                                             className: "framer-1nzlgcj",
-                                                            "data-framer-name": "All Blitzit features",
+                                                            "data-framer-name": "Live Scoreboards",
                                                             fonts: ["Inter"],
-                                                            name: "All Blitzit features",
+                                                            name: "Live Scoreboards",
                                                             verticalAlignment: "center",
                                                             withExternalLayout: !0
                                                         })]
@@ -15048,13 +15048,13 @@ var Xc = {
                                                                     style: {
                                                                         "--framer-text-color": "var(--token-948ff4cd-356f-425b-9ebb-c2f53a428975, rgb(133, 133, 133))"
                                                                     },
-                                                                    children: "Unlimited lists & tasks"
+                                                                    children: "Sports Betting Courses"
                                                                 })
                                                             }),
                                                             className: "framer-1ptjx8v",
-                                                            "data-framer-name": "All Blitzit features",
+                                                            "data-framer-name": "Live Scoreboards",
                                                             fonts: ["Inter"],
-                                                            name: "All Blitzit features",
+                                                            name: "Live Scoreboards",
                                                             verticalAlignment: "center",
                                                             withExternalLayout: !0
                                                         })]
@@ -15092,9 +15092,9 @@ var Xc = {
                                                                 })
                                                             }),
                                                             className: "framer-qf0sw3",
-                                                            "data-framer-name": "All Blitzit features",
+                                                            "data-framer-name": "Live Scoreboards",
                                                             fonts: ["Inter"],
-                                                            name: "All Blitzit features",
+                                                            name: "Live Scoreboards",
                                                             verticalAlignment: "center",
                                                             withExternalLayout: !0
                                                         })]
@@ -15295,13 +15295,13 @@ var Xc = {
                                                                         style: {
                                                                             "--framer-text-color": "var(--token-948ff4cd-356f-425b-9ebb-c2f53a428975, rgb(133, 133, 133))"
                                                                         },
-                                                                        children: "All Blitzit features"
+                                                                        children: "Live Scoreboards"
                                                                     })
                                                                 }),
                                                                 className: "framer-1wpqli6",
-                                                                "data-framer-name": "All Blitzit features",
+                                                                "data-framer-name": "Live Scoreboards",
                                                                 fonts: ["Inter"],
-                                                                name: "All Blitzit features",
+                                                                name: "Live Scoreboards",
                                                                 verticalAlignment: "center",
                                                                 withExternalLayout: !0
                                                             })]
@@ -15335,13 +15335,13 @@ var Xc = {
                                                                         style: {
                                                                             "--framer-text-color": "var(--token-948ff4cd-356f-425b-9ebb-c2f53a428975, rgb(133, 133, 133))"
                                                                         },
-                                                                        children: "Unlimited lists & tasks"
+                                                                        children: "Sports Betting Courses"
                                                                     })
                                                                 }),
                                                                 className: "framer-1oxhmsb",
-                                                                "data-framer-name": "All Blitzit features",
+                                                                "data-framer-name": "Live Scoreboards",
                                                                 fonts: ["Inter"],
-                                                                name: "All Blitzit features",
+                                                                name: "Live Scoreboards",
                                                                 verticalAlignment: "center",
                                                                 withExternalLayout: !0
                                                             })]
@@ -15375,13 +15375,13 @@ var Xc = {
                                                                         style: {
                                                                             "--framer-text-color": "var(--token-948ff4cd-356f-425b-9ebb-c2f53a428975, rgb(133, 133, 133))"
                                                                         },
-                                                                        children: "All future updates"
+                                                                        children: "Premium Community Access"
                                                                     })
                                                                 }),
                                                                 className: "framer-hk54fq",
-                                                                "data-framer-name": "All future updates",
+                                                                "data-framer-name": "Premium Community Access",
                                                                 fonts: ["Inter"],
-                                                                name: "All future updates",
+                                                                name: "Premium Community Access",
                                                                 verticalAlignment: "center",
                                                                 withExternalLayout: !0
                                                             })]
