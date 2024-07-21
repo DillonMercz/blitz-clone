@@ -15601,7 +15601,7 @@ var Xc = {
                                             children: e("h2", {
                                                 className: "framer-styles-preset-1m9bzi2",
                                                 "data-styles-preset": "stylesPresetHeading2",
-                                                children: "are already using Blitzit "
+                                                children: "are already using OVERDOG "
                                             })
                                         }),
                                         className: "framer-q5gr36",
@@ -15618,7 +15618,7 @@ var Xc = {
                                             style: {
                                                 "--framer-text-alignment": "left"
                                             },
-                                            children: "to stay super focused, crush more tasks and save hours of their time"
+                                            children: "to stay in profit, make smarter bets and take back the edge from the books!"
                                         })
                                     }),
                                     className: "framer-167iccq",
