@@ -27113,10 +27113,10 @@ document.addEventListener("DOMContentLoaded", function() {
         const dropdownToggle = document.querySelector('.dropdown-toggle');
         const dropdownMenu = document.querySelector('.dropdown-menu');
         const priceDisplay = document.getElementById('price');
-
+        var html
         function updatePrice(price, plan) {
             if(plan == 1){
-                const html = `
+                html = `
                 <div>
                     <span class="price-value"><strike>$34.99</strike>$${price}</span>
                     <span class="price-period">/month</span>
@@ -27125,7 +27125,7 @@ document.addEventListener("DOMContentLoaded", function() {
             `;
         }
             else if(plan == 2){
-                const html = `
+                 html = `
                 <div>
                     <span class="price-value"><strike>$83.97</strike> $${price}</span>
                     <span class="price-period">/month</span>
@@ -27134,7 +27134,7 @@ document.addEventListener("DOMContentLoaded", function() {
             `;
         }
             else if(plan == 3){
-                const html = `
+                 html = `
                 <div>
                     <span class="price-value"><strike>167.94</strike> $${price}</span>
                     <span class="price-period">/month</span>
