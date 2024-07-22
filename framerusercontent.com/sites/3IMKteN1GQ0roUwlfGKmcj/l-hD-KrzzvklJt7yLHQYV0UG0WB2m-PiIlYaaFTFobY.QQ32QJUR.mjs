@@ -15648,7 +15648,7 @@ var Xc = {
                                             children: e(Ar, {
                                                 dCBD05S5i: "Discord Member",
                                                 dpZopdzBO: Zt({
-                                                    src: "framerusercontent.com/images/S30A4EfRuCSEDmU4QM0cTNdjp0.jpg",
+                                                    src: "framerusercontent.com/images/S30A4EfRuCSEDmU4QM0cTNdjp0.png",
                                                     srcSet: "framerusercontent.com/images/S30A4EfRuCSEDmU4QM0cTNdjp0.jpg,framerusercontent.com/images/S30A4EfRuCSEDmU4QM0cTNdjp0.jpg,framerusercontent.com/images/S30A4EfRuCSEDmU4QM0cTNdjp0.jpg"
                                                 }, ""),
                                                 height: "100%",
@@ -15681,7 +15681,7 @@ var Xc = {
                                             children: e(Ar, {
                                                 dCBD05S5i: "Overdog User",
                                                 dpZopdzBO: Zt({
-                                                    src: "framerusercontent.com/images/FYWfNnKhsHfXSivAWNyBp3vu6JI.jpg",
+                                                    src: "framerusercontent.com/images/FYWfNnKhsHfXSivAWNyBp3vu6JI.png",
                                                     srcSet: "framerusercontent.com/images/FYWfNnKhsHfXSivAWNyBp3vu6JI.jpg,framerusercontent.com/images/FYWfNnKhsHfXSivAWNyBp3vu6JI.jpg,framerusercontent.com/images/FYWfNnKhsHfXSivAWNyBp3vu6JI.jpg 2048w"
                                                 }, ""),
                                                 height: "100%",
@@ -15713,7 +15713,7 @@ var Xc = {
                                             children: e(Ar, {
                                                 dCBD05S5i: "Overdog User ",
                                                 dpZopdzBO: Zt({
-                                                    src: "framerusercontent.com/images/GKSgoUxmZVGOFFfQAm4DTHl4Dks.jpg"
+                                                    src: "framerusercontent.com/images/GKSgoUxmZVGOFFfQAm4DTHl4Dks.png"
                                                 }, ""),
                                                 height: "100%",
                                                 i8QnBUaRb: `\u201COverdog AI has amazing player prop predictions, always super accurate, and helps build accurate 3-5 leg parlays! AI Game Winner predictions are nice to build a bankroll or do ladders with, giving winner and Over/Under Predictions, great 2 leg parlays! Overdog really is rewriting the rules like they say."`,
