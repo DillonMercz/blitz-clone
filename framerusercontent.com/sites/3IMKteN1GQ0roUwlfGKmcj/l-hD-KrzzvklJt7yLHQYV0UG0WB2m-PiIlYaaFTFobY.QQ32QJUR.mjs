@@ -15646,17 +15646,17 @@ var Xc = {
                                         children: e(N, {
                                             className: "framer-hcenvv-container",
                                             children: e(Ar, {
-                                                dCBD05S5i: "SEO Content Specialist",
+                                                dCBD05S5i: "Discord Member",
                                                 dpZopdzBO: Zt({
                                                     src: "framerusercontent.com/images/S30A4EfRuCSEDmU4QM0cTNdjp0.jpg",
                                                     srcSet: "framerusercontent.com/images/S30A4EfRuCSEDmU4QM0cTNdjp0.jpg,framerusercontent.com/images/S30A4EfRuCSEDmU4QM0cTNdjp0.jpg,framerusercontent.com/images/S30A4EfRuCSEDmU4QM0cTNdjp0.jpg"
                                                 }, ""),
                                                 height: "100%",
-                                                i8QnBUaRb: `\u201CJust submitted another brief to my writers! Picked up the lifetime deal ! Thanks for an awesome app\u201D
+                                                i8QnBUaRb: `\u201CGreat results 9/10. Insane accuracy with a $ back guarantee almost immediately\u201D
 `,
                                                 id: "E2EgaBOb2",
                                                 layoutId: "E2EgaBOb2",
-                                                MwnB2WtBN: "Dave Lin",
+                                                MwnB2WtBN: "KaashK9",
                                                 style: {
                                                     width: "100%"
                                                 },
@@ -15679,16 +15679,16 @@ var Xc = {
                                         children: e(N, {
                                             className: "framer-nftpv0-container",
                                             children: e(Ar, {
-                                                dCBD05S5i: "Founder of Right to Explain",
+                                                dCBD05S5i: "Overdog User",
                                                 dpZopdzBO: Zt({
                                                     src: "framerusercontent.com/images/FYWfNnKhsHfXSivAWNyBp3vu6JI.jpg",
                                                     srcSet: "framerusercontent.com/images/FYWfNnKhsHfXSivAWNyBp3vu6JI.jpg,framerusercontent.com/images/FYWfNnKhsHfXSivAWNyBp3vu6JI.jpg,framerusercontent.com/images/FYWfNnKhsHfXSivAWNyBp3vu6JI.jpg 2048w"
                                                 }, ""),
                                                 height: "100%",
-                                                i8QnBUaRb: `\u201CBlitzit is truly very impressive, so much so, that I can't believe you consider this as a Beta app. Very very helpful app, congratulations!"`,
+                                                i8QnBUaRb: `\u201C I have been sports betting for a few years now, I have tried pretty hard to make it as a second income in my life but it hasn't been too easy. I have been using Overdog for two months now and it has been a game changer for me. Arealdy on my first week I was profitable and have been building up since then. I really recommend this to someone who wants to make betting a second income and make a ton of money of it. It is basically free money"`,
                                                 id: "NVwdpXS2G",
                                                 layoutId: "NVwdpXS2G",
-                                                MwnB2WtBN: "Ni Willis",
+                                                MwnB2WtBN: "Tyler Fuentes",
                                                 style: {
                                                     width: "100%"
                                                 },
@@ -15705,21 +15705,22 @@ var Xc = {
                                         YmJbUgJlH: {
                                             width: "min(min(100vw, 810px) - 144px, 1080px)"
                                         }
+                                        
                                     },
                                     children: e(b, {
                                         width: "min(100vw - 144px, 1080px)",
                                         children: e(N, {
                                             className: "framer-awlm8n-container",
                                             children: e(Ar, {
-                                                dCBD05S5i: "Founder of La Mallette Biz ",
+                                                dCBD05S5i: "Overdog User",
                                                 dpZopdzBO: Zt({
                                                     src: "framerusercontent.com/images/GKSgoUxmZVGOFFfQAm4DTHl4Dks.jpg"
                                                 }, ""),
                                                 height: "100%",
-                                                i8QnBUaRb: `\u201CI've got ADHD and autism and this is the only thing that really works for me, it has gorgeous UI, and I can't wait to see what comes next!"`,
+                                                i8QnBUaRb: `\u201COverdog AI has amazing player prop predictions, always super accurate, and helps build accurate 3-5 leg parlays! AI Game Winner predictions are nice to build a bankroll or do ladders with, giving winner and Over/Under Predictions, great 2 leg parlays! Overdog really is rewriting the rules like they say."`,
                                                 id: "BJtXvJuXq",
                                                 layoutId: "BJtXvJuXq",
-                                                MwnB2WtBN: "Diane La Mallette",
+                                                MwnB2WtBN: "Jayce Reinhart",
                                                 style: {
                                                     width: "100%"
                                                 },
