@@ -15649,7 +15649,6 @@ var Xc = {
                                                 dCBD05S5i: "Discord Member",
                                                 dpZopdzBO: Zt({
                                                     src: "framerusercontent.com/images/S30A4EfRuCSEDmU4QM0cTNdjp0.jpg",
-                                                    srcSet: "framerusercontent.com/images/S30A4EfRuCSEDmU4QM0cTNdjp0.jpg,framerusercontent.com/images/S30A4EfRuCSEDmU4QM0cTNdjp0.jpg,framerusercontent.com/images/S30A4EfRuCSEDmU4QM0cTNdjp0.jpg"
                                                 }, ""),
                                                 height: "100%",
                                                 i8QnBUaRb: `\u201CGreat results 9/10. Insane accuracy with a $ back guarantee almost immediately\u201D
@@ -15705,7 +15704,7 @@ var Xc = {
                                         YmJbUgJlH: {
                                             width: "min(min(100vw, 810px) - 144px, 1080px)"
                                         }
-                                        
+
                                     },
                                     children: e(b, {
                                         width: "min(100vw - 144px, 1080px)",
