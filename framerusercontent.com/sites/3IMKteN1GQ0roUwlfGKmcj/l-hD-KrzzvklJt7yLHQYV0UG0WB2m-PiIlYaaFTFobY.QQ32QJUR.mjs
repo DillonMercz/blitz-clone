@@ -15648,7 +15648,7 @@ var Xc = {
                                             children: e(Ar, {
                                                 dCBD05S5i: "Discord Member",
                                                 dpZopdzBO: Zt({
-                                                    src: "framerusercontent.com/images/S30A4EfRuCSEDmU4QM0cTNdjp0.jpg",
+                                                    src: "framerusercontent.com/images/S30A4EfRuCSEDmU4QM0cTNdjp0.png",
                                                 }, ""),
                                                 height: "100%",
                                                 i8QnBUaRb: `\u201CGreat results 9/10. Insane accuracy with a $ back guarantee almost immediately\u201D
