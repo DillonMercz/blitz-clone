@@ -15680,11 +15680,10 @@ var Xc = {
                                             children: e(Ar, {
                                                 dCBD05S5i: "Overdog User",
                                                 dpZopdzBO: Zt({
-                                                    src: "framerusercontent.com/images/FYWfNnKhsHfXSivAWNyBp3vu6JI.jpg",
-                                                    srcSet: "framerusercontent.com/images/FYWfNnKhsHfXSivAWNyBp3vu6JI.jpg,framerusercontent.com/images/FYWfNnKhsHfXSivAWNyBp3vu6JI.jpg,framerusercontent.com/images/FYWfNnKhsHfXSivAWNyBp3vu6JI.jpg 2048w"
-                                                }, ""),
+                                                    src: "framerusercontent.com/images/FYWfNnKhsHfXSivAWNyBp3vu6JI.png",
+                                                   
                                                 height: "100%",
-                                                i8QnBUaRb: `\u201C I have been sports betting for a few years now, I have tried pretty hard to make it as a second income in my life but it hasn't been too easy. I have been using Overdog for two months now and it has been a game changer for me. Arealdy on my first week I was profitable and have been building up since then. I really recommend this to someone who wants to make betting a second income and make a ton of money of it. It is basically free money"`,
+                                                i8QnBUaRb: `\u201C"I have been sports betting for a few years now, and I've really tried to make it a second income in my life, but it hasn't been easy. I've been using Overdog for two months now, and it has been a game changer for me. I was profitable already in my first week and have been building up since then. I highly recommend it to anyone who wants to make betting a second income and earn a lot of money from it. It's basically free money."`,
                                                 id: "NVwdpXS2G",
                                                 layoutId: "NVwdpXS2G",
                                                 MwnB2WtBN: "Tyler Fuentes",
@@ -15713,7 +15712,7 @@ var Xc = {
                                             children: e(Ar, {
                                                 dCBD05S5i: "Overdog User",
                                                 dpZopdzBO: Zt({
-                                                    src: "framerusercontent.com/images/GKSgoUxmZVGOFFfQAm4DTHl4Dks.jpg"
+                                                    src: "framerusercontent.com/images/GKSgoUxmZVGOFFfQAm4DTHl4Dks.png"
                                                 }, ""),
                                                 height: "100%",
                                                 i8QnBUaRb: `\u201COverdog AI has amazing player prop predictions, always super accurate, and helps build accurate 3-5 leg parlays! AI Game Winner predictions are nice to build a bankroll or do ladders with, giving winner and Over/Under Predictions, great 2 leg parlays! Overdog really is rewriting the rules like they say."`,
