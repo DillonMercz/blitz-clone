@@ -15685,7 +15685,7 @@ var Xc = {
                                                     srcSet: "framerusercontent.com/images/FYWfNnKhsHfXSivAWNyBp3vu6JI.jpg,framerusercontent.com/images/FYWfNnKhsHfXSivAWNyBp3vu6JI.jpg,framerusercontent.com/images/FYWfNnKhsHfXSivAWNyBp3vu6JI.jpg 2048w"
                                                 }, ""),
                                                 height: "100%",
-                                                i8QnBUaRb: `\u201C I have been sports betting for a few years now, I have tried pretty hard to make it as a second income in my life but it hasn't been too easy. I have been using Overdog for two months now and it has been a game changer for me. Arealdy on my first week I was profitable and have been building up since then. I really recommend this to someone who wants to make betting a second income and make a ton of money of it. It is basically free money"`,
+                                                i8QnBUaRb: `\u201CI have been sports betting for a few years now, I have tried pretty hard to make it as a second income in my life but it hasn't been too easy. I have been using Overdog for two months now and it has been a game changer for me. Arealdy on my first week I was profitable and have been building up since then. I really recommend this to someone who wants to make betting a second income and make a ton of money of it. It is basically free money"`,
                                                 id: "NVwdpXS2G",
                                                 layoutId: "NVwdpXS2G",
                                                 MwnB2WtBN: "Tyler Fuentes",
