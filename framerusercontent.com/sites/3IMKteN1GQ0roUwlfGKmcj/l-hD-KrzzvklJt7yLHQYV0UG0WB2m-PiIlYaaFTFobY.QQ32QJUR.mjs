@@ -17989,7 +17989,6 @@ var Xc = {
                                                     "data-styles-preset": "G6DYQfZTL",
                                                     children: "Discord"
                                                 })
-                                            })
                                         })]
                                     }),
                                     className: "framer-1h9otdu",
