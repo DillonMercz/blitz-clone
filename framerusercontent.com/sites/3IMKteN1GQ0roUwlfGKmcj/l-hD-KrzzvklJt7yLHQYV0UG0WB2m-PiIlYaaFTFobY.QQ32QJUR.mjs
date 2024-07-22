@@ -15712,7 +15712,7 @@ var Xc = {
                                             children: e(Ar, {
                                                 dCBD05S5i: "Overdog User",
                                                 dpZopdzBO: Zt({
-                                                    src: "framerusercontent.com/images/GKSgoUxmZVGOFFfQAm4DTHl4Dks.6f2PNopNgI4r0uuD3Qy0OHaIo",
+                                                    src: "framerusercontent.com/images/GKSgoUxmZVGOFFfQAm4DTHl4Dks.png",
                                                 }, ""),
                                                 height: "100%",
                                                 i8QnBUaRb: `\u201COverdog AI has amazing player prop predictions, always super accurate, and helps build accurate 3-5 leg parlays! AI Game Winner predictions are nice to build a bankroll or do ladders with, giving winner and Over/Under Predictions, great 2 leg parlays! Overdog really is rewriting the rules like they say."`,
