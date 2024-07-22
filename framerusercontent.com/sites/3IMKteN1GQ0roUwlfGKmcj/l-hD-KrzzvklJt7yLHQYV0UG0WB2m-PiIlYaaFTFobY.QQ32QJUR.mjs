@@ -17990,7 +17990,6 @@ var Xc = {
                                                     children: "Discord"
                                                 })
                                             })
-                                            })]
                                         })]
                                     }),
                                     className: "framer-1h9otdu",
