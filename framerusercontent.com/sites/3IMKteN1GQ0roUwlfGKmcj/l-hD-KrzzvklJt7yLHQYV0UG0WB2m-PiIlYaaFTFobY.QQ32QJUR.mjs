@@ -5107,6 +5107,7 @@ var gl = {
                                 })
                             })]
                         }), e(t.div, {
+                            id="tabsBitch"
                             className: "framer-5ly0lu",
                             "data-border": !0,
                             "data-framer-name": "How it works?",
