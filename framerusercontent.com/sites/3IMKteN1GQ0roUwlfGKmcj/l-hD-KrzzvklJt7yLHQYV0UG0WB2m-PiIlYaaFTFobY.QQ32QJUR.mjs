@@ -17989,7 +17989,16 @@ var Xc = {
                                                     "data-styles-preset": "G6DYQfZTL",
                                                     children: "Discord"
                                                 })
-                                            }),
+                                            }), " / ", e(Ge, {
+                                                href: "https://www.facebook.com/groups/3563033377301367",
+                                                openInNewTab: !0,
+                                                smoothScroll: !1,
+                                                children: e("a", {
+                                                    className: "framer-styles-preset-snqoav",
+                                                    "data-styles-preset": "G6DYQfZTL",
+                                                    children: "Facebook"
+                                                })
+                                            })]
                                         })]
                                     }),
                                     className: "framer-1h9otdu",
