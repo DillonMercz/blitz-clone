@@ -15648,7 +15648,8 @@ var Xc = {
                                             children: e(Ar, {
                                                 dCBD05S5i: "Discord Member",
                                                 dpZopdzBO: Zt({
-                                                    src: "framerusercontent.com/images/S30A4EfRuCSEDmU4QM0cTNdjp0.png",
+                                                    src: "framerusercontent.com/images/S30A4EfRuCSEDmU4QM0cTNdjp0.jpg",
+                                                    srcSet: "framerusercontent.com/images/S30A4EfRuCSEDmU4QM0cTNdjp0.jpg,framerusercontent.com/images/S30A4EfRuCSEDmU4QM0cTNdjp0.jpg,framerusercontent.com/images/S30A4EfRuCSEDmU4QM0cTNdjp0.jpg"
                                                 }, ""),
                                                 height: "100%",
                                                 i8QnBUaRb: `\u201CGreat results 9/10. Insane accuracy with a $ back guarantee almost immediately\u201D
@@ -15680,8 +15681,9 @@ var Xc = {
                                             children: e(Ar, {
                                                 dCBD05S5i: "Overdog User",
                                                 dpZopdzBO: Zt({
-                                                    src: "framerusercontent.com/images/FYWfNnKhsHfXSivAWNyBp3vu6JI.png",
-                                                   
+                                                    src: "framerusercontent.com/images/FYWfNnKhsHfXSivAWNyBp3vu6JI.jpg",
+                                                    srcSet: "framerusercontent.com/images/FYWfNnKhsHfXSivAWNyBp3vu6JI.jpg,framerusercontent.com/images/FYWfNnKhsHfXSivAWNyBp3vu6JI.jpg,framerusercontent.com/images/FYWfNnKhsHfXSivAWNyBp3vu6JI.jpg 2048w"
+                                                }, ""),
                                                 height: "100%",
                                                 i8QnBUaRb: `\u201C I have been sports betting for a few years now, I have tried pretty hard to make it as a second income in my life but it hasn't been too easy. I have been using Overdog for two months now and it has been a game changer for me. Arealdy on my first week I was profitable and have been building up since then. I really recommend this to someone who wants to make betting a second income and make a ton of money of it. It is basically free money"`,
                                                 id: "NVwdpXS2G",
@@ -15703,14 +15705,13 @@ var Xc = {
                                         YmJbUgJlH: {
                                             width: "min(min(100vw, 810px) - 144px, 1080px)"
                                         }
-
                                     },
                                     children: e(b, {
                                         width: "min(100vw - 144px, 1080px)",
                                         children: e(N, {
                                             className: "framer-awlm8n-container",
                                             children: e(Ar, {
-                                                dCBD05S5i: "Overdog User",
+                                                dCBD05S5i: "Overdog User ",
                                                 dpZopdzBO: Zt({
                                                     src: "framerusercontent.com/images/GKSgoUxmZVGOFFfQAm4DTHl4Dks.jpg"
                                                 }, ""),
