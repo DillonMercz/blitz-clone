@@ -4897,6 +4897,7 @@ var gl = {
                     value: gl,
                     children: s(dl, {
                         ...x,
+                        id:"tabsBitch",
                         className: Q(hl, ...Se, "framer-3fdfdp", d, k),
                         "data-framer-name": "Step 1",
                         "data-highlight": !0,
