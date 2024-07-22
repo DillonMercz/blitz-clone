@@ -5251,8 +5251,7 @@ var gl = {
                                         pixelHeight: 48,
                                         pixelWidth: 2752,
                                         sizes: `calc(max(${J?.width||"100vw"}, 1px) + 1px)`,
-                                        src: "framerusercontent.com/images/4BEe4YSh86k7zdBwzjJbA0iYBoQ.png",
-                                        srcSet: "framerusercontent.com/images/4BEe4YSh86k7zdBwzjJbA0iYBoQ.png,framerusercontent.com/images/4BEe4YSh86k7zdBwzjJbA0iYBoQ.png,framerusercontent.com/images/4BEe4YSh86k7zdBwzjJbA0iYBoQ.png?scale-down-to=2048 2048w,framerusercontent.com/images/4BEe4YSh86k7zdBwzjJbA0iYBoQ.png 2752w"
+                                        src: "framerusercontent.com/images/4BEe4YSh86k7zdBwzjJbA0iYBoQ.png"
                                     },
                                     className: "framer-134p3el",
                                     "data-framer-name": "Menu_Bar",
@@ -5268,9 +5267,7 @@ var gl = {
                                                 pixelHeight: 48,
                                                 pixelWidth: 2752,
                                                 sizes: `calc(max(${J?.width||"100vw"}, 1px) + 308px)`,
-                                                src: "framerusercontent.com/images/4BEe4YSh86k7zdBwzjJbA0iYBoQ.png",
-                                                srcSet: "framerusercontent.com/images/4BEe4YSh86k7zdBwzjJbA0iYBoQ.png,framerusercontent.com/images/4BEe4YSh86k7zdBwzjJbA0iYBoQ.png,framerusercontent.com/images/4BEe4YSh86k7zdBwzjJbA0iYBoQ.png?scale-down-to=2048 2048w,framerusercontent.com/images/4BEe4YSh86k7zdBwzjJbA0iYBoQ.png 2752w"
-                                            }
+                                                src: "framerusercontent.com/images/4BEe4YSh86k7zdBwzjJbA0iYBoQ.png" }
                                         },
                                         l0DmQAMae: {
                                             background: {
@@ -17823,7 +17820,7 @@ var Xc = {
                                                     style: {
                                                         backgroundImage: "linear-gradient(274deg, var(--token-ae08cd7b-e514-494f-b381-7169722e1c76, rgb(0, 255, 255)) 0%, var(--token-9f3826c5-17f9-4323-8d5c-b246baa048b6, rgb(255, 232, 114)) 100%)"
                                                     },
-                                                    children: "start winning."
+                                                    children: "GET IN THE GREEN."
                                                 })
                                             })
                                         }),
