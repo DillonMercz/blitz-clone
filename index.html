@@ -1425,6 +1425,59 @@ body {
     size-adjust: 107.64%
 }
 
+        .tabs {
+            display: flex;
+            justify-content: center;
+            width: 100%;
+            max-width: 1000px;
+            background-color: #1E1E1E;
+            border-radius: 8px;
+            padding: 5px;
+            margin-bottom: 20px;
+        }
+        .tab {
+            padding: 10px 20px;
+            cursor: pointer;
+            position: relative;
+            background-color: transparent;
+            border: none;
+            color: #999999;
+            font-size: 14px;
+            transition: color 0.3s;
+        }
+        .tab:hover {
+            color: #ffffff;
+        }
+        .tab.active {
+            color: #ffffff;
+        }
+        .progress-bar {
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            height: 2px;
+            width: 0;
+            background-color: #3498db;
+            transition: width 0.1s linear;
+            display: none;
+        }
+        .tab.active .progress-bar {
+            display: block;
+        }
+        .content {
+            width: 100%;
+            max-width: 1000px;
+            height: 500px;
+            background-color: #1E1E1E;
+            border-radius: 8px;
+            overflow: hidden;
+        }
+        .content img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+
 [data-framer-component-type] {
     position: absolute
 }
@@ -27154,6 +27207,15 @@ document.addEventListener("DOMContentLoaded", function() {
             document.querySelector('.framer-text.framer-styles-preset-o3e5h0').innerHTML = "We're Not Just Ahead of The Game. <span style='color:#00ffcc'>We're Rewriting The Rules.</span>"
             document.getElementById("lottieHeader").innerHTML = '<lottie-player src="./header.json" background="transparent"  speed="1"  style="width: 100%; height: 100%;" loop autoplay></lottie-player>'
             document.getElementById("pussy3").innerHTML = `<center><img src="pussy3.png" style="width:70%"></center>`
+            document.getElementById('tabsBitch').innerHTML = `<div class="tabs">
+        <button class="tab active" data-tab="0">Intuitive Interface<div class="progress-bar"></div></button>
+        <button class="tab" data-tab="1">Variety of Sports and Bets<div class="progress-bar"></div></button>
+        <button class="tab" data-tab="2">Data Exploration Tools<div class="progress-bar"></div></button>
+        <button class="tab" data-tab="3">Sportsbook Connections and Autopilot Betting<div class="progress-bar"></div></button>
+    </div>
+    <div class="content">
+        <img src="/api/placeholder/1000/500" alt="Tab content">
+    </div>`
             document.getElementById("dropdown1").innerHTML = `    
             <h2 id="price" style="color:white;font-size:32px" class="framer-text"><strike>$34.99</strike> $27.99</h2>
             <div class="dropdown">
@@ -27223,6 +27285,7 @@ document.addEventListener("DOMContentLoaded", function() {
     </div>
         `
 
+
             var images = [
                 { id: "pussy", src: "pussy.png" },
                 { id: "pussy1", src: "pussy1.png" },
@@ -27244,6 +27307,62 @@ document.addEventListener("DOMContentLoaded", function() {
                     container.appendChild(imgElement);
                 }
             });
+             const tabs = document.querySelectorAll('.tab');
+        const content = document.querySelector('.content img');
+        const switchInterval = 15000; // 15 seconds
+        let currentTab = 0;
+        let currentAnimation;
+
+        const tabImages = [
+            "/api/placeholder/1000/500?text=Intuitive Interface",
+            "/api/placeholder/1000/500?text=Variety of Sports and Bets",
+            "/api/placeholder/1000/500?text=Data Exploration Tools",
+            "/api/placeholder/1000/500?text=Sportsbook Connections and Autopilot Betting"
+        ];
+
+        function switchTab(newTab) {
+            if (currentAnimation) {
+                clearInterval(currentAnimation);
+            }
+
+            tabs[currentTab].classList.remove('active');
+            tabs[currentTab].querySelector('.progress-bar').style.width = '0';
+            
+            currentTab = newTab;
+            
+            tabs[currentTab].classList.add('active');
+            content.src = tabImages[currentTab];
+            
+            animateProgressBar(tabs[currentTab].querySelector('.progress-bar'));
+        }
+
+        function animateProgressBar(progressBar) {
+            let width = 0;
+            const interval = 100; // Update every 100ms
+            const increment = (interval / switchInterval) * 100;
+
+            currentAnimation = setInterval(() => {
+                width += increment;
+                progressBar.style.width = `${width}%`;
+
+                if (width >= 100) {
+                    clearInterval(currentAnimation);
+                    switchTab((currentTab + 1) % tabs.length);
+                }
+            }, interval);
+        }
+
+        // Initial setup
+        content.src = tabImages[0];
+        animateProgressBar(tabs[0].querySelector('.progress-bar'));
+
+        // Allow manual tab switching
+        tabs.forEach((tab) => {
+            tab.addEventListener('click', () => {
+                const newTab = parseInt(tab.dataset.tab);
+                switchTab(newTab);
+            });
+        });
 
             //observer.observe(document.body, { childList: true, subtree: true }); // Reconnect observer
             document.getElementById("lottieHeader").innerHTML = '<lottie-player src="./header.json" background="transparent"  speed="1"  style="width: 100%; height: 100%;" loop autoplay></lottie-player>'
