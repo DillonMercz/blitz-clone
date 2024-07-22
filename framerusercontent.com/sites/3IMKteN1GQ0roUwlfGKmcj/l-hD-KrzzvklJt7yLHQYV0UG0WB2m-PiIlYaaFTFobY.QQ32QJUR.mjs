@@ -17981,7 +17981,7 @@ var Xc = {
                                                 "--framer-text-alignment": "center"
                                             },
                                             children: [e(Ge, {
-                                                href: "https://discord.gg/vfUbjUYw",
+                                                href: "https://eifhaha.r.af.d.sendibt2.com/tr/cl/2vDlry0i5JJ7Nr9jOh955uXtUsbOOuCTpdAitGUNmXiaT1-V_CN2YzVdzgRR8iSPizoSlfT2AnmPBY1Uta10Oc0K4NGxLPaBGGL9Vj3LfxLbkvLEaTPN0DVUKAo2naY_M1u7-WPpLRO4R5WDCWyHMoIWZaQ36bTGuBWS5ftPY90oiCQ2n8GMYTKeLMYpaapWc8dEe6Aww_5kxJWJR27pitEb3meurI6VSaHlc2f_2vKk0Yk",
                                                 openInNewTab: !0,
                                                 smoothScroll: !1,
                                                 children: e("a", {
@@ -17989,6 +17989,7 @@ var Xc = {
                                                     "data-styles-preset": "G6DYQfZTL",
                                                     children: "Discord"
                                                 })
+                                            }),
                                         })]
                                     }),
                                     className: "framer-1h9otdu",
