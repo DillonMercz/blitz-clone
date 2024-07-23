@@ -27439,9 +27439,17 @@ document.addEventListener("DOMContentLoaded", function() {
     observer.observe(document.body, { childList: true, subtree: true });
 });
 
-function updatePrice(id) {
-
+function handleScroll() {
+  const element = document.querySelector('.framer-poMwY');
+  
+  if (window.scrollY > 0) {
+    element.style.backgroundColor = '#2f2f2f';
+  } else {
+    element.style.backgroundColor = '';
+  }
 }
+
+window.addEventListener('scroll', handleScroll);
 </script>
 
 </html>
