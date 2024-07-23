@@ -10807,6 +10807,7 @@ var Xc = {
                 id: p ?? Be,
                 children: [s(t.div, {
                     ...x,
+                    id:"sidebar",
                     className: Q(Vi, ...Ce, "framer-1urlk82", d),
                     ref: a ?? R,
                     style: {
