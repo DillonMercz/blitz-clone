@@ -13376,7 +13376,7 @@ var Xc = {
                                                 children: e(N, {
                                                     className: "framer-1s6tgou-container",
                                                     children: e(ee, {
-                                                        G5_6KgrIr: "Share list copy",
+                                                        G5_6KgrIr: "Alerts",
                                                         height: "100%",
                                                         id: "dvmLXRuuJ",
                                                         layoutId: "dvmLXRuuJ",
