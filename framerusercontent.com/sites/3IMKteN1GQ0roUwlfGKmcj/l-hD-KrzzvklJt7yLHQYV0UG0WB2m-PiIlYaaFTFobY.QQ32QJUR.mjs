@@ -12344,8 +12344,8 @@ var Xc = {
                                             })]
                                         }), s("div", {
                                             className: "framer-1syvt14",
-                                            "data-framer-name": "Share list",
-                                            name: "Share list",
+                                            "data-framer-name": "Alerts",
+                                            name: "Alerts",
                                             children: [s("div", {
                                                 className: "framer-115j516",
                                                 "data-framer-name": "Frame 39",
@@ -13218,6 +13218,7 @@ var Xc = {
                                             "data-framer-name": "Share list",
                                             name: "Share list",
                                             children: [s("div", {
+                                                id:"pussy5",
                                                 className: "framer-7zbmbx",
                                                 "data-framer-name": "Frame 39",
                                                 name: "Frame 39",
@@ -13384,7 +13385,7 @@ var Xc = {
                                                         },
                                                         variant: "S3aSScL1o",
                                                         width: "100%",
-                                                        wwVYI0QI2: "Share a copy of your list to anyone so they can use it in their account"
+                                                        wwVYI0QI2: "Get instant reminders for changed odds, new AI predictions, wins and losses."
                                                     })
                                                 })
                                             })]
