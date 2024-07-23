@@ -13934,7 +13934,7 @@ var Xc = {
                                                 style: {
                                                     "--framer-text-alignment": "center"
                                                 },
-                                                children: "habits, "
+                                                children: "bets, "
                                             })
                                         }),
                                         className: "framer-22jf5z hidden-1urlk82",
