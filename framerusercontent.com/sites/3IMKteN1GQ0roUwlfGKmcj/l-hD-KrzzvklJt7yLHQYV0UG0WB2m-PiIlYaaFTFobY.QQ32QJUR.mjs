@@ -10960,7 +10960,6 @@ var Xc = {
                                                             type: "tween"
                                                         }
                                                     },
-                                                    id:"sidebar",
                                                     className: "framer-1qgp5m5",
                                                     "data-framer-portal-id": "1du68tz",
                                                     exit: {
@@ -10987,6 +10986,7 @@ var Xc = {
                                                         },
                                                         children: e(N, {
                                                             animate: da,
+                                                            id:"sidebar",
                                                             className: "framer-18jzzkj-container",
                                                             "data-framer-name": "Blitzit Sidebar",
                                                             "data-framer-portal-id": "1du68tz",
